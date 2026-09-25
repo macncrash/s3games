@@ -77,10 +77,10 @@ GIGaBOY and Hammer King are closed three.js prototypes in `~/dev/games/megaboy`.
 | 065 | s3parade | Reed | complete | Reach the square. Don't get hit. |
 | 066 | s3therm | Gale | complete | One envelope. The mark, not the trees. |
 | 067 | s3mosaic | Nock | complete | Slide the tiles. The picture has to complete. |
-| 068 | s3pouch | Reed | queued | The pouch crosses three streets. Drop it and the run is over. |
-| 069 | s3rickshaw | Gale | queued | One fare, three turns. Don't tip the cab. |
-| 070 | s3lantern | Nock | queued | Light the lamps in order. A miss hands one back to the dark. |
-| 071 | s3gauntlet | Reed | queued | The corridor, then the door. |
+| 068 | s3pouch | Reed | complete | The pouch crosses three streets. Drop it and the run is over. |
+| 069 | s3rickshaw | Gale | complete | One fare, three turns. Don't tip the cab. |
+| 070 | s3lantern | Nock | complete | Light the lamps in order. A miss hands one back to the dark. |
+| 071 | s3gauntlet | Reed | complete | The corridor, then the door. |
 | 072 | s3row | Gale | queued | Five hundred meters. Stay in the lane. |
 | 073 | s3oven | Nock | queued | Six loaves. Burn one and the morning fails. |
 | 074 | s3alley | Reed | queued | The narrow street. The far door. |

@@ -79,6 +79,10 @@ DESIGN = {
     "s3parade": "Reach the square. Getting hit is the fail. A high score that ends in the street is not a finish.",
     "s3therm": "One envelope. The mark is the landing and the trees are not. Time in the air is not the score.",
     "s3mosaic": "The picture has to complete. A pretty arrangement that is one tile off is not done.",
+    "s3pouch": "The pouch has to cross three streets. Dropping it ends the run, so a fast crossing that loses the bag is a loss.",
+    "s3rickshaw": "One fare, three turns, and the cab has to stay up. A tip ends the ride even if you made the turns.",
+    "s3lantern": "Light the lamps in order. A miss hands one back to the dark, so skipping ahead undoes the chain.",
+    "s3gauntlet": "The corridor, then the door. A high score that dies in the hall has not opened the door.",
 }
 
 
@@ -152,7 +156,7 @@ def main():
         if not design:
             raise SystemExit(f"missing design note for {slug}")
         game = ROOT / slug
-        if not (game / "src" / "main.cpp").is_file():
+        if not any((game / "src").rglob("*.cpp")):
             continue
         readme_path = game / "README.md"
         text = readme(slug, blurb, design)

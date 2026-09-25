@@ -31,7 +31,7 @@ pack_one() {
   fi
   name=$1
   game="$root/$name"
-  if [ ! -f "$game/src/main.cpp" ]; then
+  if ! find "$game/src" -name '*.cpp' | grep -q .; then
     echo "skip $name (no source)" >&2
     return 0
   fi
@@ -52,7 +52,7 @@ pack_one() {
 
 if [ "$all" = 1 ]; then
   for dir in "$root"/s3*; do
-    [ -f "$dir/src/main.cpp" ] || continue
+    find "$dir/src" -name '*.cpp' | grep -q . || continue
     [ -f "$dir/Makefile" ] || continue
     base=$(basename "$dir")
     case $base in
@@ -73,7 +73,7 @@ fi
   echo 'main{max-width:720px;margin:0 auto;padding:32px 20px}a{color:#ffc21a}li{margin:6px 0}</style></head><body><main>'
   echo '<h1>S3 games</h1><p>Each link opens that cartridge in the browser.</p><ol>'
   for dir in "$root"/s3*; do
-    [ -f "$dir/src/main.cpp" ] || continue
+    find "$dir/src" -name '*.cpp' | grep -q . || continue
     base=$(basename "$dir")
     [ "$base" = "s3" ] && continue
     echo "<li><a href=\"games/$base/\">$base</a> · <a href=\"play/$base/\">play</a></li>"
