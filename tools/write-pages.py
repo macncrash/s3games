@@ -91,6 +91,10 @@ DESIGN = {
     "s3bunker": "One room, one door. The room holding is the win, not the number you dropped outside it.",
     "s3combine": "One pass, and the header has to stay full. A fast pass that spills the header is a failed field.",
     "s3board": "Connect the calls before they drop. A line that rings and then falls does not count.",
+    "s3torpedo": "Two shots, and the target has to sink. A hit that does not sink it spends a shot. Both spent with the ship still up is a miss.",
+    "s3dune": "One water stop, and the engine must not boil. Reaching camp with a cooked engine is not a pass.",
+    "s3striker": "Three swings to ring the bell. A swing that looks close and does not ring is a miss, not a point.",
+    "s3eaves": "The far ladder is the win. A fall before it, however far you got, ends the crossing.",
 }
 
 

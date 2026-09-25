@@ -89,10 +89,10 @@ GIGaBOY and Hammer King are closed three.js prototypes in `~/dev/games/megaboy`.
 | 077 | s3bunker | Reed | complete | One room, one door. Hold it. |
 | 078 | s3combine | Gale | complete | One pass. The header stays full. |
 | 079 | s3board | Nock | complete | Connect the calls before they drop. |
-| 080 | s3torpedo | Reed | queued | Two shots. The target has to sink. |
-| 081 | s3dune | Gale | queued | One water stop. Don't boil the engine. |
-| 082 | s3striker | Nock | queued | Three swings. Ring the bell. |
-| 083 | s3eaves | Reed | queued | The far ladder. Don't fall. |
+| 080 | s3torpedo | Reed | complete | Two shots. The target has to sink. |
+| 081 | s3dune | Gale | complete | One water stop. Don't boil the engine. |
+| 082 | s3striker | Nock | complete | Three swings. Ring the bell. |
+| 083 | s3eaves | Reed | complete | The far ladder. Don't fall. |
 | 084 | s3logs | Gale | queued | The drive has to reach the boom. |
 | 085 | s3choir | Nock | queued | Three entries. They land together or the piece stops. |
 | 086 | s3militia | Reed | queued | Three waves. The well has to stand. |
