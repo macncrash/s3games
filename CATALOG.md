@@ -97,9 +97,9 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 085 | s3choir | Nock | complete | Three entries. They land together or the piece stops. |
 | 086 | s3militia | Reed | complete | Three waves. The well has to stand. |
 | 087 | s3dogsled | Gale | complete | The checkpoint. The team turns with you. |
-| 088 | s3shelve | Nock | queued | One cart. A book in the wrong row comes back. |
-| 089 | s3battery | Reed | queued | The road below. Stop the column. |
-| 090 | s3mail | Gale | queued | The box gets the paper. Don't miss the turn. |
+| 088 | s3shelve | Nock | complete | One cart. A book in the wrong row comes back. |
+| 089 | s3battery | Reed | complete | The road below. Stop the column. |
+| 090 | s3mail | Gale | complete | The box gets the paper. Don't miss the turn. |
 | 091 | s3solitaire | Nock | queued | One deal. Clear the tableau. |
 | 092 | s3breach | Reed | queued | The hall, then the banner. Bring it back. |
 | 093 | s3lock | Gale | queued | One lock. Don't hit the gates. |
