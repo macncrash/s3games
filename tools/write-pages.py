@@ -87,6 +87,10 @@ DESIGN = {
     "s3oven": "Six loaves, and a burned loaf fails the morning. Speed that ruins one loaf is not a finished bake.",
     "s3alley": "The far door is the win. Stumbling or falling behind in the street ends it short of that door.",
     "s3cable": "The tram has to stop level with the mark at each stop. Close is not level.",
+    "s3memory": "Match the table before the clock. A pair left over when time dies is not a cleared table.",
+    "s3bunker": "One room, one door. The room holding is the win, not the number you dropped outside it.",
+    "s3combine": "One pass, and the header has to stay full. A fast pass that spills the header is a failed field.",
+    "s3board": "Connect the calls before they drop. A line that rings and then falls does not count.",
 }
 
 

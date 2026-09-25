@@ -85,10 +85,10 @@ GIGaBOY and Hammer King are closed three.js prototypes in `~/dev/games/megaboy`.
 | 073 | s3oven | Nock | complete | Six loaves. Burn one and the morning fails. |
 | 074 | s3alley | Reed | complete | The narrow street. The far door. |
 | 075 | s3cable | Gale | complete | A hill tram. Stop level with the mark. |
-| 076 | s3memory | Nock | queued | Match the table before the clock. |
-| 077 | s3bunker | Reed | queued | One room, one door. Hold it. |
-| 078 | s3combine | Gale | queued | One pass. The header stays full. |
-| 079 | s3board | Nock | queued | Connect the calls before they drop. |
+| 076 | s3memory | Nock | complete | Match the table before the clock. |
+| 077 | s3bunker | Reed | complete | One room, one door. Hold it. |
+| 078 | s3combine | Gale | complete | One pass. The header stays full. |
+| 079 | s3board | Nock | complete | Connect the calls before they drop. |
 | 080 | s3torpedo | Reed | queued | Two shots. The target has to sink. |
 | 081 | s3dune | Gale | queued | One water stop. Don't boil the engine. |
 | 082 | s3striker | Nock | queued | Three swings. Ring the bell. |
