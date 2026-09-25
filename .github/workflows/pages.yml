@@ -1,6 +1,7 @@
 name: pages
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -9,9 +10,10 @@ permissions:
   pages: write
   id-token: write
 
+# A pack takes a while. A later cartridge commit must not kill it.
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   pack:
@@ -21,13 +23,13 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: macncrash/s3rally
-          path: s3rally
+          path: vendor/s3rally
       - uses: mymindstorm/setup-emsdk@v14
         with:
           version: 3.1.74
       - name: Pack every cartridge into one web file
         env:
-          S3_ENGINE: ${{ github.workspace }}/s3rally/src
+          S3_ENGINE: ${{ github.workspace }}/vendor/s3rally/src
         run: ./tools/make-web-asset.sh --all
       - uses: actions/upload-pages-artifact@v3
         with:

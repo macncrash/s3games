@@ -38,9 +38,11 @@ pack_one() {
   out="$root/web/play/$name"
   mkdir -p "$out" "$root/web/assets"
   engine=${S3_ENGINE:-$(CDPATH= cd "$root/../csys/s3rally/src" && pwd)}
+  # The cartridge's own headers must come first. The console tree also
+  # contains a rally game, and -I that tree first steals "game/art.h".
   srcs=$(find "$game/src" "$engine/console" -name '*.cpp' | sort)
   # shellcheck disable=SC2086
-  em++ -std=c++17 -O2 -I"$engine" -I"$game/src" -DS3_BUILD='"web"' -DS3_ORG='"s3games"' -DS3_PREF="\"$name\"" \
+  em++ -std=c++17 -O2 -I"$game/src" -I"$engine" -DS3_BUILD='"web"' -DS3_ORG='"s3games"' -DS3_PREF="\"$name\"" \
     -sUSE_SDL=2 -sALLOW_MEMORY_GROWTH=1 -sINITIAL_MEMORY=134217728 -sSTACK_SIZE=1048576 \
     -sENVIRONMENT=web -sSINGLE_FILE=1 --shell-file "$shell" \
     $srcs -o "$out/index.html"
@@ -50,10 +52,13 @@ pack_one() {
 
 if [ "$all" = 1 ]; then
   for dir in "$root"/s3*; do
-    [ -d "$dir/src" ] || continue
+    [ -f "$dir/src/main.cpp" ] || continue
+    [ -f "$dir/Makefile" ] || continue
     base=$(basename "$dir")
-    [ "$base" = "s3" ] && continue
-    pack_one "$base"
+    case $base in
+      s3|s3rally) continue ;;
+    esac
+    pack_one "$base" || echo "FAILED $base" >&2
   done
 elif [ "$index_only" = 0 ]; then
   pack_one "$slug"
@@ -71,11 +76,7 @@ fi
     [ -f "$dir/src/main.cpp" ] || continue
     base=$(basename "$dir")
     [ "$base" = "s3" ] && continue
-    if [ -f "$root/web/play/$base/index.html" ]; then
-      echo "<li><a href=\"play/$base/\">$base</a></li>"
-    else
-      echo "<li>$base</li>"
-    fi
+    echo "<li><a href=\"games/$base/\">$base</a> · <a href=\"play/$base/\">play</a></li>"
   done
   echo '</ol></main></body></html>'
 } > "$root/web/index.html"

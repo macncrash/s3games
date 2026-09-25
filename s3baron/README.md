@@ -1,3 +1,9 @@
+Play it in the browser: https://macncrash.github.io/s3games/play/s3baron/
+
+## Design
+
+The sight stays on the horizon and the guns are on the wings, so you lead the kite instead of the sprite under your nose. A plane that gets past comes around as the same debt, and the red one is only the last appointment.
+
 # S3 BARON
 
 A Western Front dogfight on the S3-16. You fly a scout from a chase view,

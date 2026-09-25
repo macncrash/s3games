@@ -1,3 +1,9 @@
+Play it in the browser: https://macncrash.github.io/s3games/play/s3trap/
+
+## Design
+
+Pitch holds the donut and power holds the ball, which is how a real carrier pass is flown. There is no flare. The 3-wire is the aim, and the later sites reuse that same pass on a shorter, meaner deck.
+
 # S3 TRAP
 
 Land the Hook. The first site is a carrier at dusk. Pitch holds angle of

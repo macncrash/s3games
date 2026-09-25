@@ -16,7 +16,9 @@ S3_ENGINE="$PWD/../../s3rally/src" make
 
 The index is [web/index.html](web/index.html). On GitHub Pages that page is [macncrash.github.io/s3games](https://macncrash.github.io/s3games/).
 
-Each link opens one cartridge. The page is a single file: script, wasm, and shell packed together. Build one with Emscripten:
+Each game has its own page. The page says what the game is and why it is shaped that way, and it links straight at that game's browser build. For pins, the page is [s3pins](s3pins/README.md) and the build is [play/s3pins](https://macncrash.github.io/s3games/play/s3pins/).
+
+The build is one file: script, wasm, and shell packed together. Build one with Emscripten:
 
 ```bash
 ./tools/make-web-asset.sh s3pins
