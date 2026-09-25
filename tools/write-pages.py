@@ -83,6 +83,10 @@ DESIGN = {
     "s3rickshaw": "One fare, three turns, and the cab has to stay up. A tip ends the ride even if you made the turns.",
     "s3lantern": "Light the lamps in order. A miss hands one back to the dark, so skipping ahead undoes the chain.",
     "s3gauntlet": "The corridor, then the door. A high score that dies in the hall has not opened the door.",
+    "s3row": "Five hundred meters, and you have to still be in the lane. A fast time out of the lane does not count.",
+    "s3oven": "Six loaves, and a burned loaf fails the morning. Speed that ruins one loaf is not a finished bake.",
+    "s3alley": "The far door is the win. Stumbling or falling behind in the street ends it short of that door.",
+    "s3cable": "The tram has to stop level with the mark at each stop. Close is not level.",
 }
 
 
