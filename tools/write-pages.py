@@ -99,6 +99,9 @@ DESIGN = {
     "s3choir": "Three entries have to land together. One voice arriving late stops the piece.",
     "s3militia": "Three waves, and the well has to stand. Clearing the field while the well falls is a loss.",
     "s3dogsled": "The checkpoint is the win, and the team turns with you. A spill ends the run even if the lantern is lit.",
+    "s3shelve": "A book in the wrong row comes back, and the third return loses the cart. The win is an empty cart, not a pile of books you managed to keep.",
+    "s3battery": "The column is the target and the gate is the fail. A gun still firing after a truck has passed has already lost.",
+    "s3mail": "The paper has to land in the box, and the turn has to be made. A fast street that misses either one is not a finished route.",
 }
 
 
