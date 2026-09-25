@@ -69,10 +69,10 @@ GIGaBOY and Hammer King are closed three.js prototypes in `~/dev/games/megaboy`.
 | 057 | s3mower | Gale | complete | Cut the field before the rain. The stripes are the score. |
 | 058 | s3keys | Nock | complete | One song. Miss five and the tune dies. |
 | 059 | s3span | Reed | complete | Hold the span until the column is across. |
-| 060 | s3luge | Gale | queued | One ice chute. Stay off the walls. |
-| 061 | s3juggle | Nock | queued | Three in the air for a minute. |
-| 062 | s3depot | Reed | queued | Clear the yard. |
-| 063 | s3barge | Gale | queued | Enter the lock, rise, leave without scraping. |
+| 060 | s3luge | Gale | complete | One ice chute. Stay off the walls. |
+| 061 | s3juggle | Nock | complete | Three in the air for a minute. |
+| 062 | s3depot | Reed | complete | Clear the yard. |
+| 063 | s3barge | Gale | complete | Enter the lock, rise, leave without scraping. |
 | 064 | s3safe | Nock | queued | Three dials. The room has the numbers. |
 | 065 | s3parade | Reed | queued | Reach the square. Don't get hit. |
 | 066 | s3therm | Gale | queued | One envelope. The mark, not the trees. |
