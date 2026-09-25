@@ -73,10 +73,10 @@ GIGaBOY and Hammer King are closed three.js prototypes in `~/dev/games/megaboy`.
 | 061 | s3juggle | Nock | complete | Three in the air for a minute. |
 | 062 | s3depot | Reed | complete | Clear the yard. |
 | 063 | s3barge | Gale | complete | Enter the lock, rise, leave without scraping. |
-| 064 | s3safe | Nock | queued | Three dials. The room has the numbers. |
-| 065 | s3parade | Reed | queued | Reach the square. Don't get hit. |
-| 066 | s3therm | Gale | queued | One envelope. The mark, not the trees. |
-| 067 | s3mosaic | Nock | queued | Slide the tiles. The picture has to complete. |
+| 064 | s3safe | Nock | complete | Three dials. The room has the numbers. |
+| 065 | s3parade | Reed | complete | Reach the square. Don't get hit. |
+| 066 | s3therm | Gale | complete | One envelope. The mark, not the trees. |
+| 067 | s3mosaic | Nock | complete | Slide the tiles. The picture has to complete. |
 | 068 | s3pouch | Reed | queued | The pouch crosses three streets. Drop it and the run is over. |
 | 069 | s3rickshaw | Gale | queued | One fare, three turns. Don't tip the cab. |
 | 070 | s3lantern | Nock | queued | Light the lamps in order. A miss hands one back to the dark. |
