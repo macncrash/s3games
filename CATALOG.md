@@ -4,7 +4,7 @@ One thousand cartridges on the S3-16. A title is not approved until its packet i
 
 House owns the rally cartridge. Its source stays in `~/dev/csys/s3rally`. Nobody moves it. Rally is already signed and does not go back through the board.
 
-GIGaBOY and Hammer King are closed three.js prototypes in `~/dev/games/megaboy`. They are not rows on this slate.
+GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3gigaboy/BRIEF.md`. Gale builds `s3gigaboy` from it. Hammer King stays a closed three.js prototype in `~/dev/games/megaboy` and is not a row.
 
 `s3ash` is Ash Year, the terrace we wrote, played on this console. It is the first cartridge in this folder. It is not a row in the thousand below, and it is not signed. The living world it was written beside stays in its own repo.
 
@@ -93,10 +93,10 @@ GIGaBOY and Hammer King are closed three.js prototypes in `~/dev/games/megaboy`.
 | 081 | s3dune | Gale | complete | One water stop. Don't boil the engine. |
 | 082 | s3striker | Nock | complete | Three swings. Ring the bell. |
 | 083 | s3eaves | Reed | complete | The far ladder. Don't fall. |
-| 084 | s3logs | Gale | queued | The drive has to reach the boom. |
-| 085 | s3choir | Nock | queued | Three entries. They land together or the piece stops. |
-| 086 | s3militia | Reed | queued | Three waves. The well has to stand. |
-| 087 | s3dogsled | Gale | queued | The checkpoint. The team turns with you. |
+| 084 | s3logs | Gale | complete | The drive has to reach the boom. |
+| 085 | s3choir | Nock | complete | Three entries. They land together or the piece stops. |
+| 086 | s3militia | Reed | complete | Three waves. The well has to stand. |
+| 087 | s3dogsled | Gale | complete | The checkpoint. The team turns with you. |
 | 088 | s3shelve | Nock | queued | One cart. A book in the wrong row comes back. |
 | 089 | s3battery | Reed | queued | The road below. Stop the column. |
 | 090 | s3mail | Gale | queued | The box gets the paper. Don't miss the turn. |

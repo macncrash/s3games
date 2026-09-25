@@ -95,6 +95,10 @@ DESIGN = {
     "s3dune": "One water stop, and the engine must not boil. Reaching camp with a cooked engine is not a pass.",
     "s3striker": "Three swings to ring the bell. A swing that looks close and does not ring is a miss, not a point.",
     "s3eaves": "The far ladder is the win. A fall before it, however far you got, ends the crossing.",
+    "s3logs": "The drive has to reach the boom. Sticks left in the river are an unfinished drive.",
+    "s3choir": "Three entries have to land together. One voice arriving late stops the piece.",
+    "s3militia": "Three waves, and the well has to stand. Clearing the field while the well falls is a loss.",
+    "s3dogsled": "The checkpoint is the win, and the team turns with you. A spill ends the run even if the lantern is lit.",
 }
 
 
