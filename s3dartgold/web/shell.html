@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>S3 DART GOLD</title>
+<style>
+  :root { --bg: #14110c; --line: #3a3224; --ink: #f3ecdf; --dim: #b5a88f; --sun: #e2b23a; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); font: 14px/1.5 ui-monospace, Menlo, monospace; }
+  body { display: flex; flex-direction: column; align-items: center; gap: 14px; padding: 16px; }
+  .screen { position: relative; width: min(100%, calc((100vh - 120px) * 4 / 3), 1280px); aspect-ratio: 4 / 3; background: #000;
+    border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  canvas { display: block; width: 100% !important; height: 100% !important; outline: none; image-rendering: pixelated; }
+  .overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
+    background: rgba(0,0,0,.78); cursor: pointer; text-align: center; }
+  .overlay b { font-size: 26px; letter-spacing: 6px; color: var(--sun); }
+  .overlay span { color: var(--dim); }
+  .keys { color: var(--dim); text-align: center; max-width: 960px; }
+  kbd { background: #2d2a24; border: 1px solid #4a4336; border-bottom-width: 2px; border-radius: 4px; padding: 0 5px; color: var(--ink); }
+</style>
+</head>
+<body>
+  <div class="screen">
+    <canvas id="canvas" tabindex="-1" oncontextmenu="event.preventDefault()"></canvas>
+    <div class="overlay" id="overlay">
+      <b id="status">LOADING…</b>
+      <span id="hint">downloading the cartridge</span>
+    </div>
+  </div>
+  <div class="keys">
+    <kbd>←</kbd><kbd>→</kbd><kbd>↑</kbd><kbd>↓</kbd> aim · <kbd>Z</kbd><kbd>C</kbd><kbd>Space</kbd> throw ·
+    <kbd>Enter</kbd> start/pause · <kbd>F11</kbd> fullscreen · gamepads work too
+  </div>
+<script>
+  const overlay = document.getElementById('overlay');
+  const statusEl = document.getElementById('status');
+  const hint = document.getElementById('hint');
+  const canvas = document.getElementById('canvas');
+  const gameKeys = new Set(['Tab', 'Space', 'ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'Enter', 'Backspace']);
+  window.addEventListener('keydown', (e) => { if (gameKeys.has(e.code)) e.preventDefault(); });
+  var Module = {
+    canvas,
+    print: (t) => console.log(t),
+    printErr: (t) => console.warn(t),
+    setStatus: (t) => { if (t) hint.textContent = t.replace(/\(.*\)/, ''); },
+    onRuntimeInitialized: () => {
+      statusEl.textContent = 'CLICK TO PLAY';
+      hint.textContent = 'sound starts on click';
+      overlay.addEventListener('click', () => { overlay.style.display = 'none'; canvas.focus(); }, { once: true });
+    },
+  };
+</script>
+{{{ SCRIPT }}}
+</body>
+</html>
