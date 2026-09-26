@@ -146,6 +146,10 @@ DESIGN = {
     "s3skiffmark": "Set down on the mark ahead of the other crew. Close to the mark, or late, fails the leg.",
     "s3puttchime": "The hour has to chime. A holed putt before the hour is not this cartridge.",
     "s3gatecler": "Clear the ground before the clock dies. A clean yard after the clock is already over.",
+    "s3skiffturn": "Three bends without tipping. A heel that puts the skiff over fails the creek even if you made the turns.",
+    "s3putttape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
+    "s3ridgereli": "Hold the ridge until the relief bell, then haul the rope. Surviving the watch and missing the bell is not relief.",
+    "s3gliderbuoy": "Round the buoys and set down on the same dock ahead of the other crew. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
