@@ -192,10 +192,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 180 | s3tugboatlock | Gale | complete | Take the tugboat and pass the lock without scraping a gate. The clock is the other crew. |
 | 181 | s3eightseven | Nock | complete | Play eight until first to seven. Leave when that is true. |
 | 182 | s3depotpurs | Reed | complete | One depot. Be the last machine still running. Then it is done. |
-| 183 | s3tugboatgrass | Gale | queued | The tugboat has one job: land on the grass and come to a full stop. |
-| 184 | s3eightbell | Nock | queued | Eight: the bell rings before the third try dies. That is the whole cartridge. |
-| 185 | s3depotwell | Reed | queued | At the depot, you keep the well standing through three waves. Miss that and the watch is over. |
-| 186 | s3tugboatkilo | Gale | queued | In the tugboat, you finish the kilometer without touching wheels. Missing the end fails the leg. |
+| 183 | s3tugboatgrass | Gale | complete | The tugboat has one job: land on the grass and come to a full stop. |
+| 184 | s3eightbell | Nock | complete | Eight: the bell rings before the third try dies. That is the whole cartridge. |
+| 185 | s3depotwell | Reed | complete | At the depot, you keep the well standing through three waves. Miss that and the watch is over. |
+| 186 | s3tugboatkilo | Gale | complete | In the tugboat, you finish the kilometer without touching wheels. Missing the end fails the leg. |
 | 187 | s3eightchime | Nock | queued | A short eight. You are done when the hour has to chime. |
 | 188 | s3depotpace | Reed | queued | You have the depot. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 189 | s3tugboatpass | Gale | queued | Take the tugboat and clear the pass before the storm clock. The clock is the other crew. |
