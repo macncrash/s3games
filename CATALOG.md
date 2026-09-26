@@ -172,10 +172,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 160 | s3curlgold | Nock | complete | Curl: only the gold counts double. That is the whole cartridge. |
 | 161 | s3ridgedoor | Reed | complete | At the ridge, you hold the door for three minutes. Miss that and the watch is over. |
 | 162 | s3gliderplat | Gale | complete | In the glider, you stop level with the platform. Missing the end fails the leg. |
-| 163 | s3curlseven | Nock | queued | A short curl. You are done when first to seven. |
-| 164 | s3ridgepouc | Reed | queued | You have the ridge. The job is to carry the pouch across. Anything else is a loss. |
-| 165 | s3gliderlane | Gale | queued | Take the glider and stay in the lane for the whole leg. The clock is the other crew. |
-| 166 | s3curlbell | Nock | queued | Play curl until the bell rings before the third try dies. Leave when that is true. |
+| 163 | s3curlseven | Nock | complete | A short curl. You are done when first to seven. |
+| 164 | s3ridgepouc | Reed | complete | You have the ridge. The job is to carry the pouch across. Anything else is a loss. |
+| 165 | s3gliderlane | Gale | complete | Take the glider and stay in the lane for the whole leg. The clock is the other crew. |
+| 166 | s3curlbell | Nock | complete | Play curl until the bell rings before the third try dies. Leave when that is true. |
 | 167 | s3ridgeladd | Reed | queued | One ridge. Reach the far ladder. Then it is done. |
 | 168 | s3glidermark | Gale | queued | The glider has one job: set down on the mark. |
 | 169 | s3curlchime | Nock | queued | Curl: the hour has to chime. That is the whole cartridge. |
