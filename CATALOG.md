@@ -144,10 +144,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 132 | s3skiffmark | Gale | complete | Take the skiff and set down on the mark. The clock is the other crew. |
 | 133 | s3puttchime | Nock | complete | A short putt. You are done when the hour has to chime. |
 | 134 | s3gatecler | Reed | complete | One gate. Clear the ground before the clock dies. Then it is done. |
-| 135 | s3skiffturn | Gale | queued | The skiff has one job: make the three turns without tipping. |
-| 136 | s3putttape | Nock | queued | Play putt until the drawer has to match the tape. Leave when that is true. |
-| 137 | s3ridgereli | Reed | queued | You have the ridge. The job is to hold until the relief bell. Anything else is a loss. |
-| 138 | s3gliderbuoy | Gale | queued | Take the glider and round the buoys and return to the same dock. The clock is the other crew. |
+| 135 | s3skiffturn | Gale | complete | The skiff has one job: make the three turns without tipping. |
+| 136 | s3putttape | Nock | complete | Play putt until the drawer has to match the tape. Leave when that is true. |
+| 137 | s3ridgereli | Reed | complete | You have the ridge. The job is to hold until the relief bell. Anything else is a loss. |
+| 138 | s3gliderbuoy | Gale | complete | Take the glider and round the buoys and return to the same dock. The clock is the other crew. |
 | 139 | s3dartmark | Nock | queued | A short dart. You are done when a finished mark ends it. |
 | 140 | s3ridgecolu | Reed | queued | One ridge. Stop the column on the road. Then it is done. |
 | 141 | s3gliderbox | Gale | queued | The glider has one job: stop inside the box. |
