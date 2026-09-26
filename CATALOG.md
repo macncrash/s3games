@@ -136,10 +136,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 124 | s3puttgold | Nock | complete | A short putt. You are done when only the gold counts double. |
 | 125 | s3gatedoor | Reed | complete | One gate. Hold the door for three minutes. Then it is done. |
 | 126 | s3skiffplat | Gale | complete | The skiff has one job: stop level with the platform. |
-| 127 | s3puttseven | Nock | queued | Play putt until first to seven. Leave when that is true. |
-| 128 | s3gatepouc | Reed | queued | At the gate, you carry the pouch across. Miss that and the watch is over. |
-| 129 | s3skifflane | Gale | queued | In the skiff, you stay in the lane for the whole leg. Missing the end fails the leg. |
-| 130 | s3puttbell | Nock | queued | Putt: the bell rings before the third try dies. That is the whole cartridge. |
+| 127 | s3puttseven | Nock | complete | Play putt until first to seven. Leave when that is true. |
+| 128 | s3gatepouc | Reed | complete | At the gate, you carry the pouch across. Miss that and the watch is over. |
+| 129 | s3skifflane | Gale | complete | In the skiff, you stay in the lane for the whole leg. Missing the end fails the leg. |
+| 130 | s3puttbell | Nock | complete | Putt: the bell rings before the third try dies. That is the whole cartridge. |
 | 131 | s3gateladd | Reed | queued | You have the gate. The job is to reach the far ladder. Anything else is a loss. |
 | 132 | s3skiffmark | Gale | queued | Take the skiff and set down on the mark. The clock is the other crew. |
 | 133 | s3puttchime | Nock | queued | A short putt. You are done when the hour has to chime. |
