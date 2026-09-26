@@ -250,6 +250,10 @@ DESIGN = {
     "s3yardpouc": "The pouch has to cross the yard. Reaching the far side without it ends the watch.",
     "s3sledlane": "Stay in the lane for the whole leg. Leaving the lane fails it even if you reach the gate.",
     "s3wicketbell": "Three bowls at one wicket. The bell has to ring before the third try dies.",
+    "s3yardladd": "The far ladder is the job. Stopping short of it is a loss.",
+    "s3sledmark": "Set down on the mark ahead of the other crew. Close to the mark, or late, fails the leg.",
+    "s3wicketchime": "The hour has to chime. A ball before the hour is not this cartridge.",
+    "s3yardcler": "Clear the ground before the clock dies. A clean yard after the clock is already over.",
 }
 
 
