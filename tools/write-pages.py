@@ -254,6 +254,10 @@ DESIGN = {
     "s3sledmark": "Set down on the mark ahead of the other crew. Close to the mark, or late, fails the leg.",
     "s3wicketchime": "The hour has to chime. A ball before the hour is not this cartridge.",
     "s3yardcler": "Clear the ground before the clock dies. A clean yard after the clock is already over.",
+    "s3sledturn": "Three hooks without tipping. Rolling the basket too far fails the run even if you made the turns.",
+    "s3wickettape": "The drawer has to match the tape, then you leave. A score that does not match the tape is still open.",
+    "s3spanreli": "Hold the span until the relief bell, then haul it. Surviving the watch and missing the bell is not relief.",
+    "s3ferrybuoy": "Round the buoys to port and stop in the same slip ahead of the other crew. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
