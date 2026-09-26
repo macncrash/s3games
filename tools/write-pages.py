@@ -194,6 +194,10 @@ DESIGN = {
     "s3tugboatlock": "Pass the lock without scraping a gate, ahead of the other crew. A scrape fails the pass even if you made it through.",
     "s3eightseven": "First to seven balls, then leave. The 8 stays on the spot. A six that looks close is still short.",
     "s3depotpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the depot.",
+    "s3tugboatgrass": "Land on the grass and come to a full stop. A touch that keeps rolling fails the leg.",
+    "s3eightbell": "Three strokes at the eight. The bell has to ring before the third try dies.",
+    "s3depotwell": "The well has to stand through three waves. A breach is a loss even if you are still at the depot.",
+    "s3tugboatkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
 }
 
 
