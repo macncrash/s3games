@@ -248,10 +248,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 236 | s3yardpouc | Reed | complete | At the yard, you carry the pouch across. Miss that and the watch is over. |
 | 237 | s3sledlane | Gale | complete | In the sled, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 238 | s3wicketbell | Nock | complete | Wicket: the bell rings before the third try dies. That is the whole cartridge. |
-| 239 | s3yardladd | Reed | queued | You have the yard. The job is to reach the far ladder. Anything else is a loss. |
-| 240 | s3sledmark | Gale | queued | Take the sled and set down on the mark. The clock is the other crew. |
-| 241 | s3wicketchime | Nock | queued | A short wicket. You are done when the hour has to chime. |
-| 242 | s3yardcler | Reed | queued | One yard. Clear the ground before the clock dies. Then it is done. |
+| 239 | s3yardladd | Reed | complete | You have the yard. The job is to reach the far ladder. Anything else is a loss. |
+| 240 | s3sledmark | Gale | complete | Take the sled and set down on the mark. The clock is the other crew. |
+| 241 | s3wicketchime | Nock | complete | A short wicket. You are done when the hour has to chime. |
+| 242 | s3yardcler | Reed | complete | One yard. Clear the ground before the clock dies. Then it is done. |
 | 243 | s3sledturn | Gale | queued | The sled has one job: make the three turns without tipping. |
 | 244 | s3wickettape | Nock | queued | Play wicket until the drawer has to match the tape. Leave when that is true. |
 | 245 | s3spanreli | Reed | queued | You have the span. The job is to hold until the relief bell. Anything else is a loss. |
