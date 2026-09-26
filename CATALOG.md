@@ -164,10 +164,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 152 | s3ridgepace | Reed | complete | At the ridge, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 153 | s3gliderpass | Gale | complete | In the glider, you clear the pass before the storm clock. Missing the end fails the leg. |
 | 154 | s3darttape | Nock | complete | Dart: the drawer has to match the tape. That is the whole cartridge. |
-| 155 | s3ridgemaga | Reed | queued | You have the ridge. The job is to make the magazine last longer than the raid. Anything else is a loss. |
-| 156 | s3gliderslip | Gale | queued | Take the glider and berth in the slip before the tide turns. The clock is the other crew. |
-| 157 | s3curlmark | Nock | queued | Play curl until a finished mark ends it. Leave when that is true. |
-| 158 | s3ridgedawn | Reed | queued | One ridge. Keep the flares lit until dawn. Then it is done. |
+| 155 | s3ridgemaga | Reed | complete | You have the ridge. The job is to make the magazine last longer than the raid. Anything else is a loss. |
+| 156 | s3gliderslip | Gale | complete | Take the glider and berth in the slip before the tide turns. The clock is the other crew. |
+| 157 | s3curlmark | Nock | complete | Play curl until a finished mark ends it. Leave when that is true. |
+| 158 | s3ridgedawn | Reed | complete | One ridge. Keep the flares lit until dawn. Then it is done. |
 | 159 | s3gliderboom | Gale | queued | The glider has one job: deliver the drive to the boom. |
 | 160 | s3curlgold | Nock | queued | Curl: only the gold counts double. That is the whole cartridge. |
 | 161 | s3ridgedoor | Reed | queued | At the ridge, you hold the door for three minutes. Miss that and the watch is over. |
