@@ -182,6 +182,10 @@ DESIGN = {
     "s3glidermark": "The wheel has to be on the mark. Close to the mark is still off it.",
     "s3curlchime": "The hour has to chime. A scored stone before the hour is not this cartridge.",
     "s3ridgecler": "Clear the ground before the clock dies. A clean yard after the clock is already over.",
+    "s3gliderturn": "Three turns without tipping. A bank that puts the glider over fails the leg.",
+    "s3curltape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
+    "s3depotreli": "Hold the depot until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3tugboatbuoy": "Round the buoys to port and stop in the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
