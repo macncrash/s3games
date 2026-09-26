@@ -156,10 +156,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 144 | s3gliderlock | Gale | complete | In the glider, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 145 | s3dartseven | Nock | complete | Dart: first to seven. That is the whole cartridge. |
 | 146 | s3ridgepurs | Reed | complete | You have the ridge. The job is to be the last machine still running. Anything else is a loss. |
-| 147 | s3glidergrass | Gale | queued | Take the glider and land on the grass and come to a full stop. The clock is the other crew. |
-| 148 | s3dartbell | Nock | queued | A short dart. You are done when the bell rings before the third try dies. |
-| 149 | s3ridgewell | Reed | queued | One ridge. Keep the well standing through three waves. Then it is done. |
-| 150 | s3gliderkilo | Gale | queued | The glider has one job: finish the kilometer without touching wheels. |
+| 147 | s3glidergrass | Gale | complete | Take the glider and land on the grass and come to a full stop. The clock is the other crew. |
+| 148 | s3dartbell | Nock | complete | A short dart. You are done when the bell rings before the third try dies. |
+| 149 | s3ridgewell | Reed | complete | One ridge. Keep the well standing through three waves. Then it is done. |
+| 150 | s3gliderkilo | Gale | complete | The glider has one job: finish the kilometer without touching wheels. |
 | 151 | s3dartchime | Nock | queued | Play dart until the hour has to chime. Leave when that is true. |
 | 152 | s3ridgepace | Reed | queued | At the ridge, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 153 | s3gliderpass | Gale | queued | In the glider, you clear the pass before the storm clock. Missing the end fails the leg. |
