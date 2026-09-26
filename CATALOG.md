@@ -116,10 +116,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 104 | s3gatecolu | Reed | complete | You have the gate. The job is to stop the column on the road. Anything else is a loss. |
 | 105 | s3skiffbox | Gale | complete | Take the skiff and stop inside the box. The clock is the other crew. |
 | 106 | s3pinsgold | Nock | complete | Pins: only the gold counts double. That is the whole cartridge. |
-| 107 | s3gatebann | Reed | queued | One gate. Bring the banner back. Then it is done. |
-| 108 | s3skifflock | Gale | queued | The skiff has one job: pass the lock without scraping a gate. |
-| 109 | s3pinsseven | Nock | queued | A short pins. You are done when first to seven. |
-| 110 | s3gatepurs | Reed | queued | At the gate, you be the last machine still running. Miss that and the watch is over. |
+| 107 | s3gatebann | Reed | complete | One gate. Bring the banner back. Then it is done. |
+| 108 | s3skifflock | Gale | complete | The skiff has one job: pass the lock without scraping a gate. |
+| 109 | s3pinsseven | Nock | complete | A short pins. You are done when first to seven. |
+| 110 | s3gatepurs | Reed | complete | At the gate, you be the last machine still running. Miss that and the watch is over. |
 | 111 | s3skiffgrass | Gale | queued | In the skiff, you land on the grass and come to a full stop. Missing the end fails the leg. |
 | 112 | s3pinsbell | Nock | queued | Play pins until the bell rings before the third try dies. Leave when that is true. |
 | 113 | s3gatewell | Reed | queued | You have the gate. The job is to keep the well standing through three waves. Anything else is a loss. |
