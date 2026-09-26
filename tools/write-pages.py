@@ -102,6 +102,10 @@ DESIGN = {
     "s3shelve": "A book in the wrong row comes back, and the third return loses the cart. The win is an empty cart, not a pile of books you managed to keep.",
     "s3battery": "The column is the target and the gate is the fail. A gun still firing after a truck has passed has already lost.",
     "s3mail": "The paper has to land in the box, and the turn has to be made. A fast street that misses either one is not a finished route.",
+    "s3solitaire": "One deal, face up, aces through sevens. Build down red on black and send them home in suit. A second shuffle is not this game.",
+    "s3breach": "The banner has to come back through the door you broke. Reaching it and dying in the hall is not a rescue.",
+    "s3lock": "One lock, and the gates are the fail. Making the height while scraping a leaf is not a clear pass.",
+    "s3beds": "The sun on the wall is the deadline. Six beds watered after that are the same as beds left dry.",
 }
 
 
