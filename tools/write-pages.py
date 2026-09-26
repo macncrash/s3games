@@ -230,6 +230,10 @@ DESIGN = {
     "s3sledlock": "Pass the lock without scraping a gate. A scrape fails the run even if you made it through.",
     "s3hoopseven": "First to seven. A leave that looks close and is still under seven is not the game.",
     "s3yardpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the yard.",
+    "s3sledgrass": "Land on the grass and come to a full stop. A touch that keeps rolling fails the leg.",
+    "s3hoopbell": "Three tries at one rim. The bell has to ring before the third try dies.",
+    "s3yardwell": "The well has to stand through three waves. A breach is a loss even if you are still in the yard.",
+    "s3sledkilo": "Finish the kilometer without touching a wheel, with time left on the other crew's clock. A scrape spends the run even if you make the distance.",
 }
 
 
