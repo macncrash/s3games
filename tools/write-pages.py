@@ -242,6 +242,10 @@ DESIGN = {
     "s3sledslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
     "s3wicketmark": "The gold coin is the bowler's mark. Hitting the wicket on the mark and lifting the coin finishes it. The rest of an over is not the job.",
     "s3yarddawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
+    "s3sledboom": "The drive has to land on the boom ahead of the other crew. A late delivery fails the leg even if it arrives.",
+    "s3wicketgold": "Only the gold counts double. Cream balls do not buy the double.",
+    "s3yarddoor": "The door has to hold for three minutes. Opening it early ends the watch.",
+    "s3sledplat": "Stop level with the platform. Close is not level.",
 }
 
 
