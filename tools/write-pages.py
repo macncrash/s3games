@@ -238,6 +238,10 @@ DESIGN = {
     "s3yardpace": "Fire on the third pace. An earlier shot that still holds the yard is not the job.",
     "s3sledpass": "Clear the pass before the storm clock dies. Making the pass with the clock already gone fails it.",
     "s3hooptape": "The drawer has to match the tape, and that closes the short hoop. A make that pays the same and is not on the tape stays out.",
+    "s3yardmaga": "The magazine has to outlast the raid. Emptying it before the raid ends fails the watch.",
+    "s3sledslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
+    "s3wicketmark": "The gold coin is the bowler's mark. Hitting the wicket on the mark and lifting the coin finishes it. The rest of an over is not the job.",
+    "s3yarddawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
 }
 
 
