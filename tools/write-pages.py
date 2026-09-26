@@ -190,6 +190,10 @@ DESIGN = {
     "s3depotcolu": "The column has to stop on the road. A truck that gets through is a loss.",
     "s3tugboatbox": "Stop inside the box. Close to the box is still outside, and that fails the leg.",
     "s3eightgold": "The 8 in the top right finishes it, and only the gold counts double. Cream balls do not buy the double.",
+    "s3depotbann": "The banner has to come back to the depot. Reaching it and staying away is a loss.",
+    "s3tugboatlock": "Pass the lock without scraping a gate, ahead of the other crew. A scrape fails the pass even if you made it through.",
+    "s3eightseven": "First to seven balls, then leave. The 8 stays on the spot. A six that looks close is still short.",
+    "s3depotpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the depot.",
 }
 
 
