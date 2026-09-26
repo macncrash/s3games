@@ -128,10 +128,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 116 | s3gatepace | Reed | complete | One gate. Wait until the third pace before you fire. Then it is done. |
 | 117 | s3skiffpass | Gale | complete | The skiff has one job: clear the pass before the storm clock. |
 | 118 | s3pinstape | Nock | complete | A short pins. You are done when the drawer has to match the tape. |
-| 119 | s3gatemaga | Reed | queued | At the gate, you make the magazine last longer than the raid. Miss that and the watch is over. |
-| 120 | s3skiffslip | Gale | queued | In the skiff, you berth in the slip before the tide turns. Missing the end fails the leg. |
-| 121 | s3puttmark | Nock | queued | Putt: a finished mark ends it. That is the whole cartridge. |
-| 122 | s3gatedawn | Reed | queued | You have the gate. The job is to keep the flares lit until dawn. Anything else is a loss. |
+| 119 | s3gatemaga | Reed | complete | At the gate, you make the magazine last longer than the raid. Miss that and the watch is over. |
+| 120 | s3skiffslip | Gale | complete | In the skiff, you berth in the slip before the tide turns. Missing the end fails the leg. |
+| 121 | s3puttmark | Nock | complete | Putt: a finished mark ends it. That is the whole cartridge. |
+| 122 | s3gatedawn | Reed | complete | You have the gate. The job is to keep the flares lit until dawn. Anything else is a loss. |
 | 123 | s3skiffboom | Gale | queued | Take the skiff and deliver the drive to the boom. The clock is the other crew. |
 | 124 | s3puttgold | Nock | queued | A short putt. You are done when only the gold counts double. |
 | 125 | s3gatedoor | Reed | queued | One gate. Hold the door for three minutes. Then it is done. |
