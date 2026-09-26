@@ -210,6 +210,10 @@ DESIGN = {
     "s3fairgold": "Only the gold counts double. Cream rings do not buy the double.",
     "s3depotdoor": "The door has to hold for three minutes. Opening it early ends the watch.",
     "s3tugboatplat": "Stop level with the platform, ahead of the other crew. Close is not level.",
+    "s3fairseven": "One ring apiece, first to seven. A leave that looks close and is still under seven is not the game.",
+    "s3depotpouc": "The pouch has to cross the depot. Reaching the far side without it is a loss.",
+    "s3tugboatlane": "Stay in the lane for the whole leg. Leaving the lane fails it even if you reach the gate.",
+    "s3fairbell": "The bell has to ring before the third try dies. A later swing is already over.",
 }
 
 
