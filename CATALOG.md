@@ -100,10 +100,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 088 | s3shelve | Nock | complete | One cart. A book in the wrong row comes back. |
 | 089 | s3battery | Reed | complete | The road below. Stop the column. |
 | 090 | s3mail | Gale | complete | The box gets the paper. Don't miss the turn. |
-| 091 | s3solitaire | Nock | queued | One deal. Clear the tableau. |
-| 092 | s3breach | Reed | queued | The hall, then the banner. Bring it back. |
-| 093 | s3lock | Gale | queued | One lock. Don't hit the gates. |
-| 094 | s3beds | Nock | queued | Six beds. Water them before the sun hits the wall. |
+| 091 | s3solitaire | Nock | complete | One deal. Clear the tableau. |
+| 092 | s3breach | Reed | complete | The hall, then the banner. Bring it back. |
+| 093 | s3lock | Gale | complete | One lock. Don't hit the gates. |
+| 094 | s3beds | Nock | complete | Six beds. Water them before the sun hits the wall. |
 | 095 | s3rearguard | Reed | queued | Walk the column back. The fight is behind you. |
 | 096 | s3funicular | Gale | queued | Stop level with the platform. |
 | 097 | s3clock | Nock | queued | Three hands. The hour has to chime. |
