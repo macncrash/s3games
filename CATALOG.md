@@ -180,10 +180,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 168 | s3glidermark | Gale | complete | The glider has one job: set down on the mark. |
 | 169 | s3curlchime | Nock | complete | Curl: the hour has to chime. That is the whole cartridge. |
 | 170 | s3ridgecler | Reed | complete | At the ridge, you clear the ground before the clock dies. Miss that and the watch is over. |
-| 171 | s3gliderturn | Gale | queued | In the glider, you make the three turns without tipping. Missing the end fails the leg. |
-| 172 | s3curltape | Nock | queued | A short curl. You are done when the drawer has to match the tape. |
-| 173 | s3depotreli | Reed | queued | One depot. Hold until the relief bell. Then it is done. |
-| 174 | s3tugboatbuoy | Gale | queued | The tugboat has one job: round the buoys and return to the same dock. |
+| 171 | s3gliderturn | Gale | complete | In the glider, you make the three turns without tipping. Missing the end fails the leg. |
+| 172 | s3curltape | Nock | complete | A short curl. You are done when the drawer has to match the tape. |
+| 173 | s3depotreli | Reed | complete | One depot. Hold until the relief bell. Then it is done. |
+| 174 | s3tugboatbuoy | Gale | complete | The tugboat has one job: round the buoys and return to the same dock. |
 | 175 | s3eightmark | Nock | queued | Eight: a finished mark ends it. That is the whole cartridge. |
 | 176 | s3depotcolu | Reed | queued | At the depot, you stop the column on the road. Miss that and the watch is over. |
 | 177 | s3tugboatbox | Gale | queued | In the tugboat, you stop inside the box. Missing the end fails the leg. |
