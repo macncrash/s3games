@@ -130,6 +130,10 @@ DESIGN = {
     "s3gatepace": "Fire on the third pace. An earlier shot that still holds the gate is not the job.",
     "s3skiffpass": "Clear the pass before the storm clock dies. Making the pass with the clock already gone fails it.",
     "s3pinstape": "The drawer has to match the tape, and that closes the short rack. A score that does not match the tape is still open.",
+    "s3gatemaga": "The magazine has to outlast the raid. Emptying it before the raid ends fails the watch.",
+    "s3skiffslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
+    "s3puttmark": "The coin on the ball opens the mark, and lifting it after the hole finishes the mark. The rest of a card is not the job.",
+    "s3gatedawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
 }
 
 
