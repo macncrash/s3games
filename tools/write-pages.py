@@ -162,6 +162,10 @@ DESIGN = {
     "s3dartbell": "The bell has to ring before the third try dies. A later dart is already over.",
     "s3ridgewell": "The well has to stand through three waves. A stone that gets through is a loss.",
     "s3gliderkilo": "Finish the kilometer with the wheels untouched. A scrape spends the run even if you make the distance.",
+    "s3dartchime": "The hour has to chime. A checkout before the hour is not this cartridge.",
+    "s3ridgepace": "Fire on the third pace. An earlier shot that still holds the watch is not the job.",
+    "s3gliderpass": "Clear the notch before the storm clock dies. Making the pass with the clock already gone fails it.",
+    "s3darttape": "The drawer has to match the tape, then you leave. A score that does not match the tape is still open.",
 }
 
 
