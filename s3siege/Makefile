@@ -12,7 +12,7 @@ SDL_LIBS   := $(shell $(SDL2_CONFIG) --libs)
 BUILD_ID := $(shell git rev-parse --short HEAD 2>/dev/null || echo dev)
 CXXFLAGS ?= -O2 -g
 CXXFLAGS += -std=c++17 -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -MMD -MP $(SDL_CFLAGS)
-CXXFLAGS += -Isrc -I$(abspath $(CURDIR)/../../s3rally/src) -DS3_BUILD='"$(BUILD_ID)"' -DS3_ORG='"s3games"' -DS3_PREF='"$(PREF)"'
+CXXFLAGS += -Isrc -I$(ENGINE) -DS3_BUILD='"$(BUILD_ID)"' -DS3_ORG='"s3games"' -DS3_PREF='"$(PREF)"'
 
 CON_SRC := $(wildcard $(ENGINE)/console/*.cpp)
 GAME_SRC := $(wildcard src/game/*.cpp src/*.cpp)
