@@ -166,6 +166,10 @@ DESIGN = {
     "s3ridgepace": "Fire on the third pace. An earlier shot that still holds the watch is not the job.",
     "s3gliderpass": "Clear the notch before the storm clock dies. Making the pass with the clock already gone fails it.",
     "s3darttape": "The drawer has to match the tape, then you leave. A score that does not match the tape is still open.",
+    "s3ridgemaga": "The magazine has to outlast the raid. Emptying it before the raid ends fails the watch.",
+    "s3gliderslip": "Berth the flying boat before the tide turns. A late berth fails the leg even if you find the slip.",
+    "s3curlmark": "The gold coin is the mark, and lifting the stone after the draw finishes it. The rest of an end is not the job.",
+    "s3ridgedawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
 }
 
 
