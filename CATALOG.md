@@ -152,10 +152,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 140 | s3ridgecolu | Reed | complete | One ridge. Stop the column on the road. Then it is done. |
 | 141 | s3gliderbox | Gale | complete | The glider has one job: stop inside the box. |
 | 142 | s3dartgold | Nock | complete | Play dart until only the gold counts double. Leave when that is true. |
-| 143 | s3ridgebann | Reed | queued | At the ridge, you bring the banner back. Miss that and the watch is over. |
-| 144 | s3gliderlock | Gale | queued | In the glider, you pass the lock without scraping a gate. Missing the end fails the leg. |
-| 145 | s3dartseven | Nock | queued | Dart: first to seven. That is the whole cartridge. |
-| 146 | s3ridgepurs | Reed | queued | You have the ridge. The job is to be the last machine still running. Anything else is a loss. |
+| 143 | s3ridgebann | Reed | complete | At the ridge, you bring the banner back. Miss that and the watch is over. |
+| 144 | s3gliderlock | Gale | complete | In the glider, you pass the lock without scraping a gate. Missing the end fails the leg. |
+| 145 | s3dartseven | Nock | complete | Dart: first to seven. That is the whole cartridge. |
+| 146 | s3ridgepurs | Reed | complete | You have the ridge. The job is to be the last machine still running. Anything else is a loss. |
 | 147 | s3glidergrass | Gale | queued | Take the glider and land on the grass and come to a full stop. The clock is the other crew. |
 | 148 | s3dartbell | Nock | queued | A short dart. You are done when the bell rings before the third try dies. |
 | 149 | s3ridgewell | Reed | queued | One ridge. Keep the well standing through three waves. Then it is done. |
