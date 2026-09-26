@@ -110,6 +110,10 @@ DESIGN = {
     "s3funicular": "The red floor has to stop level with the platform. Close is not level, and each of ORCHARD, PASS, and CREST has to be made.",
     "s3clock": "Three hands, and the rope only counts on a true hour. Hauling early does not chime.",
     "s3standard": "Reaching the flag is not the job. It has to come off the road and back through your own lines. A drop plants it in the road again.",
+    "s3grass": "Three left-hand circuits of the grass strip. The third landing has to be a full stop. A touch-and-go on the last circuit is not a pass.",
+    "s3drawer": "The drawer has to match the tape, then the shop closes. A till that is close is still open.",
+    "s3gatereli": "Hold the gate until the relief bell, then answer it. Surviving the watch and missing the bell is not relief.",
+    "s3skiffbuoy": "Round the buoys and take the same dock you left. A fast lap that finishes at the wrong end fails the leg.",
 }
 
 
