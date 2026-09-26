@@ -142,6 +142,10 @@ DESIGN = {
     "s3gatepouc": "The pouch has to cross. Reaching the far side without it ends the watch.",
     "s3skifflane": "Stay between the buoys for the whole leg. Leaving the lane fails it even if you reach the gate.",
     "s3puttbell": "The bell has to ring before the third try dies. A later hole is already over.",
+    "s3gateladd": "The far ladder is the job. Stopping short of it is a loss.",
+    "s3skiffmark": "Set down on the mark ahead of the other crew. Close to the mark, or late, fails the leg.",
+    "s3puttchime": "The hour has to chime. A holed putt before the hour is not this cartridge.",
+    "s3gatecler": "Clear the ground before the clock dies. A clean yard after the clock is already over.",
 }
 
 
