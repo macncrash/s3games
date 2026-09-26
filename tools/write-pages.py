@@ -174,6 +174,10 @@ DESIGN = {
     "s3curlgold": "Only the gold counts double. Cream stones do not buy the double.",
     "s3ridgedoor": "The door has to hold for three minutes. Opening it early ends the watch.",
     "s3gliderplat": "Stop level with the platform. Close is not level.",
+    "s3curlseven": "First to seven. A short sheet that stops under seven is not the game.",
+    "s3ridgepouc": "The pouch has to cross the ridge. Reaching the far side without it is a loss.",
+    "s3gliderlane": "Stay between the rails for the whole leg. Leaving the lane fails it even if you reach the gate.",
+    "s3curlbell": "The bell has to ring before the third try dies. A later stone is already over.",
 }
 
 
