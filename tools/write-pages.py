@@ -258,6 +258,10 @@ DESIGN = {
     "s3wickettape": "The drawer has to match the tape, then you leave. A score that does not match the tape is still open.",
     "s3spanreli": "Hold the span until the relief bell, then haul it. Surviving the watch and missing the bell is not relief.",
     "s3ferrybuoy": "Round the buoys to port and stop in the same slip ahead of the other crew. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3mazemark": "The gold coin is the mark. Standing on it and lifting the coin finishes the mark. The rest of the hedge is not the job.",
+    "s3spancolu": "The column has to stop on the road. A truck that gets through is a loss.",
+    "s3ferrybox": "Stop inside the box. Close to the box is still outside.",
+    "s3mazegold": "Only the gold counts double, then leave. Cream steps do not buy the double.",
 }
 
 
