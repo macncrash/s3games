@@ -112,10 +112,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 100 | s3drawer | Nock | complete | Close the shop. The drawer matches the tape. |
 | 101 | s3gatereli | Reed | complete | At the gate, you hold until the relief bell. Miss that and the watch is over. |
 | 102 | s3skiffbuoy | Gale | complete | In the skiff, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 103 | s3pinsmark | Nock | queued | Play pins until a finished mark ends it. Leave when that is true. |
-| 104 | s3gatecolu | Reed | queued | You have the gate. The job is to stop the column on the road. Anything else is a loss. |
-| 105 | s3skiffbox | Gale | queued | Take the skiff and stop inside the box. The clock is the other crew. |
-| 106 | s3pinsgold | Nock | queued | Pins: only the gold counts double. That is the whole cartridge. |
+| 103 | s3pinsmark | Nock | complete | Play pins until a finished mark ends it. Leave when that is true. |
+| 104 | s3gatecolu | Reed | complete | You have the gate. The job is to stop the column on the road. Anything else is a loss. |
+| 105 | s3skiffbox | Gale | complete | Take the skiff and stop inside the box. The clock is the other crew. |
+| 106 | s3pinsgold | Nock | complete | Pins: only the gold counts double. That is the whole cartridge. |
 | 107 | s3gatebann | Reed | queued | One gate. Bring the banner back. Then it is done. |
 | 108 | s3skifflock | Gale | queued | The skiff has one job: pass the lock without scraping a gate. |
 | 109 | s3pinsseven | Nock | queued | A short pins. You are done when first to seven. |
