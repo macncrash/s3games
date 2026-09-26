@@ -226,6 +226,10 @@ DESIGN = {
     "s3yardcolu": "The column has to stop on the road. A truck that gets through is a loss.",
     "s3sledbox": "Stop inside the box ahead of the other crew. Close to the box is still outside.",
     "s3hoopgold": "Only the gold counts double. Cream shots do not buy the double.",
+    "s3yardbann": "The banner has to come back into the yard. Reaching it and staying outside is not done.",
+    "s3sledlock": "Pass the lock without scraping a gate. A scrape fails the run even if you made it through.",
+    "s3hoopseven": "First to seven. A leave that looks close and is still under seven is not the game.",
+    "s3yardpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the yard.",
 }
 
 
