@@ -208,10 +208,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 196 | s3fairgold | Nock | complete | Play fair until only the gold counts double. Leave when that is true. |
 | 197 | s3depotdoor | Reed | complete | You have the depot. The job is to hold the door for three minutes. Anything else is a loss. |
 | 198 | s3tugboatplat | Gale | complete | Take the tugboat and stop level with the platform. The clock is the other crew. |
-| 199 | s3fairseven | Nock | queued | Fair: first to seven. That is the whole cartridge. |
-| 200 | s3depotpouc | Reed | queued | One depot. Carry the pouch across. Then it is done. |
-| 201 | s3tugboatlane | Gale | queued | The tugboat has one job: stay in the lane for the whole leg. |
-| 202 | s3fairbell | Nock | queued | A short fair. You are done when the bell rings before the third try dies. |
+| 199 | s3fairseven | Nock | complete | Fair: first to seven. That is the whole cartridge. |
+| 200 | s3depotpouc | Reed | complete | One depot. Carry the pouch across. Then it is done. |
+| 201 | s3tugboatlane | Gale | complete | The tugboat has one job: stay in the lane for the whole leg. |
+| 202 | s3fairbell | Nock | complete | A short fair. You are done when the bell rings before the third try dies. |
 | 203 | s3depotladd | Reed | queued | At the depot, you reach the far ladder. Miss that and the watch is over. |
 | 204 | s3tugboatmark | Gale | queued | In the tugboat, you set down on the mark. Missing the end fails the leg. |
 | 205 | s3fairchime | Nock | queued | Play fair until the hour has to chime. Leave when that is true. |
