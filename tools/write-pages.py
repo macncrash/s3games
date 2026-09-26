@@ -198,6 +198,10 @@ DESIGN = {
     "s3eightbell": "Three strokes at the eight. The bell has to ring before the third try dies.",
     "s3depotwell": "The well has to stand through three waves. A breach is a loss even if you are still at the depot.",
     "s3tugboatkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
+    "s3eightchime": "The hour has to chime. A sunk ball before the hour is not this cartridge.",
+    "s3depotpace": "Fire on the third pace. An earlier shot that still holds the depot is not the job.",
+    "s3tugboatpass": "Clear the pass before the storm clock dies, ahead of the other crew. Making the pass with the clock already gone fails it.",
+    "s3eighttape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
 }
 
 
