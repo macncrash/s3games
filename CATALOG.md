@@ -108,10 +108,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 096 | s3funicular | Gale | complete | Stop level with the platform. |
 | 097 | s3clock | Nock | complete | Three hands. The hour has to chime. |
 | 098 | s3standard | Reed | complete | Take the flag off the road and bring it back. |
-| 099 | s3grass | Gale | queued | Three circuits of a grass strip. The third landing is a full stop. |
-| 100 | s3drawer | Nock | queued | Close the shop. The drawer matches the tape. |
-| 101 | s3gatereli | Reed | queued | At the gate, you hold until the relief bell. Miss that and the watch is over. |
-| 102 | s3skiffbuoy | Gale | queued | In the skiff, you round the buoys and return to the same dock. Missing the end fails the leg. |
+| 099 | s3grass | Gale | complete | Three circuits of a grass strip. The third landing is a full stop. |
+| 100 | s3drawer | Nock | complete | Close the shop. The drawer matches the tape. |
+| 101 | s3gatereli | Reed | complete | At the gate, you hold until the relief bell. Miss that and the watch is over. |
+| 102 | s3skiffbuoy | Gale | complete | In the skiff, you round the buoys and return to the same dock. Missing the end fails the leg. |
 | 103 | s3pinsmark | Nock | queued | Play pins until a finished mark ends it. Leave when that is true. |
 | 104 | s3gatecolu | Reed | queued | You have the gate. The job is to stop the column on the road. Anything else is a loss. |
 | 105 | s3skiffbox | Gale | queued | Take the skiff and stop inside the box. The clock is the other crew. |
