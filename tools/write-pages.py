@@ -138,6 +138,10 @@ DESIGN = {
     "s3puttgold": "Gold counts double. A cream cup does not buy the double.",
     "s3gatedoor": "The door has to hold for three minutes. Opening it early ends the watch.",
     "s3skiffplat": "Stop level with the platform. Close is not level.",
+    "s3puttseven": "First to seven holes, then leave. A six that looks close is still short.",
+    "s3gatepouc": "The pouch has to cross. Reaching the far side without it ends the watch.",
+    "s3skifflane": "Stay between the buoys for the whole leg. Leaving the lane fails it even if you reach the gate.",
+    "s3puttbell": "The bell has to ring before the third try dies. A later hole is already over.",
 }
 
 
