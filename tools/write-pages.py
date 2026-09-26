@@ -106,6 +106,10 @@ DESIGN = {
     "s3breach": "The banner has to come back through the door you broke. Reaching it and dying in the hall is not a rescue.",
     "s3lock": "One lock, and the gates are the fail. Making the height while scraping a leaf is not a clear pass.",
     "s3beds": "The sun on the wall is the deadline. Six beds watered after that are the same as beds left dry.",
+    "s3rearguard": "The column getting home is the win. The fight is on the road behind it, and a score that loses the column is a loss.",
+    "s3funicular": "The red floor has to stop level with the platform. Close is not level, and each of ORCHARD, PASS, and CREST has to be made.",
+    "s3clock": "Three hands, and the rope only counts on a true hour. Hauling early does not chime.",
+    "s3standard": "Reaching the flag is not the job. It has to come off the road and back through your own lines. A drop plants it in the road again.",
 }
 
 
