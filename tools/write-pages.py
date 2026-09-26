@@ -118,6 +118,10 @@ DESIGN = {
     "s3gatecolu": "The column has to stop on the road. A truck that gets through is a loss, whatever else you hit.",
     "s3skiffbox": "Stop inside the box before the other crew. Close to the box is still outside.",
     "s3pinsgold": "Gold counts double, and the frame has to finish on a double. Cream pins do not buy back a missed double.",
+    "s3gatebann": "The banner has to come back through the gate. Reaching it and staying on the far side is not done.",
+    "s3skifflock": "One lock. A scrape on a gate fails the pass even if the skiff made it through.",
+    "s3pinsseven": "First bowler to seven. A leave that looks close and is still under seven is not the game.",
+    "s3gatepurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the purse.",
 }
 
 
