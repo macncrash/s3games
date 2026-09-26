@@ -214,6 +214,10 @@ DESIGN = {
     "s3depotpouc": "The pouch has to cross the depot. Reaching the far side without it is a loss.",
     "s3tugboatlane": "Stay in the lane for the whole leg. Leaving the lane fails it even if you reach the gate.",
     "s3fairbell": "The bell has to ring before the third try dies. A later swing is already over.",
+    "s3depotladd": "The far ladder is the job. Stopping short of it ends the watch.",
+    "s3tugboatmark": "The bow has to be on the mark. Close to the mark fails the leg.",
+    "s3fairchime": "The hour has to chime. A ring before the hour is not this cartridge.",
+    "s3depotcler": "Clear the ground before the clock dies. A clean yard after the clock is already over.",
 }
 
 
