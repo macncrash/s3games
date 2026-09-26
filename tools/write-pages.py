@@ -206,6 +206,10 @@ DESIGN = {
     "s3tugboatslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
     "s3fairmark": "The gold coin is the mark. A ring on the gold bottle and lifting the coin finishes it. The rest of the booth is not the job.",
     "s3depotdawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
+    "s3tugboatboom": "The drive has to land on the boom. Missing the boom fails the leg even if you arrive.",
+    "s3fairgold": "Only the gold counts double. Cream rings do not buy the double.",
+    "s3depotdoor": "The door has to hold for three minutes. Opening it early ends the watch.",
+    "s3tugboatplat": "Stop level with the platform, ahead of the other crew. Close is not level.",
 }
 
 
