@@ -124,10 +124,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 112 | s3pinsbell | Nock | complete | Play pins until the bell rings before the third try dies. Leave when that is true. |
 | 113 | s3gatewell | Reed | complete | You have the gate. The job is to keep the well standing through three waves. Anything else is a loss. |
 | 114 | s3skiffkilo | Gale | complete | Take the skiff and finish the kilometer without touching wheels. The clock is the other crew. |
-| 115 | s3pinschime | Nock | queued | Pins: the hour has to chime. That is the whole cartridge. |
-| 116 | s3gatepace | Reed | queued | One gate. Wait until the third pace before you fire. Then it is done. |
-| 117 | s3skiffpass | Gale | queued | The skiff has one job: clear the pass before the storm clock. |
-| 118 | s3pinstape | Nock | queued | A short pins. You are done when the drawer has to match the tape. |
+| 115 | s3pinschime | Nock | complete | Pins: the hour has to chime. That is the whole cartridge. |
+| 116 | s3gatepace | Reed | complete | One gate. Wait until the third pace before you fire. Then it is done. |
+| 117 | s3skiffpass | Gale | complete | The skiff has one job: clear the pass before the storm clock. |
+| 118 | s3pinstape | Nock | complete | A short pins. You are done when the drawer has to match the tape. |
 | 119 | s3gatemaga | Reed | queued | At the gate, you make the magazine last longer than the raid. Miss that and the watch is over. |
 | 120 | s3skiffslip | Gale | queued | In the skiff, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 121 | s3puttmark | Nock | queued | Putt: a finished mark ends it. That is the whole cartridge. |
