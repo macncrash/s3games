@@ -188,10 +188,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 176 | s3depotcolu | Reed | complete | At the depot, you stop the column on the road. Miss that and the watch is over. |
 | 177 | s3tugboatbox | Gale | complete | In the tugboat, you stop inside the box. Missing the end fails the leg. |
 | 178 | s3eightgold | Nock | complete | A short eight. You are done when only the gold counts double. |
-| 179 | s3depotbann | Reed | queued | You have the depot. The job is to bring the banner back. Anything else is a loss. |
-| 180 | s3tugboatlock | Gale | queued | Take the tugboat and pass the lock without scraping a gate. The clock is the other crew. |
-| 181 | s3eightseven | Nock | queued | Play eight until first to seven. Leave when that is true. |
-| 182 | s3depotpurs | Reed | queued | One depot. Be the last machine still running. Then it is done. |
+| 179 | s3depotbann | Reed | complete | You have the depot. The job is to bring the banner back. Anything else is a loss. |
+| 180 | s3tugboatlock | Gale | complete | Take the tugboat and pass the lock without scraping a gate. The clock is the other crew. |
+| 181 | s3eightseven | Nock | complete | Play eight until first to seven. Leave when that is true. |
+| 182 | s3depotpurs | Reed | complete | One depot. Be the last machine still running. Then it is done. |
 | 183 | s3tugboatgrass | Gale | queued | The tugboat has one job: land on the grass and come to a full stop. |
 | 184 | s3eightbell | Nock | queued | Eight: the bell rings before the third try dies. That is the whole cartridge. |
 | 185 | s3depotwell | Reed | queued | At the depot, you keep the well standing through three waves. Miss that and the watch is over. |
