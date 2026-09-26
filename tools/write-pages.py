@@ -122,6 +122,10 @@ DESIGN = {
     "s3skifflock": "One lock. A scrape on a gate fails the pass even if the skiff made it through.",
     "s3pinsseven": "First bowler to seven. A leave that looks close and is still under seven is not the game.",
     "s3gatepurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the purse.",
+    "s3skiffgrass": "Land on the grass and come to a full stop. A touch that keeps rolling fails the leg.",
+    "s3pinsbell": "The bell has to ring before the third try dies. A clean leave after the third try is already over.",
+    "s3gatewell": "The well has to stand through three waves. A stone that gets through is a loss even if you are still at the gate.",
+    "s3skiffkilo": "Finish the kilometer with the wheels untouched and time left on the other crew's clock. A scrape spends the run even if you make the distance.",
 }
 
 
