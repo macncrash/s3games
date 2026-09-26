@@ -220,10 +220,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 208 | s3fairtape | Nock | complete | Fair: the drawer has to match the tape. That is the whole cartridge. |
 | 209 | s3yardreli | Reed | complete | At the yard, you hold until the relief bell. Miss that and the watch is over. |
 | 210 | s3sledbuoy | Gale | complete | In the sled, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 211 | s3hoopmark | Nock | queued | Play hoop until a finished mark ends it. Leave when that is true. |
-| 212 | s3yardcolu | Reed | queued | You have the yard. The job is to stop the column on the road. Anything else is a loss. |
-| 213 | s3sledbox | Gale | queued | Take the sled and stop inside the box. The clock is the other crew. |
-| 214 | s3hoopgold | Nock | queued | Hoop: only the gold counts double. That is the whole cartridge. |
+| 211 | s3hoopmark | Nock | complete | Play hoop until a finished mark ends it. Leave when that is true. |
+| 212 | s3yardcolu | Reed | complete | You have the yard. The job is to stop the column on the road. Anything else is a loss. |
+| 213 | s3sledbox | Gale | complete | Take the sled and stop inside the box. The clock is the other crew. |
+| 214 | s3hoopgold | Nock | complete | Hoop: only the gold counts double. That is the whole cartridge. |
 | 215 | s3yardbann | Reed | queued | One yard. Bring the banner back. Then it is done. |
 | 216 | s3sledlock | Gale | queued | The sled has one job: pass the lock without scraping a gate. |
 | 217 | s3hoopseven | Nock | queued | A short hoop. You are done when first to seven. |
