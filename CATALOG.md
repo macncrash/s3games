@@ -216,10 +216,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 204 | s3tugboatmark | Gale | complete | In the tugboat, you set down on the mark. Missing the end fails the leg. |
 | 205 | s3fairchime | Nock | complete | Play fair until the hour has to chime. Leave when that is true. |
 | 206 | s3depotcler | Reed | complete | You have the depot. The job is to clear the ground before the clock dies. Anything else is a loss. |
-| 207 | s3tugboatturn | Gale | queued | Take the tugboat and make the three turns without tipping. The clock is the other crew. |
-| 208 | s3fairtape | Nock | queued | Fair: the drawer has to match the tape. That is the whole cartridge. |
-| 209 | s3yardreli | Reed | queued | At the yard, you hold until the relief bell. Miss that and the watch is over. |
-| 210 | s3sledbuoy | Gale | queued | In the sled, you round the buoys and return to the same dock. Missing the end fails the leg. |
+| 207 | s3tugboatturn | Gale | complete | Take the tugboat and make the three turns without tipping. The clock is the other crew. |
+| 208 | s3fairtape | Nock | complete | Fair: the drawer has to match the tape. That is the whole cartridge. |
+| 209 | s3yardreli | Reed | complete | At the yard, you hold until the relief bell. Miss that and the watch is over. |
+| 210 | s3sledbuoy | Gale | complete | In the sled, you round the buoys and return to the same dock. Missing the end fails the leg. |
 | 211 | s3hoopmark | Nock | queued | Play hoop until a finished mark ends it. Leave when that is true. |
 | 212 | s3yardcolu | Reed | queued | You have the yard. The job is to stop the column on the road. Anything else is a loss. |
 | 213 | s3sledbox | Gale | queued | Take the sled and stop inside the box. The clock is the other crew. |
