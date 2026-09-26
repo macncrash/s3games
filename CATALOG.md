@@ -240,10 +240,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 228 | s3sledslip | Gale | complete | In the sled, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 229 | s3wicketmark | Nock | complete | Wicket: a finished mark ends it. That is the whole cartridge. |
 | 230 | s3yarddawn | Reed | complete | You have the yard. The job is to keep the flares lit until dawn. Anything else is a loss. |
-| 231 | s3sledboom | Gale | queued | Take the sled and deliver the drive to the boom. The clock is the other crew. |
-| 232 | s3wicketgold | Nock | queued | A short wicket. You are done when only the gold counts double. |
-| 233 | s3yarddoor | Reed | queued | One yard. Hold the door for three minutes. Then it is done. |
-| 234 | s3sledplat | Gale | queued | The sled has one job: stop level with the platform. |
+| 231 | s3sledboom | Gale | complete | Take the sled and deliver the drive to the boom. The clock is the other crew. |
+| 232 | s3wicketgold | Nock | complete | A short wicket. You are done when only the gold counts double. |
+| 233 | s3yarddoor | Reed | complete | One yard. Hold the door for three minutes. Then it is done. |
+| 234 | s3sledplat | Gale | complete | The sled has one job: stop level with the platform. |
 | 235 | s3wicketseven | Nock | queued | Play wicket until first to seven. Leave when that is true. |
 | 236 | s3yardpouc | Reed | queued | At the yard, you carry the pouch across. Miss that and the watch is over. |
 | 237 | s3sledlane | Gale | queued | In the sled, you stay in the lane for the whole leg. Missing the end fails the leg. |
