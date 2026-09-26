@@ -170,6 +170,10 @@ DESIGN = {
     "s3gliderslip": "Berth the flying boat before the tide turns. A late berth fails the leg even if you find the slip.",
     "s3curlmark": "The gold coin is the mark, and lifting the stone after the draw finishes it. The rest of an end is not the job.",
     "s3ridgedawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
+    "s3gliderboom": "The drive has to land on the boom. Missing the boom fails the job even if you arrive.",
+    "s3curlgold": "Only the gold counts double. Cream stones do not buy the double.",
+    "s3ridgedoor": "The door has to hold for three minutes. Opening it early ends the watch.",
+    "s3gliderplat": "Stop level with the platform. Close is not level.",
 }
 
 
