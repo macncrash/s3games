@@ -184,10 +184,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 172 | s3curltape | Nock | complete | A short curl. You are done when the drawer has to match the tape. |
 | 173 | s3depotreli | Reed | complete | One depot. Hold until the relief bell. Then it is done. |
 | 174 | s3tugboatbuoy | Gale | complete | The tugboat has one job: round the buoys and return to the same dock. |
-| 175 | s3eightmark | Nock | queued | Eight: a finished mark ends it. That is the whole cartridge. |
-| 176 | s3depotcolu | Reed | queued | At the depot, you stop the column on the road. Miss that and the watch is over. |
-| 177 | s3tugboatbox | Gale | queued | In the tugboat, you stop inside the box. Missing the end fails the leg. |
-| 178 | s3eightgold | Nock | queued | A short eight. You are done when only the gold counts double. |
+| 175 | s3eightmark | Nock | complete | Eight: a finished mark ends it. That is the whole cartridge. |
+| 176 | s3depotcolu | Reed | complete | At the depot, you stop the column on the road. Miss that and the watch is over. |
+| 177 | s3tugboatbox | Gale | complete | In the tugboat, you stop inside the box. Missing the end fails the leg. |
+| 178 | s3eightgold | Nock | complete | A short eight. You are done when only the gold counts double. |
 | 179 | s3depotbann | Reed | queued | You have the depot. The job is to bring the banner back. Anything else is a loss. |
 | 180 | s3tugboatlock | Gale | queued | Take the tugboat and pass the lock without scraping a gate. The clock is the other crew. |
 | 181 | s3eightseven | Nock | queued | Play eight until first to seven. Leave when that is true. |
