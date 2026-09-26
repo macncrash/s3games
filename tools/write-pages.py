@@ -158,6 +158,10 @@ DESIGN = {
     "s3gliderlock": "Pass the lock without scraping a gate. A scrape fails the leg even if you made it through.",
     "s3dartseven": "One dart apiece, first to seven. A leave that looks close and is still under seven is not the game.",
     "s3ridgepurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the ridge.",
+    "s3glidergrass": "Land on the grass and come to a full stop ahead of the other crew. A touch that keeps rolling fails the leg.",
+    "s3dartbell": "The bell has to ring before the third try dies. A later dart is already over.",
+    "s3ridgewell": "The well has to stand through three waves. A stone that gets through is a loss.",
+    "s3gliderkilo": "Finish the kilometer with the wheels untouched. A scrape spends the run even if you make the distance.",
 }
 
 
