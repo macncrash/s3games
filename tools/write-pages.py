@@ -114,6 +114,10 @@ DESIGN = {
     "s3drawer": "The drawer has to match the tape, then the shop closes. A till that is close is still open.",
     "s3gatereli": "Hold the gate until the relief bell, then answer it. Surviving the watch and missing the bell is not relief.",
     "s3skiffbuoy": "Round the buoys and take the same dock you left. A fast lap that finishes at the wrong end fails the leg.",
+    "s3pinsmark": "A strike or a spare opens a mark, and that finished mark ends it. Bowling out the rest of the card is not the job.",
+    "s3gatecolu": "The column has to stop on the road. A truck that gets through is a loss, whatever else you hit.",
+    "s3skiffbox": "Stop inside the box before the other crew. Close to the box is still outside.",
+    "s3pinsgold": "Gold counts double, and the frame has to finish on a double. Cream pins do not buy back a missed double.",
 }
 
 
