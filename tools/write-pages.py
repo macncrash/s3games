@@ -218,6 +218,10 @@ DESIGN = {
     "s3tugboatmark": "The bow has to be on the mark. Close to the mark fails the leg.",
     "s3fairchime": "The hour has to chime. A ring before the hour is not this cartridge.",
     "s3depotcler": "Clear the ground before the clock dies. A clean yard after the clock is already over.",
+    "s3tugboatturn": "Three turns without tipping, ahead of the other crew. Listing her over fails the leg.",
+    "s3fairtape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
+    "s3yardreli": "Hold the yard until the relief bell, then answer it. Surviving the watch and missing the bell is not relief.",
+    "s3sledbuoy": "Round the buoys to port and stop in the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
