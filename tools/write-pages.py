@@ -150,6 +150,10 @@ DESIGN = {
     "s3putttape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
     "s3ridgereli": "Hold the ridge until the relief bell, then haul the rope. Surviving the watch and missing the bell is not relief.",
     "s3gliderbuoy": "Round the buoys and set down on the same dock ahead of the other crew. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3dartmark": "A treble 20 closes the 20 and finishes the mark. The rest of a visit is not the job.",
+    "s3ridgecolu": "The column has to stop on the road. A truck that gets through is a loss.",
+    "s3gliderbox": "Stop inside the box. Close to the box is still outside.",
+    "s3dartgold": "Five-oh-one, and only a gold bed counts as a double. A cream double does not check out.",
 }
 
 
