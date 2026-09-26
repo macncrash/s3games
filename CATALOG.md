@@ -200,10 +200,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 188 | s3depotpace | Reed | complete | You have the depot. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 189 | s3tugboatpass | Gale | complete | Take the tugboat and clear the pass before the storm clock. The clock is the other crew. |
 | 190 | s3eighttape | Nock | complete | Play eight until the drawer has to match the tape. Leave when that is true. |
-| 191 | s3depotmaga | Reed | queued | One depot. Make the magazine last longer than the raid. Then it is done. |
-| 192 | s3tugboatslip | Gale | queued | The tugboat has one job: berth in the slip before the tide turns. |
-| 193 | s3fairmark | Nock | queued | A short fair. You are done when a finished mark ends it. |
-| 194 | s3depotdawn | Reed | queued | At the depot, you keep the flares lit until dawn. Miss that and the watch is over. |
+| 191 | s3depotmaga | Reed | complete | One depot. Make the magazine last longer than the raid. Then it is done. |
+| 192 | s3tugboatslip | Gale | complete | The tugboat has one job: berth in the slip before the tide turns. |
+| 193 | s3fairmark | Nock | complete | A short fair. You are done when a finished mark ends it. |
+| 194 | s3depotdawn | Reed | complete | At the depot, you keep the flares lit until dawn. Miss that and the watch is over. |
 | 195 | s3tugboatboom | Gale | queued | In the tugboat, you deliver the drive to the boom. Missing the end fails the leg. |
 | 196 | s3fairgold | Nock | queued | Play fair until only the gold counts double. Leave when that is true. |
 | 197 | s3depotdoor | Reed | queued | You have the depot. The job is to hold the door for three minutes. Anything else is a loss. |
