@@ -222,6 +222,10 @@ DESIGN = {
     "s3fairtape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
     "s3yardreli": "Hold the yard until the relief bell, then answer it. Surviving the watch and missing the bell is not relief.",
     "s3sledbuoy": "Round the buoys to port and stop in the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3hoopmark": "The gold coin is the mark. A swish on the mark and lifting the coin finishes it. The rest of a game is not the job.",
+    "s3yardcolu": "The column has to stop on the road. A truck that gets through is a loss.",
+    "s3sledbox": "Stop inside the box ahead of the other crew. Close to the box is still outside.",
+    "s3hoopgold": "Only the gold counts double. Cream shots do not buy the double.",
 }
 
 
