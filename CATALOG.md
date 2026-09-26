@@ -148,10 +148,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 136 | s3putttape | Nock | complete | Play putt until the drawer has to match the tape. Leave when that is true. |
 | 137 | s3ridgereli | Reed | complete | You have the ridge. The job is to hold until the relief bell. Anything else is a loss. |
 | 138 | s3gliderbuoy | Gale | complete | Take the glider and round the buoys and return to the same dock. The clock is the other crew. |
-| 139 | s3dartmark | Nock | queued | A short dart. You are done when a finished mark ends it. |
-| 140 | s3ridgecolu | Reed | queued | One ridge. Stop the column on the road. Then it is done. |
-| 141 | s3gliderbox | Gale | queued | The glider has one job: stop inside the box. |
-| 142 | s3dartgold | Nock | queued | Play dart until only the gold counts double. Leave when that is true. |
+| 139 | s3dartmark | Nock | complete | A short dart. You are done when a finished mark ends it. |
+| 140 | s3ridgecolu | Reed | complete | One ridge. Stop the column on the road. Then it is done. |
+| 141 | s3gliderbox | Gale | complete | The glider has one job: stop inside the box. |
+| 142 | s3dartgold | Nock | complete | Play dart until only the gold counts double. Leave when that is true. |
 | 143 | s3ridgebann | Reed | queued | At the ridge, you bring the banner back. Miss that and the watch is over. |
 | 144 | s3gliderlock | Gale | queued | In the glider, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 145 | s3dartseven | Nock | queued | Dart: first to seven. That is the whole cartridge. |
