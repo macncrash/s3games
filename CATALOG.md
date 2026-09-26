@@ -212,10 +212,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 200 | s3depotpouc | Reed | complete | One depot. Carry the pouch across. Then it is done. |
 | 201 | s3tugboatlane | Gale | complete | The tugboat has one job: stay in the lane for the whole leg. |
 | 202 | s3fairbell | Nock | complete | A short fair. You are done when the bell rings before the third try dies. |
-| 203 | s3depotladd | Reed | queued | At the depot, you reach the far ladder. Miss that and the watch is over. |
-| 204 | s3tugboatmark | Gale | queued | In the tugboat, you set down on the mark. Missing the end fails the leg. |
-| 205 | s3fairchime | Nock | queued | Play fair until the hour has to chime. Leave when that is true. |
-| 206 | s3depotcler | Reed | queued | You have the depot. The job is to clear the ground before the clock dies. Anything else is a loss. |
+| 203 | s3depotladd | Reed | complete | At the depot, you reach the far ladder. Miss that and the watch is over. |
+| 204 | s3tugboatmark | Gale | complete | In the tugboat, you set down on the mark. Missing the end fails the leg. |
+| 205 | s3fairchime | Nock | complete | Play fair until the hour has to chime. Leave when that is true. |
+| 206 | s3depotcler | Reed | complete | You have the depot. The job is to clear the ground before the clock dies. Anything else is a loss. |
 | 207 | s3tugboatturn | Gale | queued | Take the tugboat and make the three turns without tipping. The clock is the other crew. |
 | 208 | s3fairtape | Nock | queued | Fair: the drawer has to match the tape. That is the whole cartridge. |
 | 209 | s3yardreli | Reed | queued | At the yard, you hold until the relief bell. Miss that and the watch is over. |
