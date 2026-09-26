@@ -140,10 +140,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 128 | s3gatepouc | Reed | complete | At the gate, you carry the pouch across. Miss that and the watch is over. |
 | 129 | s3skifflane | Gale | complete | In the skiff, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 130 | s3puttbell | Nock | complete | Putt: the bell rings before the third try dies. That is the whole cartridge. |
-| 131 | s3gateladd | Reed | queued | You have the gate. The job is to reach the far ladder. Anything else is a loss. |
-| 132 | s3skiffmark | Gale | queued | Take the skiff and set down on the mark. The clock is the other crew. |
-| 133 | s3puttchime | Nock | queued | A short putt. You are done when the hour has to chime. |
-| 134 | s3gatecler | Reed | queued | One gate. Clear the ground before the clock dies. Then it is done. |
+| 131 | s3gateladd | Reed | complete | You have the gate. The job is to reach the far ladder. Anything else is a loss. |
+| 132 | s3skiffmark | Gale | complete | Take the skiff and set down on the mark. The clock is the other crew. |
+| 133 | s3puttchime | Nock | complete | A short putt. You are done when the hour has to chime. |
+| 134 | s3gatecler | Reed | complete | One gate. Clear the ground before the clock dies. Then it is done. |
 | 135 | s3skiffturn | Gale | queued | The skiff has one job: make the three turns without tipping. |
 | 136 | s3putttape | Nock | queued | Play putt until the drawer has to match the tape. Leave when that is true. |
 | 137 | s3ridgereli | Reed | queued | You have the ridge. The job is to hold until the relief bell. Anything else is a loss. |
