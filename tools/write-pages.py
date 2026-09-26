@@ -246,6 +246,10 @@ DESIGN = {
     "s3wicketgold": "Only the gold counts double. Cream balls do not buy the double.",
     "s3yarddoor": "The door has to hold for three minutes. Opening it early ends the watch.",
     "s3sledplat": "Stop level with the platform. Close is not level.",
+    "s3wicketseven": "First to seven runs, then leave. A six that looks close is still short.",
+    "s3yardpouc": "The pouch has to cross the yard. Reaching the far side without it ends the watch.",
+    "s3sledlane": "Stay in the lane for the whole leg. Leaving the lane fails it even if you reach the gate.",
+    "s3wicketbell": "Three bowls at one wicket. The bell has to ring before the third try dies.",
 }
 
 
