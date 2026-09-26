@@ -132,10 +132,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 120 | s3skiffslip | Gale | complete | In the skiff, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 121 | s3puttmark | Nock | complete | Putt: a finished mark ends it. That is the whole cartridge. |
 | 122 | s3gatedawn | Reed | complete | You have the gate. The job is to keep the flares lit until dawn. Anything else is a loss. |
-| 123 | s3skiffboom | Gale | queued | Take the skiff and deliver the drive to the boom. The clock is the other crew. |
-| 124 | s3puttgold | Nock | queued | A short putt. You are done when only the gold counts double. |
-| 125 | s3gatedoor | Reed | queued | One gate. Hold the door for three minutes. Then it is done. |
-| 126 | s3skiffplat | Gale | queued | The skiff has one job: stop level with the platform. |
+| 123 | s3skiffboom | Gale | complete | Take the skiff and deliver the drive to the boom. The clock is the other crew. |
+| 124 | s3puttgold | Nock | complete | A short putt. You are done when only the gold counts double. |
+| 125 | s3gatedoor | Reed | complete | One gate. Hold the door for three minutes. Then it is done. |
+| 126 | s3skiffplat | Gale | complete | The skiff has one job: stop level with the platform. |
 | 127 | s3puttseven | Nock | queued | Play putt until first to seven. Leave when that is true. |
 | 128 | s3gatepouc | Reed | queued | At the gate, you carry the pouch across. Miss that and the watch is over. |
 | 129 | s3skifflane | Gale | queued | In the skiff, you stay in the lane for the whole leg. Missing the end fails the leg. |
