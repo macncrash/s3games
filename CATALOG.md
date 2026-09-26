@@ -176,10 +176,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 164 | s3ridgepouc | Reed | complete | You have the ridge. The job is to carry the pouch across. Anything else is a loss. |
 | 165 | s3gliderlane | Gale | complete | Take the glider and stay in the lane for the whole leg. The clock is the other crew. |
 | 166 | s3curlbell | Nock | complete | Play curl until the bell rings before the third try dies. Leave when that is true. |
-| 167 | s3ridgeladd | Reed | queued | One ridge. Reach the far ladder. Then it is done. |
-| 168 | s3glidermark | Gale | queued | The glider has one job: set down on the mark. |
-| 169 | s3curlchime | Nock | queued | Curl: the hour has to chime. That is the whole cartridge. |
-| 170 | s3ridgecler | Reed | queued | At the ridge, you clear the ground before the clock dies. Miss that and the watch is over. |
+| 167 | s3ridgeladd | Reed | complete | One ridge. Reach the far ladder. Then it is done. |
+| 168 | s3glidermark | Gale | complete | The glider has one job: set down on the mark. |
+| 169 | s3curlchime | Nock | complete | Curl: the hour has to chime. That is the whole cartridge. |
+| 170 | s3ridgecler | Reed | complete | At the ridge, you clear the ground before the clock dies. Miss that and the watch is over. |
 | 171 | s3gliderturn | Gale | queued | In the glider, you make the three turns without tipping. Missing the end fails the leg. |
 | 172 | s3curltape | Nock | queued | A short curl. You are done when the drawer has to match the tape. |
 | 173 | s3depotreli | Reed | queued | One depot. Hold until the relief bell. Then it is done. |
