@@ -234,6 +234,10 @@ DESIGN = {
     "s3hoopbell": "Three tries at one rim. The bell has to ring before the third try dies.",
     "s3yardwell": "The well has to stand through three waves. A breach is a loss even if you are still in the yard.",
     "s3sledkilo": "Finish the kilometer without touching a wheel, with time left on the other crew's clock. A scrape spends the run even if you make the distance.",
+    "s3hoopchime": "The hour has to chime. A made shot before the hour is not this cartridge.",
+    "s3yardpace": "Fire on the third pace. An earlier shot that still holds the yard is not the job.",
+    "s3sledpass": "Clear the pass before the storm clock dies. Making the pass with the clock already gone fails it.",
+    "s3hooptape": "The drawer has to match the tape, and that closes the short hoop. A make that pays the same and is not on the tape stays out.",
 }
 
 
