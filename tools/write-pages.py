@@ -134,6 +134,10 @@ DESIGN = {
     "s3skiffslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
     "s3puttmark": "The coin on the ball opens the mark, and lifting it after the hole finishes the mark. The rest of a card is not the job.",
     "s3gatedawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
+    "s3skiffboom": "The drive has to land on the boom ahead of the other crew. A late delivery fails the leg even if it arrives.",
+    "s3puttgold": "Gold counts double. A cream cup does not buy the double.",
+    "s3gatedoor": "The door has to hold for three minutes. Opening it early ends the watch.",
+    "s3skiffplat": "Stop level with the platform. Close is not level.",
 }
 
 
