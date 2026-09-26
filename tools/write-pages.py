@@ -154,6 +154,10 @@ DESIGN = {
     "s3ridgecolu": "The column has to stop on the road. A truck that gets through is a loss.",
     "s3gliderbox": "Stop inside the box. Close to the box is still outside.",
     "s3dartgold": "Five-oh-one, and only a gold bed counts as a double. A cream double does not check out.",
+    "s3ridgebann": "The banner has to come back onto the ridge. Reaching it and staying off the ridge ends the watch.",
+    "s3gliderlock": "Pass the lock without scraping a gate. A scrape fails the leg even if you made it through.",
+    "s3dartseven": "One dart apiece, first to seven. A leave that looks close and is still under seven is not the game.",
+    "s3ridgepurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the ridge.",
 }
 
 
