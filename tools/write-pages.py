@@ -186,6 +186,10 @@ DESIGN = {
     "s3curltape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
     "s3depotreli": "Hold the depot until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3tugboatbuoy": "Round the buoys to port and stop in the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3eightmark": "The coin is the mark. Pocketing the 8 in the top side and lifting the coin finishes it. The rest of a rack is not the job.",
+    "s3depotcolu": "The column has to stop on the road. A truck that gets through is a loss.",
+    "s3tugboatbox": "Stop inside the box. Close to the box is still outside, and that fails the leg.",
+    "s3eightgold": "The 8 in the top right finishes it, and only the gold counts double. Cream balls do not buy the double.",
 }
 
 
