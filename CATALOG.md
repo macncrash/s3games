@@ -232,10 +232,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 220 | s3hoopbell | Nock | complete | Play hoop until the bell rings before the third try dies. Leave when that is true. |
 | 221 | s3yardwell | Reed | complete | You have the yard. The job is to keep the well standing through three waves. Anything else is a loss. |
 | 222 | s3sledkilo | Gale | complete | Take the sled and finish the kilometer without touching wheels. The clock is the other crew. |
-| 223 | s3hoopchime | Nock | queued | Hoop: the hour has to chime. That is the whole cartridge. |
-| 224 | s3yardpace | Reed | queued | One yard. Wait until the third pace before you fire. Then it is done. |
-| 225 | s3sledpass | Gale | queued | The sled has one job: clear the pass before the storm clock. |
-| 226 | s3hooptape | Nock | queued | A short hoop. You are done when the drawer has to match the tape. |
+| 223 | s3hoopchime | Nock | complete | Hoop: the hour has to chime. That is the whole cartridge. |
+| 224 | s3yardpace | Reed | complete | One yard. Wait until the third pace before you fire. Then it is done. |
+| 225 | s3sledpass | Gale | complete | The sled has one job: clear the pass before the storm clock. |
+| 226 | s3hooptape | Nock | complete | A short hoop. You are done when the drawer has to match the tape. |
 | 227 | s3yardmaga | Reed | queued | At the yard, you make the magazine last longer than the raid. Miss that and the watch is over. |
 | 228 | s3sledslip | Gale | queued | In the sled, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 229 | s3wicketmark | Nock | queued | Wicket: a finished mark ends it. That is the whole cartridge. |
