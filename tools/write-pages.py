@@ -126,6 +126,10 @@ DESIGN = {
     "s3pinsbell": "The bell has to ring before the third try dies. A clean leave after the third try is already over.",
     "s3gatewell": "The well has to stand through three waves. A stone that gets through is a loss even if you are still at the gate.",
     "s3skiffkilo": "Finish the kilometer with the wheels untouched and time left on the other crew's clock. A scrape spends the run even if you make the distance.",
+    "s3pinschime": "The hour has to chime. Clearing the pins while the clock is still short of the hour is not this cartridge.",
+    "s3gatepace": "Fire on the third pace. An earlier shot that still holds the gate is not the job.",
+    "s3skiffpass": "Clear the pass before the storm clock dies. Making the pass with the clock already gone fails it.",
+    "s3pinstape": "The drawer has to match the tape, and that closes the short rack. A score that does not match the tape is still open.",
 }
 
 
