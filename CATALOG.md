@@ -256,10 +256,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 244 | s3wickettape | Nock | complete | Play wicket until the drawer has to match the tape. Leave when that is true. |
 | 245 | s3spanreli | Reed | complete | You have the span. The job is to hold until the relief bell. Anything else is a loss. |
 | 246 | s3ferrybuoy | Gale | complete | Take the ferry and round the buoys and return to the same dock. The clock is the other crew. |
-| 247 | s3mazemark | Nock | queued | A short maze. You are done when a finished mark ends it. |
-| 248 | s3spancolu | Reed | queued | One span. Stop the column on the road. Then it is done. |
-| 249 | s3ferrybox | Gale | queued | The ferry has one job: stop inside the box. |
-| 250 | s3mazegold | Nock | queued | Play maze until only the gold counts double. Leave when that is true. |
+| 247 | s3mazemark | Nock | complete | A short maze. You are done when a finished mark ends it. |
+| 248 | s3spancolu | Reed | complete | One span. Stop the column on the road. Then it is done. |
+| 249 | s3ferrybox | Gale | complete | The ferry has one job: stop inside the box. |
+| 250 | s3mazegold | Nock | complete | Play maze until only the gold counts double. Leave when that is true. |
 | 251 | s3spanbann | Reed | queued | At the span, you bring the banner back. Miss that and the watch is over. |
 | 252 | s3ferrylock | Gale | queued | In the ferry, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 253 | s3mazeseven | Nock | queued | Maze: first to seven. That is the whole cartridge. |
