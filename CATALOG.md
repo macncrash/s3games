@@ -104,10 +104,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 092 | s3breach | Reed | complete | The hall, then the banner. Bring it back. |
 | 093 | s3lock | Gale | complete | One lock. Don't hit the gates. |
 | 094 | s3beds | Nock | complete | Six beds. Water them before the sun hits the wall. |
-| 095 | s3rearguard | Reed | queued | Walk the column back. The fight is behind you. |
-| 096 | s3funicular | Gale | queued | Stop level with the platform. |
-| 097 | s3clock | Nock | queued | Three hands. The hour has to chime. |
-| 098 | s3standard | Reed | queued | Take the flag off the road and bring it back. |
+| 095 | s3rearguard | Reed | complete | Walk the column back. The fight is behind you. |
+| 096 | s3funicular | Gale | complete | Stop level with the platform. |
+| 097 | s3clock | Nock | complete | Three hands. The hour has to chime. |
+| 098 | s3standard | Reed | complete | Take the flag off the road and bring it back. |
 | 099 | s3grass | Gale | queued | Three circuits of a grass strip. The third landing is a full stop. |
 | 100 | s3drawer | Nock | queued | Close the shop. The drawer matches the tape. |
 | 101 | s3gatereli | Reed | queued | At the gate, you hold until the relief bell. Miss that and the watch is over. |
