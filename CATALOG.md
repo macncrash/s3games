@@ -244,10 +244,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 232 | s3wicketgold | Nock | complete | A short wicket. You are done when only the gold counts double. |
 | 233 | s3yarddoor | Reed | complete | One yard. Hold the door for three minutes. Then it is done. |
 | 234 | s3sledplat | Gale | complete | The sled has one job: stop level with the platform. |
-| 235 | s3wicketseven | Nock | queued | Play wicket until first to seven. Leave when that is true. |
-| 236 | s3yardpouc | Reed | queued | At the yard, you carry the pouch across. Miss that and the watch is over. |
-| 237 | s3sledlane | Gale | queued | In the sled, you stay in the lane for the whole leg. Missing the end fails the leg. |
-| 238 | s3wicketbell | Nock | queued | Wicket: the bell rings before the third try dies. That is the whole cartridge. |
+| 235 | s3wicketseven | Nock | complete | Play wicket until first to seven. Leave when that is true. |
+| 236 | s3yardpouc | Reed | complete | At the yard, you carry the pouch across. Miss that and the watch is over. |
+| 237 | s3sledlane | Gale | complete | In the sled, you stay in the lane for the whole leg. Missing the end fails the leg. |
+| 238 | s3wicketbell | Nock | complete | Wicket: the bell rings before the third try dies. That is the whole cartridge. |
 | 239 | s3yardladd | Reed | queued | You have the yard. The job is to reach the far ladder. Anything else is a loss. |
 | 240 | s3sledmark | Gale | queued | Take the sled and set down on the mark. The clock is the other crew. |
 | 241 | s3wicketchime | Nock | queued | A short wicket. You are done when the hour has to chime. |
