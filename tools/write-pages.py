@@ -178,6 +178,10 @@ DESIGN = {
     "s3ridgepouc": "The pouch has to cross the ridge. Reaching the far side without it is a loss.",
     "s3gliderlane": "Stay between the rails for the whole leg. Leaving the lane fails it even if you reach the gate.",
     "s3curlbell": "The bell has to ring before the third try dies. A later stone is already over.",
+    "s3ridgeladd": "The far ladder is the job. Stopping short of it is a loss.",
+    "s3glidermark": "The wheel has to be on the mark. Close to the mark is still off it.",
+    "s3curlchime": "The hour has to chime. A scored stone before the hour is not this cartridge.",
+    "s3ridgecler": "Clear the ground before the clock dies. A clean yard after the clock is already over.",
 }
 
 
