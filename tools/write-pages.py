@@ -278,6 +278,10 @@ DESIGN = {
     "s3ferryslip": "Berth in the slip before the tide turns, ahead of the other crew. A late berth fails the leg.",
     "s3golfmark": "A finished mark ends it. One hole in one stroke, then leave. The rest of a card is not the job.",
     "s3spandawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
+    "s3ferryboom": "The drive has to land on the boom. Missing the boom fails the job even if you arrive.",
+    "s3golfgold": "The line is 6, and only the gold counts double. Cream shots do not buy the double.",
+    "s3spandoor": "The door has to hold for three minutes. Opening it early ends the watch.",
+    "s3ferryplat": "Stop level with the platform. Close is not level.",
 }
 
 
