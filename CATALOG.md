@@ -328,10 +328,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 316 | s3archtape | Nock | complete | Arch: the drawer has to match the tape. That is the whole cartridge. |
 | 317 | s3alleyreli | Reed | complete | At the alley, you hold until the relief bell. Miss that and the watch is over. |
 | 318 | s3bargebuoy | Gale | complete | In the barge, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 319 | s3skatemark | Nock | queued | Play skate until a finished mark ends it. Leave when that is true. |
-| 320 | s3alleycolu | Reed | queued | You have the alley. The job is to stop the column on the road. Anything else is a loss. |
-| 321 | s3bargebox | Gale | queued | Take the barge and stop inside the box. The clock is the other crew. |
-| 322 | s3skategold | Nock | queued | Skate: only the gold counts double. That is the whole cartridge. |
+| 319 | s3skatemark | Nock | complete | Play skate until a finished mark ends it. Leave when that is true. |
+| 320 | s3alleycolu | Reed | complete | You have the alley. The job is to stop the column on the road. Anything else is a loss. |
+| 321 | s3bargebox | Gale | complete | Take the barge and stop inside the box. The clock is the other crew. |
+| 322 | s3skategold | Nock | complete | Skate: only the gold counts double. That is the whole cartridge. |
 | 323 | s3alleybann | Reed | queued | One alley. Bring the banner back. Then it is done. |
 | 324 | s3bargelock | Gale | queued | The barge has one job: pass the lock without scraping a gate. |
 | 325 | s3skateseven | Nock | queued | A short skate. You are done when first to seven. |
