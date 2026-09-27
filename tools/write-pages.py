@@ -334,6 +334,10 @@ DESIGN = {
     "s3alleycolu": "The column has to stop on the road. A truck that gets through is a loss.",
     "s3bargebox": "Stop inside the box before the other crew. Close to the box is still outside.",
     "s3skategold": "Only the gold counts double. Cream landings do not buy the double.",
+    "s3alleybann": "The banner has to come back down the alley. Reaching it and staying away is not done.",
+    "s3bargelock": "Pass the lock without scraping a gate or a wall. A scrape fails the job even if you make it through.",
+    "s3skateseven": "First to seven lands. A leave under seven is not the game.",
+    "s3alleypurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the alley.",
 }
 
 
