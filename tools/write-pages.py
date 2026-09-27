@@ -302,6 +302,10 @@ DESIGN = {
     "s3cablock": "Pass the lock clear of both gates. A scrape fails the run even if you made it through.",
     "s3tableseven": "First to seven. A leave that looks close and is still under seven is not the game.",
     "s3harborpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the harbor.",
+    "s3cabgrass": "Land on the grass and come to a full stop. A touch that keeps rolling fails the job.",
+    "s3tablebell": "Three tries at one table. The bell has to ring before the third try dies.",
+    "s3harborwell": "The well has to stand through three waves. A stone through is a loss.",
+    "s3cabkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
 }
 
 
