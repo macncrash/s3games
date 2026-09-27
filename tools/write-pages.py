@@ -350,6 +350,10 @@ DESIGN = {
     "s3bargeslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
     "s3boccemark": "Closest to the pallino finishes the mark. The rest of an end is not the job.",
     "s3alleydawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
+    "s3bargeboom": "The drive has to land on the boom ahead of the other crew. A late delivery fails the leg.",
+    "s3boccegold": "Gold nearer than the other side counts double. Cream does not buy the double.",
+    "s3alleydoor": "The door has to hold for three minutes. Opening it early ends the watch.",
+    "s3bargeplat": "Stop level with the platform. Close is not level.",
 }
 
 
