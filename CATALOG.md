@@ -324,10 +324,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 312 | s3cabmark | Gale | complete | In the cab, you set down on the mark. Missing the end fails the leg. |
 | 313 | s3archchime | Nock | complete | Play arch until the hour has to chime. Leave when that is true. |
 | 314 | s3harborcler | Reed | complete | You have the harbor. The job is to clear the ground before the clock dies. Anything else is a loss. |
-| 315 | s3cabturn | Gale | queued | Take the cab and make the three turns without tipping. The clock is the other crew. |
-| 316 | s3archtape | Nock | queued | Arch: the drawer has to match the tape. That is the whole cartridge. |
-| 317 | s3alleyreli | Reed | queued | At the alley, you hold until the relief bell. Miss that and the watch is over. |
-| 318 | s3bargebuoy | Gale | queued | In the barge, you round the buoys and return to the same dock. Missing the end fails the leg. |
+| 315 | s3cabturn | Gale | complete | Take the cab and make the three turns without tipping. The clock is the other crew. |
+| 316 | s3archtape | Nock | complete | Arch: the drawer has to match the tape. That is the whole cartridge. |
+| 317 | s3alleyreli | Reed | complete | At the alley, you hold until the relief bell. Miss that and the watch is over. |
+| 318 | s3bargebuoy | Gale | complete | In the barge, you round the buoys and return to the same dock. Missing the end fails the leg. |
 | 319 | s3skatemark | Nock | queued | Play skate until a finished mark ends it. Leave when that is true. |
 | 320 | s3alleycolu | Reed | queued | You have the alley. The job is to stop the column on the road. Anything else is a loss. |
 | 321 | s3bargebox | Gale | queued | Take the barge and stop inside the box. The clock is the other crew. |
