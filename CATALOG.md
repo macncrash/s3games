@@ -336,10 +336,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 324 | s3bargelock | Gale | complete | The barge has one job: pass the lock without scraping a gate. |
 | 325 | s3skateseven | Nock | complete | A short skate. You are done when first to seven. |
 | 326 | s3alleypurs | Reed | complete | At the alley, you be the last machine still running. Miss that and the watch is over. |
-| 327 | s3bargegrass | Gale | queued | In the barge, you land on the grass and come to a full stop. Missing the end fails the leg. |
-| 328 | s3skatebell | Nock | queued | Play skate until the bell rings before the third try dies. Leave when that is true. |
-| 329 | s3alleywell | Reed | queued | You have the alley. The job is to keep the well standing through three waves. Anything else is a loss. |
-| 330 | s3bargekilo | Gale | queued | Take the barge and finish the kilometer without touching wheels. The clock is the other crew. |
+| 327 | s3bargegrass | Gale | complete | In the barge, you land on the grass and come to a full stop. Missing the end fails the leg. |
+| 328 | s3skatebell | Nock | complete | Play skate until the bell rings before the third try dies. Leave when that is true. |
+| 329 | s3alleywell | Reed | complete | You have the alley. The job is to keep the well standing through three waves. Anything else is a loss. |
+| 330 | s3bargekilo | Gale | complete | Take the barge and finish the kilometer without touching wheels. The clock is the other crew. |
 | 331 | s3skatechime | Nock | queued | Skate: the hour has to chime. That is the whole cartridge. |
 | 332 | s3alleypace | Reed | queued | One alley. Wait until the third pace before you fire. Then it is done. |
 | 333 | s3bargepass | Gale | queued | The barge has one job: clear the pass before the storm clock. |
