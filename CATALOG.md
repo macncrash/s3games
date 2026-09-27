@@ -260,10 +260,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 248 | s3spancolu | Reed | complete | One span. Stop the column on the road. Then it is done. |
 | 249 | s3ferrybox | Gale | complete | The ferry has one job: stop inside the box. |
 | 250 | s3mazegold | Nock | complete | Play maze until only the gold counts double. Leave when that is true. |
-| 251 | s3spanbann | Reed | queued | At the span, you bring the banner back. Miss that and the watch is over. |
-| 252 | s3ferrylock | Gale | queued | In the ferry, you pass the lock without scraping a gate. Missing the end fails the leg. |
-| 253 | s3mazeseven | Nock | queued | Maze: first to seven. That is the whole cartridge. |
-| 254 | s3spanpurs | Reed | queued | You have the span. The job is to be the last machine still running. Anything else is a loss. |
+| 251 | s3spanbann | Reed | complete | At the span, you bring the banner back. Miss that and the watch is over. |
+| 252 | s3ferrylock | Gale | complete | In the ferry, you pass the lock without scraping a gate. Missing the end fails the leg. |
+| 253 | s3mazeseven | Nock | complete | Maze: first to seven. That is the whole cartridge. |
+| 254 | s3spanpurs | Reed | complete | You have the span. The job is to be the last machine still running. Anything else is a loss. |
 | 255 | s3ferrygrass | Gale | queued | Take the ferry and land on the grass and come to a full stop. The clock is the other crew. |
 | 256 | s3mazebell | Nock | queued | A short maze. You are done when the bell rings before the third try dies. |
 | 257 | s3spanwell | Reed | queued | One span. Keep the well standing through three waves. Then it is done. |
