@@ -346,6 +346,10 @@ DESIGN = {
     "s3alleypace": "Fire on the third pace. An earlier shot that still holds the alley is not the job.",
     "s3bargepass": "Clear the gorge before the storm clock dies. Making the pass with the clock already gone fails it.",
     "s3skatetape": "The drawer has to match the tape. A pop that pays the same and is not on the tape stays out.",
+    "s3alleymaga": "The magazine has to outlast the raid. Emptying it before the raid ends fails the watch.",
+    "s3bargeslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
+    "s3boccemark": "Closest to the pallino finishes the mark. The rest of an end is not the job.",
+    "s3alleydawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
 }
 
 
