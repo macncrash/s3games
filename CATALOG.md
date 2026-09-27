@@ -300,10 +300,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 288 | s3cablock | Gale | complete | Take the cab and pass the lock without scraping a gate. The clock is the other crew. |
 | 289 | s3tableseven | Nock | complete | Play table until first to seven. Leave when that is true. |
 | 290 | s3harborpurs | Reed | complete | One harbor. Be the last machine still running. Then it is done. |
-| 291 | s3cabgrass | Gale | queued | The cab has one job: land on the grass and come to a full stop. |
-| 292 | s3tablebell | Nock | queued | Table: the bell rings before the third try dies. That is the whole cartridge. |
-| 293 | s3harborwell | Reed | queued | At the harbor, you keep the well standing through three waves. Miss that and the watch is over. |
-| 294 | s3cabkilo | Gale | queued | In the cab, you finish the kilometer without touching wheels. Missing the end fails the leg. |
+| 291 | s3cabgrass | Gale | complete | The cab has one job: land on the grass and come to a full stop. |
+| 292 | s3tablebell | Nock | complete | Table: the bell rings before the third try dies. That is the whole cartridge. |
+| 293 | s3harborwell | Reed | complete | At the harbor, you keep the well standing through three waves. Miss that and the watch is over. |
+| 294 | s3cabkilo | Gale | complete | In the cab, you finish the kilometer without touching wheels. Missing the end fails the leg. |
 | 295 | s3tablechime | Nock | queued | A short table. You are done when the hour has to chime. |
 | 296 | s3harborpace | Reed | queued | You have the harbor. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 297 | s3cabpass | Gale | queued | Take the cab and clear the pass before the storm clock. The clock is the other crew. |
