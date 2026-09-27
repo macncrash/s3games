@@ -342,6 +342,10 @@ DESIGN = {
     "s3skatebell": "Ring the bell before the third try dies, then leave. A later trick is already over.",
     "s3alleywell": "The well has to stand through three waves. A breach is a loss.",
     "s3bargekilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
+    "s3skatechime": "The hour has to chime, then leave. A run that ends before the hour is not this cartridge.",
+    "s3alleypace": "Fire on the third pace. An earlier shot that still holds the alley is not the job.",
+    "s3bargepass": "Clear the gorge before the storm clock dies. Making the pass with the clock already gone fails it.",
+    "s3skatetape": "The drawer has to match the tape. A pop that pays the same and is not on the tape stays out.",
 }
 
 
