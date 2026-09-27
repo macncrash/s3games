@@ -314,6 +314,10 @@ DESIGN = {
     "s3cabslip": "Berth in the slip before the tide turns. A late berth fails the job even if you find the slip.",
     "s3archmark": "The gold arrow is the mark, and lifting it finishes the mark. The rest of an end is not the job.",
     "s3harbordawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
+    "s3cabboom": "The drive has to land on the boom. Missing the boom fails the leg even if you arrive.",
+    "s3archgold": "Only the gold counts double, and the line is 300. Cream arrows do not buy the double.",
+    "s3harbordoor": "The door has to hold, and the hull has to stay whole. Opening it early ends the watch.",
+    "s3cabplat": "Stop level with the platform. Close is not level.",
 }
 
 
