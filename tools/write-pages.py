@@ -310,6 +310,10 @@ DESIGN = {
     "s3harborpace": "Fire on the third pace. An earlier shot that still holds the harbor is not the job.",
     "s3cabpass": "Clear the pass before the storm clock dies, ahead of the other crew. Making the pass with the clock already gone fails the leg.",
     "s3tabletape": "The drawer has to match the tape, then you leave. A leave that is close is still open.",
+    "s3harbormaga": "The magazine has to outlast the raid. Emptying it before the cutters are done fails the watch.",
+    "s3cabslip": "Berth in the slip before the tide turns. A late berth fails the job even if you find the slip.",
+    "s3archmark": "The gold arrow is the mark, and lifting it finishes the mark. The rest of an end is not the job.",
+    "s3harbordawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
 }
 
 
