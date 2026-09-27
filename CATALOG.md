@@ -288,10 +288,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 276 | s3ferrymark | Gale | complete | The ferry has one job: set down on the mark. |
 | 277 | s3golfchime | Nock | complete | Golf: the hour has to chime. That is the whole cartridge. |
 | 278 | s3spancler | Reed | complete | At the span, you clear the ground before the clock dies. Miss that and the watch is over. |
-| 279 | s3ferryturn | Gale | queued | In the ferry, you make the three turns without tipping. Missing the end fails the leg. |
-| 280 | s3golftape | Nock | queued | A short golf. You are done when the drawer has to match the tape. |
-| 281 | s3harborreli | Reed | queued | One harbor. Hold until the relief bell. Then it is done. |
-| 282 | s3cabbuoy | Gale | queued | The cab has one job: round the buoys and return to the same dock. |
+| 279 | s3ferryturn | Gale | complete | In the ferry, you make the three turns without tipping. Missing the end fails the leg. |
+| 280 | s3golftape | Nock | complete | A short golf. You are done when the drawer has to match the tape. |
+| 281 | s3harborreli | Reed | complete | One harbor. Hold until the relief bell. Then it is done. |
+| 282 | s3cabbuoy | Gale | complete | The cab has one job: round the buoys and return to the same dock. |
 | 283 | s3tablemark | Nock | queued | Table: a finished mark ends it. That is the whole cartridge. |
 | 284 | s3harborcolu | Reed | queued | At the harbor, you stop the column on the road. Miss that and the watch is over. |
 | 285 | s3cabbox | Gale | queued | In the cab, you stop inside the box. Missing the end fails the leg. |
