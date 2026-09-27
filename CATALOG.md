@@ -264,10 +264,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 252 | s3ferrylock | Gale | complete | In the ferry, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 253 | s3mazeseven | Nock | complete | Maze: first to seven. That is the whole cartridge. |
 | 254 | s3spanpurs | Reed | complete | You have the span. The job is to be the last machine still running. Anything else is a loss. |
-| 255 | s3ferrygrass | Gale | queued | Take the ferry and land on the grass and come to a full stop. The clock is the other crew. |
-| 256 | s3mazebell | Nock | queued | A short maze. You are done when the bell rings before the third try dies. |
-| 257 | s3spanwell | Reed | queued | One span. Keep the well standing through three waves. Then it is done. |
-| 258 | s3ferrykilo | Gale | queued | The ferry has one job: finish the kilometer without touching wheels. |
+| 255 | s3ferrygrass | Gale | complete | Take the ferry and land on the grass and come to a full stop. The clock is the other crew. |
+| 256 | s3mazebell | Nock | complete | A short maze. You are done when the bell rings before the third try dies. |
+| 257 | s3spanwell | Reed | complete | One span. Keep the well standing through three waves. Then it is done. |
+| 258 | s3ferrykilo | Gale | complete | The ferry has one job: finish the kilometer without touching wheels. |
 | 259 | s3mazechime | Nock | queued | Play maze until the hour has to chime. Leave when that is true. |
 | 260 | s3spanpace | Reed | queued | At the span, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 261 | s3ferrypass | Gale | queued | In the ferry, you clear the pass before the storm clock. Missing the end fails the leg. |
