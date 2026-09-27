@@ -262,6 +262,10 @@ DESIGN = {
     "s3spancolu": "The column has to stop on the road. A truck that gets through is a loss.",
     "s3ferrybox": "Stop inside the box. Close to the box is still outside.",
     "s3mazegold": "Only the gold counts double, then leave. Cream steps do not buy the double.",
+    "s3spanbann": "The banner has to come back onto the span. Reaching it and staying off the span ends the watch.",
+    "s3ferrylock": "Pass the lock without scraping a gate. Missing the far end fails the leg even if the leaves never touched the hull.",
+    "s3mazeseven": "First to seven. A leave that looks close and is still under seven is not the game.",
+    "s3spanpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the span.",
 }
 
 
