@@ -292,10 +292,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 280 | s3golftape | Nock | complete | A short golf. You are done when the drawer has to match the tape. |
 | 281 | s3harborreli | Reed | complete | One harbor. Hold until the relief bell. Then it is done. |
 | 282 | s3cabbuoy | Gale | complete | The cab has one job: round the buoys and return to the same dock. |
-| 283 | s3tablemark | Nock | queued | Table: a finished mark ends it. That is the whole cartridge. |
-| 284 | s3harborcolu | Reed | queued | At the harbor, you stop the column on the road. Miss that and the watch is over. |
-| 285 | s3cabbox | Gale | queued | In the cab, you stop inside the box. Missing the end fails the leg. |
-| 286 | s3tablegold | Nock | queued | A short table. You are done when only the gold counts double. |
+| 283 | s3tablemark | Nock | complete | Table: a finished mark ends it. That is the whole cartridge. |
+| 284 | s3harborcolu | Reed | complete | At the harbor, you stop the column on the road. Miss that and the watch is over. |
+| 285 | s3cabbox | Gale | complete | In the cab, you stop inside the box. Missing the end fails the leg. |
+| 286 | s3tablegold | Nock | complete | A short table. You are done when only the gold counts double. |
 | 287 | s3harborbann | Reed | queued | You have the harbor. The job is to bring the banner back. Anything else is a loss. |
 | 288 | s3cablock | Gale | queued | Take the cab and pass the lock without scraping a gate. The clock is the other crew. |
 | 289 | s3tableseven | Nock | queued | Play table until first to seven. Leave when that is true. |
