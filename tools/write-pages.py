@@ -318,6 +318,10 @@ DESIGN = {
     "s3archgold": "Only the gold counts double, and the line is 300. Cream arrows do not buy the double.",
     "s3harbordoor": "The door has to hold, and the hull has to stay whole. Opening it early ends the watch.",
     "s3cabplat": "Stop level with the platform. Close is not level.",
+    "s3archseven": "One arrow apiece, first to seven. A leave under seven is not the game.",
+    "s3harborpouc": "The pouch has to cross the harbor. Reaching the far side without it is not done.",
+    "s3cablane": "Stay in the lane for the whole leg. Leaving the lane fails it even if you reach the gate.",
+    "s3archbell": "Three tries. The bell has to ring before the third try dies.",
 }
 
 
