@@ -338,6 +338,10 @@ DESIGN = {
     "s3bargelock": "Pass the lock without scraping a gate or a wall. A scrape fails the job even if you make it through.",
     "s3skateseven": "First to seven lands. A leave under seven is not the game.",
     "s3alleypurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the alley.",
+    "s3bargegrass": "Land on the grass and come to a full stop. A touch that keeps rolling fails the leg.",
+    "s3skatebell": "Ring the bell before the third try dies, then leave. A later trick is already over.",
+    "s3alleywell": "The well has to stand through three waves. A breach is a loss.",
+    "s3bargekilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
 }
 
 
