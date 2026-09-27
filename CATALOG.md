@@ -276,10 +276,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 264 | s3ferryslip | Gale | complete | Take the ferry and berth in the slip before the tide turns. The clock is the other crew. |
 | 265 | s3golfmark | Nock | complete | Play golf until a finished mark ends it. Leave when that is true. |
 | 266 | s3spandawn | Reed | complete | One span. Keep the flares lit until dawn. Then it is done. |
-| 267 | s3ferryboom | Gale | queued | The ferry has one job: deliver the drive to the boom. |
-| 268 | s3golfgold | Nock | queued | Golf: only the gold counts double. That is the whole cartridge. |
-| 269 | s3spandoor | Reed | queued | At the span, you hold the door for three minutes. Miss that and the watch is over. |
-| 270 | s3ferryplat | Gale | queued | In the ferry, you stop level with the platform. Missing the end fails the leg. |
+| 267 | s3ferryboom | Gale | complete | The ferry has one job: deliver the drive to the boom. |
+| 268 | s3golfgold | Nock | complete | Golf: only the gold counts double. That is the whole cartridge. |
+| 269 | s3spandoor | Reed | complete | At the span, you hold the door for three minutes. Miss that and the watch is over. |
+| 270 | s3ferryplat | Gale | complete | In the ferry, you stop level with the platform. Missing the end fails the leg. |
 | 271 | s3golfseven | Nock | queued | A short golf. You are done when first to seven. |
 | 272 | s3spanpouc | Reed | queued | You have the span. The job is to carry the pouch across. Anything else is a loss. |
 | 273 | s3ferrylane | Gale | queued | Take the ferry and stay in the lane for the whole leg. The clock is the other crew. |
