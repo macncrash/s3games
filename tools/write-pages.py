@@ -282,6 +282,10 @@ DESIGN = {
     "s3golfgold": "The line is 6, and only the gold counts double. Cream shots do not buy the double.",
     "s3spandoor": "The door has to hold for three minutes. Opening it early ends the watch.",
     "s3ferryplat": "Stop level with the platform. Close is not level.",
+    "s3golfseven": "First to seven, one pitch apiece. A six that looks close is still short.",
+    "s3spanpouc": "The pouch has to cross the span. Reaching the far side without it is a loss.",
+    "s3ferrylane": "Stay inside the buoyed channel for the whole crossing. Leaving the lane fails the leg.",
+    "s3golfbell": "Three tries at one cup. The bell has to ring before the third try dies.",
 }
 
 
