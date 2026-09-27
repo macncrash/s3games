@@ -322,6 +322,10 @@ DESIGN = {
     "s3harborpouc": "The pouch has to cross the harbor. Reaching the far side without it is not done.",
     "s3cablane": "Stay in the lane for the whole leg. Leaving the lane fails it even if you reach the gate.",
     "s3archbell": "Three tries. The bell has to ring before the third try dies.",
+    "s3harborladd": "The far ladder is the job. Stopping short of it ends the watch.",
+    "s3cabmark": "The cab has to be on the mark. Close to the mark fails the leg.",
+    "s3archchime": "The hour has to chime. An arrow before the hour is not this cartridge.",
+    "s3harborcler": "Clear the quay before the clock dies. A clean quay after the clock is already over.",
 }
 
 
