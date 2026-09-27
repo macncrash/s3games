@@ -298,6 +298,10 @@ DESIGN = {
     "s3harborcolu": "The column has to stop on the road. A lorry that gets through is a loss.",
     "s3cabbox": "Stop inside the box. Close to the box is still outside, and that fails the leg.",
     "s3tablegold": "The line is 4, and only the gold counts double. Cream balls do not buy the double.",
+    "s3harborbann": "The banner has to come back to the harbor. Reaching it and staying away is a loss.",
+    "s3cablock": "Pass the lock clear of both gates. A scrape fails the run even if you made it through.",
+    "s3tableseven": "First to seven. A leave that looks close and is still under seven is not the game.",
+    "s3harborpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the harbor.",
 }
 
 
