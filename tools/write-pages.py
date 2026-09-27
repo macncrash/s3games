@@ -290,6 +290,10 @@ DESIGN = {
     "s3ferrymark": "The hull has to be on the mark. Close to the mark fails the job.",
     "s3golfchime": "The hour has to chime. A holed ball before the hour is not this cartridge.",
     "s3spancler": "Clear the ground before the clock dies. A clean span after the clock is already over.",
+    "s3ferryturn": "Three turns without tipping. A list that puts the ferry over fails the leg.",
+    "s3golftape": "The drawer has to match the tape, and that closes the short golf. A shot that pays the same and is not on the tape stays out.",
+    "s3harborreli": "Hold the harbor until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3cabbuoy": "Round the buoys to port and stop in the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
