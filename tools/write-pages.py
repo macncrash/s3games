@@ -330,6 +330,10 @@ DESIGN = {
     "s3archtape": "The drawer has to match the tape, then you leave. A score that does not match the tape is still open.",
     "s3alleyreli": "Hold the alley until the relief bell, then answer it. Surviving the watch and missing the bell is not relief.",
     "s3bargebuoy": "Round the buoys to port and stop in the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3skatemark": "Land the three spots with no falls. A fall ends the mark even if the line looks finished.",
+    "s3alleycolu": "The column has to stop on the road. A truck that gets through is a loss.",
+    "s3bargebox": "Stop inside the box before the other crew. Close to the box is still outside.",
+    "s3skategold": "Only the gold counts double. Cream landings do not buy the double.",
 }
 
 
