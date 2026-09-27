@@ -340,10 +340,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 328 | s3skatebell | Nock | complete | Play skate until the bell rings before the third try dies. Leave when that is true. |
 | 329 | s3alleywell | Reed | complete | You have the alley. The job is to keep the well standing through three waves. Anything else is a loss. |
 | 330 | s3bargekilo | Gale | complete | Take the barge and finish the kilometer without touching wheels. The clock is the other crew. |
-| 331 | s3skatechime | Nock | queued | Skate: the hour has to chime. That is the whole cartridge. |
-| 332 | s3alleypace | Reed | queued | One alley. Wait until the third pace before you fire. Then it is done. |
-| 333 | s3bargepass | Gale | queued | The barge has one job: clear the pass before the storm clock. |
-| 334 | s3skatetape | Nock | queued | A short skate. You are done when the drawer has to match the tape. |
+| 331 | s3skatechime | Nock | complete | Skate: the hour has to chime. That is the whole cartridge. |
+| 332 | s3alleypace | Reed | complete | One alley. Wait until the third pace before you fire. Then it is done. |
+| 333 | s3bargepass | Gale | complete | The barge has one job: clear the pass before the storm clock. |
+| 334 | s3skatetape | Nock | complete | A short skate. You are done when the drawer has to match the tape. |
 | 335 | s3alleymaga | Reed | queued | At the alley, you make the magazine last longer than the raid. Miss that and the watch is over. |
 | 336 | s3bargeslip | Gale | queued | In the barge, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 337 | s3boccemark | Nock | queued | Bocce: a finished mark ends it. That is the whole cartridge. |
