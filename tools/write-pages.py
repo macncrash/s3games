@@ -270,6 +270,10 @@ DESIGN = {
     "s3mazebell": "The bell has to ring before the third try dies. A later step is already over.",
     "s3spanwell": "The well has to hold the span through three waves. A breach drops the span.",
     "s3ferrykilo": "Finish the kilometer with the wheels untouched. A scrape spends the run even if you make the distance.",
+    "s3mazechime": "The hour has to chime, then leave. A path out before the hour is not this cartridge.",
+    "s3spanpace": "Fire on the third pace. An earlier shot that still holds the watch is not the job.",
+    "s3ferrypass": "Clear the pass before the storm clock dies. Making the pass with the clock already gone fails the leg.",
+    "s3mazetape": "The drawer has to match the tape, then you leave. A path that is close is still open.",
 }
 
 
