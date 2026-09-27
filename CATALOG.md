@@ -268,10 +268,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 256 | s3mazebell | Nock | complete | A short maze. You are done when the bell rings before the third try dies. |
 | 257 | s3spanwell | Reed | complete | One span. Keep the well standing through three waves. Then it is done. |
 | 258 | s3ferrykilo | Gale | complete | The ferry has one job: finish the kilometer without touching wheels. |
-| 259 | s3mazechime | Nock | queued | Play maze until the hour has to chime. Leave when that is true. |
-| 260 | s3spanpace | Reed | queued | At the span, you wait until the third pace before you fire. Miss that and the watch is over. |
-| 261 | s3ferrypass | Gale | queued | In the ferry, you clear the pass before the storm clock. Missing the end fails the leg. |
-| 262 | s3mazetape | Nock | queued | Maze: the drawer has to match the tape. That is the whole cartridge. |
+| 259 | s3mazechime | Nock | complete | Play maze until the hour has to chime. Leave when that is true. |
+| 260 | s3spanpace | Reed | complete | At the span, you wait until the third pace before you fire. Miss that and the watch is over. |
+| 261 | s3ferrypass | Gale | complete | In the ferry, you clear the pass before the storm clock. Missing the end fails the leg. |
+| 262 | s3mazetape | Nock | complete | Maze: the drawer has to match the tape. That is the whole cartridge. |
 | 263 | s3spanmaga | Reed | queued | You have the span. The job is to make the magazine last longer than the raid. Anything else is a loss. |
 | 264 | s3ferryslip | Gale | queued | Take the ferry and berth in the slip before the tide turns. The clock is the other crew. |
 | 265 | s3golfmark | Nock | queued | Play golf until a finished mark ends it. Leave when that is true. |
