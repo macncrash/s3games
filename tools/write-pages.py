@@ -274,6 +274,10 @@ DESIGN = {
     "s3spanpace": "Fire on the third pace. An earlier shot that still holds the watch is not the job.",
     "s3ferrypass": "Clear the pass before the storm clock dies. Making the pass with the clock already gone fails the leg.",
     "s3mazetape": "The drawer has to match the tape, then you leave. A path that is close is still open.",
+    "s3spanmaga": "The magazine has to outlast the raid on the open deck. Emptying it before the raid ends fails the watch.",
+    "s3ferryslip": "Berth in the slip before the tide turns, ahead of the other crew. A late berth fails the leg.",
+    "s3golfmark": "A finished mark ends it. One hole in one stroke, then leave. The rest of a card is not the job.",
+    "s3spandawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
 }
 
 
