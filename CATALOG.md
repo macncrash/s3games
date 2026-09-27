@@ -332,10 +332,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 320 | s3alleycolu | Reed | complete | You have the alley. The job is to stop the column on the road. Anything else is a loss. |
 | 321 | s3bargebox | Gale | complete | Take the barge and stop inside the box. The clock is the other crew. |
 | 322 | s3skategold | Nock | complete | Skate: only the gold counts double. That is the whole cartridge. |
-| 323 | s3alleybann | Reed | queued | One alley. Bring the banner back. Then it is done. |
-| 324 | s3bargelock | Gale | queued | The barge has one job: pass the lock without scraping a gate. |
-| 325 | s3skateseven | Nock | queued | A short skate. You are done when first to seven. |
-| 326 | s3alleypurs | Reed | queued | At the alley, you be the last machine still running. Miss that and the watch is over. |
+| 323 | s3alleybann | Reed | complete | One alley. Bring the banner back. Then it is done. |
+| 324 | s3bargelock | Gale | complete | The barge has one job: pass the lock without scraping a gate. |
+| 325 | s3skateseven | Nock | complete | A short skate. You are done when first to seven. |
+| 326 | s3alleypurs | Reed | complete | At the alley, you be the last machine still running. Miss that and the watch is over. |
 | 327 | s3bargegrass | Gale | queued | In the barge, you land on the grass and come to a full stop. Missing the end fails the leg. |
 | 328 | s3skatebell | Nock | queued | Play skate until the bell rings before the third try dies. Leave when that is true. |
 | 329 | s3alleywell | Reed | queued | You have the alley. The job is to keep the well standing through three waves. Anything else is a loss. |
