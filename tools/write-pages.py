@@ -286,6 +286,10 @@ DESIGN = {
     "s3spanpouc": "The pouch has to cross the span. Reaching the far side without it is a loss.",
     "s3ferrylane": "Stay inside the buoyed channel for the whole crossing. Leaving the lane fails the leg.",
     "s3golfbell": "Three tries at one cup. The bell has to ring before the third try dies.",
+    "s3spanladd": "The far ladder is the job. Stopping short of it is a loss.",
+    "s3ferrymark": "The hull has to be on the mark. Close to the mark fails the job.",
+    "s3golfchime": "The hour has to chime. A holed ball before the hour is not this cartridge.",
+    "s3spancler": "Clear the ground before the clock dies. A clean span after the clock is already over.",
 }
 
 
