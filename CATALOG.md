@@ -296,10 +296,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 284 | s3harborcolu | Reed | complete | At the harbor, you stop the column on the road. Miss that and the watch is over. |
 | 285 | s3cabbox | Gale | complete | In the cab, you stop inside the box. Missing the end fails the leg. |
 | 286 | s3tablegold | Nock | complete | A short table. You are done when only the gold counts double. |
-| 287 | s3harborbann | Reed | queued | You have the harbor. The job is to bring the banner back. Anything else is a loss. |
-| 288 | s3cablock | Gale | queued | Take the cab and pass the lock without scraping a gate. The clock is the other crew. |
-| 289 | s3tableseven | Nock | queued | Play table until first to seven. Leave when that is true. |
-| 290 | s3harborpurs | Reed | queued | One harbor. Be the last machine still running. Then it is done. |
+| 287 | s3harborbann | Reed | complete | You have the harbor. The job is to bring the banner back. Anything else is a loss. |
+| 288 | s3cablock | Gale | complete | Take the cab and pass the lock without scraping a gate. The clock is the other crew. |
+| 289 | s3tableseven | Nock | complete | Play table until first to seven. Leave when that is true. |
+| 290 | s3harborpurs | Reed | complete | One harbor. Be the last machine still running. Then it is done. |
 | 291 | s3cabgrass | Gale | queued | The cab has one job: land on the grass and come to a full stop. |
 | 292 | s3tablebell | Nock | queued | Table: the bell rings before the third try dies. That is the whole cartridge. |
 | 293 | s3harborwell | Reed | queued | At the harbor, you keep the well standing through three waves. Miss that and the watch is over. |
