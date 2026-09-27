@@ -306,6 +306,10 @@ DESIGN = {
     "s3tablebell": "Three tries at one table. The bell has to ring before the third try dies.",
     "s3harborwell": "The well has to stand through three waves. A stone through is a loss.",
     "s3cabkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
+    "s3tablechime": "The hour has to chime. A cup before the hour is not this cartridge.",
+    "s3harborpace": "Fire on the third pace. An earlier shot that still holds the harbor is not the job.",
+    "s3cabpass": "Clear the pass before the storm clock dies, ahead of the other crew. Making the pass with the clock already gone fails the leg.",
+    "s3tabletape": "The drawer has to match the tape, then you leave. A leave that is close is still open.",
 }
 
 
