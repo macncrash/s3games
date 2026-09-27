@@ -308,10 +308,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 296 | s3harborpace | Reed | complete | You have the harbor. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 297 | s3cabpass | Gale | complete | Take the cab and clear the pass before the storm clock. The clock is the other crew. |
 | 298 | s3tabletape | Nock | complete | Play table until the drawer has to match the tape. Leave when that is true. |
-| 299 | s3harbormaga | Reed | queued | One harbor. Make the magazine last longer than the raid. Then it is done. |
-| 300 | s3cabslip | Gale | queued | The cab has one job: berth in the slip before the tide turns. |
-| 301 | s3archmark | Nock | queued | A short arch. You are done when a finished mark ends it. |
-| 302 | s3harbordawn | Reed | queued | At the harbor, you keep the flares lit until dawn. Miss that and the watch is over. |
+| 299 | s3harbormaga | Reed | complete | One harbor. Make the magazine last longer than the raid. Then it is done. |
+| 300 | s3cabslip | Gale | complete | The cab has one job: berth in the slip before the tide turns. |
+| 301 | s3archmark | Nock | complete | A short arch. You are done when a finished mark ends it. |
+| 302 | s3harbordawn | Reed | complete | At the harbor, you keep the flares lit until dawn. Miss that and the watch is over. |
 | 303 | s3cabboom | Gale | queued | In the cab, you deliver the drive to the boom. Missing the end fails the leg. |
 | 304 | s3archgold | Nock | queued | Play arch until only the gold counts double. Leave when that is true. |
 | 305 | s3harbordoor | Reed | queued | You have the harbor. The job is to hold the door for three minutes. Anything else is a loss. |
