@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>S3 ALLEY DOOR</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #0c0c12; color: #e8e4d8; }
+  body { display: flex; align-items: center; justify-content: center; }
+  canvas { width: min(100vw, calc(100vh * 320 / 224)); height: auto; image-rendering: pixelated; background: #000; }
+</style>
+</head>
+<body>
+<canvas id="canvas"></canvas>
+<script>
+var Module = {
+  canvas: document.getElementById("canvas"),
+  print: function (t) { console.log(t); },
+  printErr: function (t) { console.warn(t); }
+};
+</script>
+{{{ SCRIPT }}}
+</body>
+</html>
