@@ -326,6 +326,10 @@ DESIGN = {
     "s3cabmark": "The cab has to be on the mark. Close to the mark fails the leg.",
     "s3archchime": "The hour has to chime. An arrow before the hour is not this cartridge.",
     "s3harborcler": "Clear the quay before the clock dies. A clean quay after the clock is already over.",
+    "s3cabturn": "Three turns upright, ahead of the other crew. Tipping fails the leg.",
+    "s3archtape": "The drawer has to match the tape, then you leave. A score that does not match the tape is still open.",
+    "s3alleyreli": "Hold the alley until the relief bell, then answer it. Surviving the watch and missing the bell is not relief.",
+    "s3bargebuoy": "Round the buoys to port and stop in the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
