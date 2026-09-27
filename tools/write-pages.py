@@ -266,6 +266,10 @@ DESIGN = {
     "s3ferrylock": "Pass the lock without scraping a gate. Missing the far end fails the leg even if the leaves never touched the hull.",
     "s3mazeseven": "First to seven. A leave that looks close and is still under seven is not the game.",
     "s3spanpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the span.",
+    "s3ferrygrass": "Land on the grass and come to a full stop ahead of the other crew. A touch that keeps rolling fails the leg.",
+    "s3mazebell": "The bell has to ring before the third try dies. A later step is already over.",
+    "s3spanwell": "The well has to hold the span through three waves. A breach drops the span.",
+    "s3ferrykilo": "Finish the kilometer with the wheels untouched. A scrape spends the run even if you make the distance.",
 }
 
 
