@@ -284,10 +284,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 272 | s3spanpouc | Reed | complete | You have the span. The job is to carry the pouch across. Anything else is a loss. |
 | 273 | s3ferrylane | Gale | complete | Take the ferry and stay in the lane for the whole leg. The clock is the other crew. |
 | 274 | s3golfbell | Nock | complete | Play golf until the bell rings before the third try dies. Leave when that is true. |
-| 275 | s3spanladd | Reed | queued | One span. Reach the far ladder. Then it is done. |
-| 276 | s3ferrymark | Gale | queued | The ferry has one job: set down on the mark. |
-| 277 | s3golfchime | Nock | queued | Golf: the hour has to chime. That is the whole cartridge. |
-| 278 | s3spancler | Reed | queued | At the span, you clear the ground before the clock dies. Miss that and the watch is over. |
+| 275 | s3spanladd | Reed | complete | One span. Reach the far ladder. Then it is done. |
+| 276 | s3ferrymark | Gale | complete | The ferry has one job: set down on the mark. |
+| 277 | s3golfchime | Nock | complete | Golf: the hour has to chime. That is the whole cartridge. |
+| 278 | s3spancler | Reed | complete | At the span, you clear the ground before the clock dies. Miss that and the watch is over. |
 | 279 | s3ferryturn | Gale | queued | In the ferry, you make the three turns without tipping. Missing the end fails the leg. |
 | 280 | s3golftape | Nock | queued | A short golf. You are done when the drawer has to match the tape. |
 | 281 | s3harborreli | Reed | queued | One harbor. Hold until the relief bell. Then it is done. |
