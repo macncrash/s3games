@@ -312,10 +312,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 300 | s3cabslip | Gale | complete | The cab has one job: berth in the slip before the tide turns. |
 | 301 | s3archmark | Nock | complete | A short arch. You are done when a finished mark ends it. |
 | 302 | s3harbordawn | Reed | complete | At the harbor, you keep the flares lit until dawn. Miss that and the watch is over. |
-| 303 | s3cabboom | Gale | queued | In the cab, you deliver the drive to the boom. Missing the end fails the leg. |
-| 304 | s3archgold | Nock | queued | Play arch until only the gold counts double. Leave when that is true. |
-| 305 | s3harbordoor | Reed | queued | You have the harbor. The job is to hold the door for three minutes. Anything else is a loss. |
-| 306 | s3cabplat | Gale | queued | Take the cab and stop level with the platform. The clock is the other crew. |
+| 303 | s3cabboom | Gale | complete | In the cab, you deliver the drive to the boom. Missing the end fails the leg. |
+| 304 | s3archgold | Nock | complete | Play arch until only the gold counts double. Leave when that is true. |
+| 305 | s3harbordoor | Reed | complete | You have the harbor. The job is to hold the door for three minutes. Anything else is a loss. |
+| 306 | s3cabplat | Gale | complete | Take the cab and stop level with the platform. The clock is the other crew. |
 | 307 | s3archseven | Nock | queued | Arch: first to seven. That is the whole cartridge. |
 | 308 | s3harborpouc | Reed | queued | One harbor. Carry the pouch across. Then it is done. |
 | 309 | s3cablane | Gale | queued | The cab has one job: stay in the lane for the whole leg. |
