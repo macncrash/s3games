@@ -294,6 +294,10 @@ DESIGN = {
     "s3golftape": "The drawer has to match the tape, and that closes the short golf. A shot that pays the same and is not on the tape stays out.",
     "s3harborreli": "Hold the harbor until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3cabbuoy": "Round the buoys to port and stop in the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3tablemark": "On the mark finishes it. One shot, then leave. The rest of a frame is not the job.",
+    "s3harborcolu": "The column has to stop on the road. A lorry that gets through is a loss.",
+    "s3cabbox": "Stop inside the box. Close to the box is still outside, and that fails the leg.",
+    "s3tablegold": "The line is 4, and only the gold counts double. Cream balls do not buy the double.",
 }
 
 
