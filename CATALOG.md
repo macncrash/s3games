@@ -320,10 +320,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 308 | s3harborpouc | Reed | complete | One harbor. Carry the pouch across. Then it is done. |
 | 309 | s3cablane | Gale | complete | The cab has one job: stay in the lane for the whole leg. |
 | 310 | s3archbell | Nock | complete | A short arch. You are done when the bell rings before the third try dies. |
-| 311 | s3harborladd | Reed | queued | At the harbor, you reach the far ladder. Miss that and the watch is over. |
-| 312 | s3cabmark | Gale | queued | In the cab, you set down on the mark. Missing the end fails the leg. |
-| 313 | s3archchime | Nock | queued | Play arch until the hour has to chime. Leave when that is true. |
-| 314 | s3harborcler | Reed | queued | You have the harbor. The job is to clear the ground before the clock dies. Anything else is a loss. |
+| 311 | s3harborladd | Reed | complete | At the harbor, you reach the far ladder. Miss that and the watch is over. |
+| 312 | s3cabmark | Gale | complete | In the cab, you set down on the mark. Missing the end fails the leg. |
+| 313 | s3archchime | Nock | complete | Play arch until the hour has to chime. Leave when that is true. |
+| 314 | s3harborcler | Reed | complete | You have the harbor. The job is to clear the ground before the clock dies. Anything else is a loss. |
 | 315 | s3cabturn | Gale | queued | Take the cab and make the three turns without tipping. The clock is the other crew. |
 | 316 | s3archtape | Nock | queued | Arch: the drawer has to match the tape. That is the whole cartridge. |
 | 317 | s3alleyreli | Reed | queued | At the alley, you hold until the relief bell. Miss that and the watch is over. |
