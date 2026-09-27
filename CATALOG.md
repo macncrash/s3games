@@ -348,10 +348,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 336 | s3bargeslip | Gale | complete | In the barge, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 337 | s3boccemark | Nock | complete | Bocce: a finished mark ends it. That is the whole cartridge. |
 | 338 | s3alleydawn | Reed | complete | You have the alley. The job is to keep the flares lit until dawn. Anything else is a loss. |
-| 339 | s3bargeboom | Gale | queued | Take the barge and deliver the drive to the boom. The clock is the other crew. |
-| 340 | s3boccegold | Nock | queued | A short bocce. You are done when only the gold counts double. |
-| 341 | s3alleydoor | Reed | queued | One alley. Hold the door for three minutes. Then it is done. |
-| 342 | s3bargeplat | Gale | queued | The barge has one job: stop level with the platform. |
+| 339 | s3bargeboom | Gale | complete | Take the barge and deliver the drive to the boom. The clock is the other crew. |
+| 340 | s3boccegold | Nock | complete | A short bocce. You are done when only the gold counts double. |
+| 341 | s3alleydoor | Reed | complete | One alley. Hold the door for three minutes. Then it is done. |
+| 342 | s3bargeplat | Gale | complete | The barge has one job: stop level with the platform. |
 | 343 | s3bocceseven | Nock | queued | Play bocce until first to seven. Leave when that is true. |
 | 344 | s3alleypouc | Reed | queued | At the alley, you carry the pouch across. Miss that and the watch is over. |
 | 345 | s3bargelane | Gale | queued | In the barge, you stay in the lane for the whole leg. Missing the end fails the leg. |
