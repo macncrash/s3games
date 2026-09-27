@@ -344,10 +344,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 332 | s3alleypace | Reed | complete | One alley. Wait until the third pace before you fire. Then it is done. |
 | 333 | s3bargepass | Gale | complete | The barge has one job: clear the pass before the storm clock. |
 | 334 | s3skatetape | Nock | complete | A short skate. You are done when the drawer has to match the tape. |
-| 335 | s3alleymaga | Reed | queued | At the alley, you make the magazine last longer than the raid. Miss that and the watch is over. |
-| 336 | s3bargeslip | Gale | queued | In the barge, you berth in the slip before the tide turns. Missing the end fails the leg. |
-| 337 | s3boccemark | Nock | queued | Bocce: a finished mark ends it. That is the whole cartridge. |
-| 338 | s3alleydawn | Reed | queued | You have the alley. The job is to keep the flares lit until dawn. Anything else is a loss. |
+| 335 | s3alleymaga | Reed | complete | At the alley, you make the magazine last longer than the raid. Miss that and the watch is over. |
+| 336 | s3bargeslip | Gale | complete | In the barge, you berth in the slip before the tide turns. Missing the end fails the leg. |
+| 337 | s3boccemark | Nock | complete | Bocce: a finished mark ends it. That is the whole cartridge. |
+| 338 | s3alleydawn | Reed | complete | You have the alley. The job is to keep the flares lit until dawn. Anything else is a loss. |
 | 339 | s3bargeboom | Gale | queued | Take the barge and deliver the drive to the boom. The clock is the other crew. |
 | 340 | s3boccegold | Nock | queued | A short bocce. You are done when only the gold counts double. |
 | 341 | s3alleydoor | Reed | queued | One alley. Hold the door for three minutes. Then it is done. |
