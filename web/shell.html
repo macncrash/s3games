@@ -28,6 +28,11 @@
   </div>
   <div><a href="../../index.html">all games</a></div>
 <script>
+  // Log scores/plays/ratings/feedback to the S3 scoreboard (same host the console pins).
+  // A ?score=http://localhost... override is allowed for local testing only.
+  window.S3_SCORE_URL = "https://s3.cyberducky.ai";
+  (function(){ var w = new URLSearchParams(location.search).get("score");
+    if (w && /^http:\/\/(localhost|127\.0\.0\.1|\[::1\])(:|\/|$)/.test(w)) window.S3_SCORE_URL = w; })();
   const overlay = document.getElementById('overlay');
   const statusEl = document.getElementById('status');
   const canvas = document.getElementById('canvas');
