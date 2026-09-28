@@ -390,6 +390,10 @@ DESIGN = {
     "s3shufflegold": "A gold disk in the 3 counts double. Cream does not buy the double.",
     "s3bunkerdoor": "The blast door has to hold for three minutes. Opening it early ends the watch.",
     "s3scullplat": "Stop level with the stage. Close is not level.",
+    "s3shuffleseven": "First to seven. A leave under seven is not the game.",
+    "s3bunkerpouc": "The pouch has to cross the bunker. Reaching the far side without it is a loss.",
+    "s3sculllane": "Stay inside the buoyed lane for the whole leg. Leaving the lane fails it.",
+    "s3shufflebell": "The bell has to ring before the third try dies. A later slide is already over.",
 }
 
 
