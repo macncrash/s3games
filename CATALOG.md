@@ -416,10 +416,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 404 | s3lotpace | Reed | complete | You have the lot. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 405 | s3trampass | Gale | complete | Take the tram and clear the pass before the storm clock. The clock is the other crew. |
 | 406 | s3keystape | Nock | complete | Play keys until the drawer has to match the tape. Leave when that is true. |
-| 407 | s3lotmaga | Reed | queued | One lot. Make the magazine last longer than the raid. Then it is done. |
-| 408 | s3tramslip | Gale | queued | The tram has one job: berth in the slip before the tide turns. |
-| 409 | s3jugglemark | Nock | queued | A short juggle. You are done when a finished mark ends it. |
-| 410 | s3lotdawn | Reed | queued | At the lot, you keep the flares lit until dawn. Miss that and the watch is over. |
+| 407 | s3lotmaga | Reed | complete | One lot. Make the magazine last longer than the raid. Then it is done. |
+| 408 | s3tramslip | Gale | complete | The tram has one job: berth in the slip before the tide turns. |
+| 409 | s3jugglemark | Nock | complete | A short juggle. You are done when a finished mark ends it. |
+| 410 | s3lotdawn | Reed | complete | At the lot, you keep the flares lit until dawn. Miss that and the watch is over. |
 | 411 | s3tramboom | Gale | queued | In the tram, you deliver the drive to the boom. Missing the end fails the leg. |
 | 412 | s3jugglegold | Nock | queued | Play juggle until only the gold counts double. Leave when that is true. |
 | 413 | s3lotdoor | Reed | queued | You have the lot. The job is to hold the door for three minutes. Anything else is a loss. |
