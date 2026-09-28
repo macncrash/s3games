@@ -392,10 +392,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 380 | s3bunkerpouc | Reed | complete | You have the bunker. The job is to carry the pouch across. Anything else is a loss. |
 | 381 | s3sculllane | Gale | complete | Take the scull and stay in the lane for the whole leg. The clock is the other crew. |
 | 382 | s3shufflebell | Nock | complete | Play shuffle until the bell rings before the third try dies. Leave when that is true. |
-| 383 | s3bunkerladd | Reed | queued | One bunker. Reach the far ladder. Then it is done. |
-| 384 | s3scullmark | Gale | queued | The scull has one job: set down on the mark. |
-| 385 | s3shufflechime | Nock | queued | Shuffle: the hour has to chime. That is the whole cartridge. |
-| 386 | s3bunkercler | Reed | queued | At the bunker, you clear the ground before the clock dies. Miss that and the watch is over. |
+| 383 | s3bunkerladd | Reed | complete | One bunker. Reach the far ladder. Then it is done. |
+| 384 | s3scullmark | Gale | complete | The scull has one job: set down on the mark. |
+| 385 | s3shufflechime | Nock | complete | Shuffle: the hour has to chime. That is the whole cartridge. |
+| 386 | s3bunkercler | Reed | complete | At the bunker, you clear the ground before the clock dies. Miss that and the watch is over. |
 | 387 | s3scullturn | Gale | queued | In the scull, you make the three turns without tipping. Missing the end fails the leg. |
 | 388 | s3shuffletape | Nock | queued | A short shuffle. You are done when the drawer has to match the tape. |
 | 389 | s3lotreli | Reed | queued | One lot. Hold until the relief bell. Then it is done. |
