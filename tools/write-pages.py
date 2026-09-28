@@ -494,6 +494,10 @@ DESIGN = {
     "s3plowslip": "Berth in the slip before the tide turns. A late berth fails the leg.",
     "s3lanternmark": "Close the gold lamp in order. A lamp left open is still the job.",
     "s3milldawn": "Keep the flares lit until dawn. A dark mill ends the watch.",
+    "s3plowboom": "The drive has to sit on the boom. Reaching the boom without setting it down fails the job.",
+    "s3lanterngold": "Only the gold counts double. Cream lamps do not buy the line.",
+    "s3milldoor": "Hold the door for three minutes. A breach before the clock is a loss.",
+    "s3plowplat": "Stop level with the platform. Close and still short fails the leg.",
 }
 
 
