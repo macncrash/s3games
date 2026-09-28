@@ -428,10 +428,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 416 | s3lotpouc | Reed | complete | One lot. Carry the pouch across. Then it is done. |
 | 417 | s3tramlane | Gale | complete | The tram has one job: stay in the lane for the whole leg. |
 | 418 | s3jugglebell | Nock | complete | A short juggle. You are done when the bell rings before the third try dies. |
-| 419 | s3lotladd | Reed | queued | At the lot, you reach the far ladder. Miss that and the watch is over. |
-| 420 | s3trammark | Gale | queued | In the tram, you set down on the mark. Missing the end fails the leg. |
-| 421 | s3jugglechime | Nock | queued | Play juggle until the hour has to chime. Leave when that is true. |
-| 422 | s3lotcler | Reed | queued | You have the lot. The job is to clear the ground before the clock dies. Anything else is a loss. |
+| 419 | s3lotladd | Reed | complete | At the lot, you reach the far ladder. Miss that and the watch is over. |
+| 420 | s3trammark | Gale | complete | In the tram, you set down on the mark. Missing the end fails the leg. |
+| 421 | s3jugglechime | Nock | complete | Play juggle until the hour has to chime. Leave when that is true. |
+| 422 | s3lotcler | Reed | complete | You have the lot. The job is to clear the ground before the clock dies. Anything else is a loss. |
 | 423 | s3tramturn | Gale | queued | Take the tram and make the three turns without tipping. The clock is the other crew. |
 | 424 | s3juggletape | Nock | queued | Juggle: the drawer has to match the tape. That is the whole cartridge. |
 | 425 | s3towerreli | Reed | queued | At the tower, you hold until the relief bell. Miss that and the watch is over. |
