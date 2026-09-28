@@ -458,6 +458,10 @@ DESIGN = {
     "s3lugeslip": "Berth in the slip before the tide turns. A late berth fails the leg.",
     "s3parademark": "Stand on the gold mark. Stopping on the wrong row is still open.",
     "s3towerdawn": "Keep the flares lit until dawn. A dark tower ends the watch.",
+    "s3lugeboom": "The drive has to sit on the boom ahead of the other crew. Reaching the boom without setting it down fails the leg.",
+    "s3paradegold": "Only the gold counts double. Bare and cream scores do not buy the line.",
+    "s3towerdoor": "Hold the door for three minutes. A breach before the clock is a loss.",
+    "s3lugeplat": "Stop level with the platform. Close and still short fails the job.",
 }
 
 
