@@ -354,6 +354,10 @@ DESIGN = {
     "s3boccegold": "Gold nearer than the other side counts double. Cream does not buy the double.",
     "s3alleydoor": "The door has to hold for three minutes. Opening it early ends the watch.",
     "s3bargeplat": "Stop level with the platform. Close is not level.",
+    "s3bocceseven": "First to seven, then leave. A six that looks close is still short.",
+    "s3alleypouc": "The pouch has to cross the alley. Reaching the far side without it ends the watch.",
+    "s3bargelane": "Stay in the canal for the whole leg and still make the end. Leaving the lane fails it.",
+    "s3boccebell": "Three bowls. The bell has to ring before the third try dies.",
 }
 
 
