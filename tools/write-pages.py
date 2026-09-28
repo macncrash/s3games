@@ -362,6 +362,10 @@ DESIGN = {
     "s3bargemark": "Set down on the painted mark before the other crew. Close to the mark, or late, fails the leg.",
     "s3boccechime": "The hour has to chime, then leave. A bowl before the hour is not this cartridge.",
     "s3alleycler": "Clear the ground before the clock dies. A clean alley after the clock is already over.",
+    "s3bargeturn": "Three bends without tipping. Letting the cargo slide too far fails the run.",
+    "s3boccetape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
+    "s3bunkerreli": "Hold the bunker until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3scullbuoy": "Round the buoys and beat the other crew home. A fast lap that finishes at the wrong dock fails the leg.",
 }
 
 
