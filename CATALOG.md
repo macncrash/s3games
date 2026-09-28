@@ -440,10 +440,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 428 | s3towercolu | Reed | complete | You have the tower. The job is to stop the column on the road. Anything else is a loss. |
 | 429 | s3lugebox | Gale | complete | Take the luge and stop inside the box. The clock is the other crew. |
 | 430 | s3safegold | Nock | complete | Safe: only the gold counts double. That is the whole cartridge. |
-| 431 | s3towerbann | Reed | queued | One tower. Bring the banner back. Then it is done. |
-| 432 | s3lugelock | Gale | queued | The luge has one job: pass the lock without scraping a gate. |
-| 433 | s3safeseven | Nock | queued | A short safe. You are done when first to seven. |
-| 434 | s3towerpurs | Reed | queued | At the tower, you be the last machine still running. Miss that and the watch is over. |
+| 431 | s3towerbann | Reed | complete | One tower. Bring the banner back. Then it is done. |
+| 432 | s3lugelock | Gale | complete | The luge has one job: pass the lock without scraping a gate. |
+| 433 | s3safeseven | Nock | complete | A short safe. You are done when first to seven. |
+| 434 | s3towerpurs | Reed | complete | At the tower, you be the last machine still running. Miss that and the watch is over. |
 | 435 | s3lugegrass | Gale | queued | In the luge, you land on the grass and come to a full stop. Missing the end fails the leg. |
 | 436 | s3safebell | Nock | queued | Play safe until the bell rings before the third try dies. Leave when that is true. |
 | 437 | s3towerwell | Reed | queued | You have the tower. The job is to keep the well standing through three waves. Anything else is a loss. |
