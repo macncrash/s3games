@@ -438,6 +438,10 @@ DESIGN = {
     "s3juggletape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
     "s3towerreli": "Hold the tower until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3lugebuoy": "Round the buoys and return to the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3safemark": "A finished gold mark ends it. An open combination is still the job.",
+    "s3towercolu": "Stop the column on the road. A column that still gets through is a loss.",
+    "s3lugebox": "Stop inside the box before the other crew. Stopping short of the box fails the leg.",
+    "s3safegold": "Only the gold counts double. Cream numbers do not buy the line.",
 }
 
 
