@@ -504,10 +504,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 492 | s3plowmark | Gale | complete | The plow has one job: set down on the mark. |
 | 493 | s3lanternchime | Nock | complete | Lantern: the hour has to chime. That is the whole cartridge. |
 | 494 | s3millcler | Reed | complete | At the mill, you clear the ground before the clock dies. Miss that and the watch is over. |
-| 495 | s3plowturn | Gale | queued | In the plow, you make the three turns without tipping. Missing the end fails the leg. |
-| 496 | s3lanterntape | Nock | queued | A short lantern. You are done when the drawer has to match the tape. |
-| 497 | s3quarryreli | Reed | queued | One quarry. Hold until the relief bell. Then it is done. |
-| 498 | s3cranebuoy | Gale | queued | The crane has one job: round the buoys and return to the same dock. |
+| 495 | s3plowturn | Gale | complete | In the plow, you make the three turns without tipping. Missing the end fails the leg. |
+| 496 | s3lanterntape | Nock | complete | A short lantern. You are done when the drawer has to match the tape. |
+| 497 | s3quarryreli | Reed | complete | One quarry. Hold until the relief bell. Then it is done. |
+| 498 | s3cranebuoy | Gale | complete | The crane has one job: round the buoys and return to the same dock. |
 | 499 | s3ovenmark | Nock | queued | Oven: a finished mark ends it. That is the whole cartridge. |
 | 500 | s3quarrycolu | Reed | queued | At the quarry, you stop the column on the road. Miss that and the watch is over. |
 | 501 | s3cranebox | Gale | queued | In the crane, you stop inside the box. Missing the end fails the leg. |
