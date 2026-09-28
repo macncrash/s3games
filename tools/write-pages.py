@@ -366,6 +366,10 @@ DESIGN = {
     "s3boccetape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
     "s3bunkerreli": "Hold the bunker until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3scullbuoy": "Round the buoys and beat the other crew home. A fast lap that finishes at the wrong dock fails the leg.",
+    "s3marketmark": "The gold note is the mark. Exact change finishes it. The rest of the stall is not the job.",
+    "s3bunkercolu": "The column has to stop on the road. A truck that gets through is a loss.",
+    "s3scullbox": "Stop inside the box. Close to the box is still outside, and that fails the leg.",
+    "s3marketgold": "Only the gold counts double. Cream sales do not buy the double.",
 }
 
 
