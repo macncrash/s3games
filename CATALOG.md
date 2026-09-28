@@ -488,10 +488,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 476 | s3millpace | Reed | complete | At the mill, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 477 | s3plowpass | Gale | complete | In the plow, you clear the pass before the storm clock. Missing the end fails the leg. |
 | 478 | s3mosaictape | Nock | complete | Mosaic: the drawer has to match the tape. That is the whole cartridge. |
-| 479 | s3millmaga | Reed | queued | You have the mill. The job is to make the magazine last longer than the raid. Anything else is a loss. |
-| 480 | s3plowslip | Gale | queued | Take the plow and berth in the slip before the tide turns. The clock is the other crew. |
-| 481 | s3lanternmark | Nock | queued | Play lantern until a finished mark ends it. Leave when that is true. |
-| 482 | s3milldawn | Reed | queued | One mill. Keep the flares lit until dawn. Then it is done. |
+| 479 | s3millmaga | Reed | complete | You have the mill. The job is to make the magazine last longer than the raid. Anything else is a loss. |
+| 480 | s3plowslip | Gale | complete | Take the plow and berth in the slip before the tide turns. The clock is the other crew. |
+| 481 | s3lanternmark | Nock | complete | Play lantern until a finished mark ends it. Leave when that is true. |
+| 482 | s3milldawn | Reed | complete | One mill. Keep the flares lit until dawn. Then it is done. |
 | 483 | s3plowboom | Gale | queued | The plow has one job: deliver the drive to the boom. |
 | 484 | s3lanterngold | Nock | queued | Lantern: only the gold counts double. That is the whole cartridge. |
 | 485 | s3milldoor | Reed | queued | At the mill, you hold the door for three minutes. Miss that and the watch is over. |
