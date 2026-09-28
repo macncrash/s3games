@@ -466,6 +466,10 @@ DESIGN = {
     "s3towerpouc": "The pouch has to cross the tower. Stopping in the middle is not across.",
     "s3lugelane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3paradebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3towerladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3lugemark": "Set down on the mark ahead of the other crew. Close to the mark is still a missed leg.",
+    "s3paradechime": "The hour has to chime at 12:00:00. A near miss on the first try is still short.",
+    "s3towercler": "Clear the ground before the clock dies. A clean tower after the clock is already over.",
 }
 
 
