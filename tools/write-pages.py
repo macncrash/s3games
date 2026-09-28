@@ -434,6 +434,10 @@ DESIGN = {
     "s3trammark": "Set the tram down on the mark. Close to the mark is still a missed leg.",
     "s3jugglechime": "The hour has to chime at 12:00:00. Catches that miss the hour do not end it.",
     "s3lotcler": "Clear the ground before the clock dies. A clean lot after the clock is already over.",
+    "s3tramturn": "Three turns, still upright, ahead of the other crew. A tip or a skipped turn fails the leg.",
+    "s3juggletape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3towerreli": "Hold the tower until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3lugebuoy": "Round the buoys and return to the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
