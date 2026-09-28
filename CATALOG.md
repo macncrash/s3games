@@ -484,10 +484,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 472 | s3mosaicbell | Nock | complete | A short mosaic. You are done when the bell rings before the third try dies. |
 | 473 | s3millwell | Reed | complete | One mill. Keep the well standing through three waves. Then it is done. |
 | 474 | s3plowkilo | Gale | complete | The plow has one job: finish the kilometer without touching wheels. |
-| 475 | s3mosaicchime | Nock | queued | Play mosaic until the hour has to chime. Leave when that is true. |
-| 476 | s3millpace | Reed | queued | At the mill, you wait until the third pace before you fire. Miss that and the watch is over. |
-| 477 | s3plowpass | Gale | queued | In the plow, you clear the pass before the storm clock. Missing the end fails the leg. |
-| 478 | s3mosaictape | Nock | queued | Mosaic: the drawer has to match the tape. That is the whole cartridge. |
+| 475 | s3mosaicchime | Nock | complete | Play mosaic until the hour has to chime. Leave when that is true. |
+| 476 | s3millpace | Reed | complete | At the mill, you wait until the third pace before you fire. Miss that and the watch is over. |
+| 477 | s3plowpass | Gale | complete | In the plow, you clear the pass before the storm clock. Missing the end fails the leg. |
+| 478 | s3mosaictape | Nock | complete | Mosaic: the drawer has to match the tape. That is the whole cartridge. |
 | 479 | s3millmaga | Reed | queued | You have the mill. The job is to make the magazine last longer than the raid. Anything else is a loss. |
 | 480 | s3plowslip | Gale | queued | Take the plow and berth in the slip before the tide turns. The clock is the other crew. |
 | 481 | s3lanternmark | Nock | queued | Play lantern until a finished mark ends it. Leave when that is true. |
