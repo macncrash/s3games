@@ -512,10 +512,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 500 | s3quarrycolu | Reed | complete | At the quarry, you stop the column on the road. Miss that and the watch is over. |
 | 501 | s3cranebox | Gale | complete | In the crane, you stop inside the box. Missing the end fails the leg. |
 | 502 | s3ovengold | Nock | complete | A short oven. You are done when only the gold counts double. |
-| 503 | s3quarrybann | Reed | queued | You have the quarry. The job is to bring the banner back. Anything else is a loss. |
-| 504 | s3cranelock | Gale | queued | Take the crane and pass the lock without scraping a gate. The clock is the other crew. |
-| 505 | s3ovenseven | Nock | queued | Play oven until first to seven. Leave when that is true. |
-| 506 | s3quarrypurs | Reed | queued | One quarry. Be the last machine still running. Then it is done. |
+| 503 | s3quarrybann | Reed | complete | You have the quarry. The job is to bring the banner back. Anything else is a loss. |
+| 504 | s3cranelock | Gale | complete | Take the crane and pass the lock without scraping a gate. The clock is the other crew. |
+| 505 | s3ovenseven | Nock | complete | Play oven until first to seven. Leave when that is true. |
+| 506 | s3quarrypurs | Reed | complete | One quarry. Be the last machine still running. Then it is done. |
 | 507 | s3cranegrass | Gale | queued | The crane has one job: land on the grass and come to a full stop. |
 | 508 | s3ovenbell | Nock | queued | Oven: the bell rings before the third try dies. That is the whole cartridge. |
 | 509 | s3quarrywell | Reed | queued | At the quarry, you keep the well standing through three waves. Miss that and the watch is over. |
