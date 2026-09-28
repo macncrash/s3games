@@ -460,10 +460,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 448 | s3paradegold | Nock | complete | A short parade. You are done when only the gold counts double. |
 | 449 | s3towerdoor | Reed | complete | One tower. Hold the door for three minutes. Then it is done. |
 | 450 | s3lugeplat | Gale | complete | The luge has one job: stop level with the platform. |
-| 451 | s3paradeseven | Nock | queued | Play parade until first to seven. Leave when that is true. |
-| 452 | s3towerpouc | Reed | queued | At the tower, you carry the pouch across. Miss that and the watch is over. |
-| 453 | s3lugelane | Gale | queued | In the luge, you stay in the lane for the whole leg. Missing the end fails the leg. |
-| 454 | s3paradebell | Nock | queued | Parade: the bell rings before the third try dies. That is the whole cartridge. |
+| 451 | s3paradeseven | Nock | complete | Play parade until first to seven. Leave when that is true. |
+| 452 | s3towerpouc | Reed | complete | At the tower, you carry the pouch across. Miss that and the watch is over. |
+| 453 | s3lugelane | Gale | complete | In the luge, you stay in the lane for the whole leg. Missing the end fails the leg. |
+| 454 | s3paradebell | Nock | complete | Parade: the bell rings before the third try dies. That is the whole cartridge. |
 | 455 | s3towerladd | Reed | queued | You have the tower. The job is to reach the far ladder. Anything else is a loss. |
 | 456 | s3lugemark | Gale | queued | Take the luge and set down on the mark. The clock is the other crew. |
 | 457 | s3paradechime | Nock | queued | A short parade. You are done when the hour has to chime. |
