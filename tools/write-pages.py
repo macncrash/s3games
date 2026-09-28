@@ -426,6 +426,10 @@ DESIGN = {
     "s3jugglegold": "Only the gold counts double. Cream catches do not buy the line.",
     "s3lotdoor": "Hold the door for the whole watch. A breach before the gate is a loss.",
     "s3tramplat": "Stop level with the platform. Close and still short fails the leg.",
+    "s3juggleseven": "First to seven, then leave. Six is still short.",
+    "s3lotpouc": "The pouch has to cross the lot. Reaching the middle and stopping is not across.",
+    "s3tramlane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3jugglebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
