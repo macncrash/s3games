@@ -478,6 +478,10 @@ DESIGN = {
     "s3millcolu": "Stop the column on the road. A wagon that still gets through is a loss.",
     "s3plowbox": "Stop inside the box. Stopping short of the box fails the job.",
     "s3mosaicgold": "Only the gold counts double. Bare and cream tiles do not buy the line.",
+    "s3millbann": "Bring the banner back to the mill. Reaching the banner and leaving it there is not done.",
+    "s3plowlock": "Pass the lock without scraping a gate. A scrape spends the run even if you clear the lock.",
+    "s3mosaicseven": "First to seven, then leave. Six is still short.",
+    "s3millpurs": "Be the last machine still running. A stall of your own ends the watch.",
 }
 
 
