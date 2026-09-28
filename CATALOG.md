@@ -408,10 +408,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 396 | s3tramlock | Gale | complete | Take the tram and pass the lock without scraping a gate. The clock is the other crew. |
 | 397 | s3keysseven | Nock | complete | Play keys until first to seven. Leave when that is true. |
 | 398 | s3lotpurs | Reed | complete | One lot. Be the last machine still running. Then it is done. |
-| 399 | s3tramgrass | Gale | queued | The tram has one job: land on the grass and come to a full stop. |
-| 400 | s3keysbell | Nock | queued | Keys: the bell rings before the third try dies. That is the whole cartridge. |
-| 401 | s3lotwell | Reed | queued | At the lot, you keep the well standing through three waves. Miss that and the watch is over. |
-| 402 | s3tramkilo | Gale | queued | In the tram, you finish the kilometer without touching wheels. Missing the end fails the leg. |
+| 399 | s3tramgrass | Gale | complete | The tram has one job: land on the grass and come to a full stop. |
+| 400 | s3keysbell | Nock | complete | Keys: the bell rings before the third try dies. That is the whole cartridge. |
+| 401 | s3lotwell | Reed | complete | At the lot, you keep the well standing through three waves. Miss that and the watch is over. |
+| 402 | s3tramkilo | Gale | complete | In the tram, you finish the kilometer without touching wheels. Missing the end fails the leg. |
 | 403 | s3keyschime | Nock | queued | A short keys. You are done when the hour has to chime. |
 | 404 | s3lotpace | Reed | queued | You have the lot. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 405 | s3trampass | Gale | queued | Take the tram and clear the pass before the storm clock. The clock is the other crew. |
