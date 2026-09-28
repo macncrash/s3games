@@ -402,6 +402,10 @@ DESIGN = {
     "s3shuffletape": "The drawer has to match the tape, then you leave. A score that does not match the tape is still open.",
     "s3lotreli": "Hold the lot until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3trambuoy": "Round the harbour buoys and tie up at the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3keysmark": "Hold the phrase with no slips. That finished mark ends it. The rest of the piece is not the job.",
+    "s3lotcolu": "The column has to stop on the road. A van that gets through is a loss.",
+    "s3trambox": "Stop inside the box. Close to the box is still outside, and that fails the leg.",
+    "s3keysgold": "Only the gold counts double, and the line is 150. Cream hits do not buy the double.",
 }
 
 
