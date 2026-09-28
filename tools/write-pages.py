@@ -370,6 +370,10 @@ DESIGN = {
     "s3bunkercolu": "The column has to stop on the road. A truck that gets through is a loss.",
     "s3scullbox": "Stop inside the box. Close to the box is still outside, and that fails the leg.",
     "s3marketgold": "Only the gold counts double. Cream sales do not buy the double.",
+    "s3bunkerbann": "The banner has to come back to the bunker. Reaching it and staying away ends the watch.",
+    "s3sculllock": "Row through the lock with the gates clear and the end made. A scrape fails the leg.",
+    "s3marketseven": "First to seven against the rival stall. A six that looks close is still short.",
+    "s3bunkerpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the bunker.",
 }
 
 
