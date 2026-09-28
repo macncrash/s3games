@@ -360,10 +360,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 348 | s3bargemark | Gale | complete | Take the barge and set down on the mark. The clock is the other crew. |
 | 349 | s3boccechime | Nock | complete | A short bocce. You are done when the hour has to chime. |
 | 350 | s3alleycler | Reed | complete | One alley. Clear the ground before the clock dies. Then it is done. |
-| 351 | s3bargeturn | Gale | queued | The barge has one job: make the three turns without tipping. |
-| 352 | s3boccetape | Nock | queued | Play bocce until the drawer has to match the tape. Leave when that is true. |
-| 353 | s3bunkerreli | Reed | queued | You have the bunker. The job is to hold until the relief bell. Anything else is a loss. |
-| 354 | s3scullbuoy | Gale | queued | Take the scull and round the buoys and return to the same dock. The clock is the other crew. |
+| 351 | s3bargeturn | Gale | complete | The barge has one job: make the three turns without tipping. |
+| 352 | s3boccetape | Nock | complete | Play bocce until the drawer has to match the tape. Leave when that is true. |
+| 353 | s3bunkerreli | Reed | complete | You have the bunker. The job is to hold until the relief bell. Anything else is a loss. |
+| 354 | s3scullbuoy | Gale | complete | Take the scull and round the buoys and return to the same dock. The clock is the other crew. |
 | 355 | s3marketmark | Nock | queued | A short market. You are done when a finished mark ends it. |
 | 356 | s3bunkercolu | Reed | queued | One bunker. Stop the column on the road. Then it is done. |
 | 357 | s3scullbox | Gale | queued | The scull has one job: stop inside the box. |
