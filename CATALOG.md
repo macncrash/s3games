@@ -464,10 +464,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 452 | s3towerpouc | Reed | complete | At the tower, you carry the pouch across. Miss that and the watch is over. |
 | 453 | s3lugelane | Gale | complete | In the luge, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 454 | s3paradebell | Nock | complete | Parade: the bell rings before the third try dies. That is the whole cartridge. |
-| 455 | s3towerladd | Reed | queued | You have the tower. The job is to reach the far ladder. Anything else is a loss. |
-| 456 | s3lugemark | Gale | queued | Take the luge and set down on the mark. The clock is the other crew. |
-| 457 | s3paradechime | Nock | queued | A short parade. You are done when the hour has to chime. |
-| 458 | s3towercler | Reed | queued | One tower. Clear the ground before the clock dies. Then it is done. |
+| 455 | s3towerladd | Reed | complete | You have the tower. The job is to reach the far ladder. Anything else is a loss. |
+| 456 | s3lugemark | Gale | complete | Take the luge and set down on the mark. The clock is the other crew. |
+| 457 | s3paradechime | Nock | complete | A short parade. You are done when the hour has to chime. |
+| 458 | s3towercler | Reed | complete | One tower. Clear the ground before the clock dies. Then it is done. |
 | 459 | s3lugeturn | Gale | queued | The luge has one job: make the three turns without tipping. |
 | 460 | s3paradetape | Nock | queued | Play parade until the drawer has to match the tape. Leave when that is true. |
 | 461 | s3millreli | Reed | queued | You have the mill. The job is to hold until the relief bell. Anything else is a loss. |
