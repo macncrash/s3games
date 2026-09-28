@@ -374,6 +374,10 @@ DESIGN = {
     "s3sculllock": "Row through the lock with the gates clear and the end made. A scrape fails the leg.",
     "s3marketseven": "First to seven against the rival stall. A six that looks close is still short.",
     "s3bunkerpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the bunker.",
+    "s3scullgrass": "Land on the grass and come to a full stop ahead of the other crew. A touch that keeps rolling fails the leg.",
+    "s3marketbell": "Three tries at the change. The bell has to ring before the third try dies.",
+    "s3bunkerwell": "The well has to stand. A breach is a loss even if the score looks high.",
+    "s3scullkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
 }
 
 
