@@ -432,10 +432,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 420 | s3trammark | Gale | complete | In the tram, you set down on the mark. Missing the end fails the leg. |
 | 421 | s3jugglechime | Nock | complete | Play juggle until the hour has to chime. Leave when that is true. |
 | 422 | s3lotcler | Reed | complete | You have the lot. The job is to clear the ground before the clock dies. Anything else is a loss. |
-| 423 | s3tramturn | Gale | queued | Take the tram and make the three turns without tipping. The clock is the other crew. |
-| 424 | s3juggletape | Nock | queued | Juggle: the drawer has to match the tape. That is the whole cartridge. |
-| 425 | s3towerreli | Reed | queued | At the tower, you hold until the relief bell. Miss that and the watch is over. |
-| 426 | s3lugebuoy | Gale | queued | In the luge, you round the buoys and return to the same dock. Missing the end fails the leg. |
+| 423 | s3tramturn | Gale | complete | Take the tram and make the three turns without tipping. The clock is the other crew. |
+| 424 | s3juggletape | Nock | complete | Juggle: the drawer has to match the tape. That is the whole cartridge. |
+| 425 | s3towerreli | Reed | complete | At the tower, you hold until the relief bell. Miss that and the watch is over. |
+| 426 | s3lugebuoy | Gale | complete | In the luge, you round the buoys and return to the same dock. Missing the end fails the leg. |
 | 427 | s3safemark | Nock | queued | Play safe until a finished mark ends it. Leave when that is true. |
 | 428 | s3towercolu | Reed | queued | You have the tower. The job is to stop the column on the road. Anything else is a loss. |
 | 429 | s3lugebox | Gale | queued | Take the luge and stop inside the box. The clock is the other crew. |
