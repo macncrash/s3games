@@ -436,10 +436,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 424 | s3juggletape | Nock | complete | Juggle: the drawer has to match the tape. That is the whole cartridge. |
 | 425 | s3towerreli | Reed | complete | At the tower, you hold until the relief bell. Miss that and the watch is over. |
 | 426 | s3lugebuoy | Gale | complete | In the luge, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 427 | s3safemark | Nock | queued | Play safe until a finished mark ends it. Leave when that is true. |
-| 428 | s3towercolu | Reed | queued | You have the tower. The job is to stop the column on the road. Anything else is a loss. |
-| 429 | s3lugebox | Gale | queued | Take the luge and stop inside the box. The clock is the other crew. |
-| 430 | s3safegold | Nock | queued | Safe: only the gold counts double. That is the whole cartridge. |
+| 427 | s3safemark | Nock | complete | Play safe until a finished mark ends it. Leave when that is true. |
+| 428 | s3towercolu | Reed | complete | You have the tower. The job is to stop the column on the road. Anything else is a loss. |
+| 429 | s3lugebox | Gale | complete | Take the luge and stop inside the box. The clock is the other crew. |
+| 430 | s3safegold | Nock | complete | Safe: only the gold counts double. That is the whole cartridge. |
 | 431 | s3towerbann | Reed | queued | One tower. Bring the banner back. Then it is done. |
 | 432 | s3lugelock | Gale | queued | The luge has one job: pass the lock without scraping a gate. |
 | 433 | s3safeseven | Nock | queued | A short safe. You are done when first to seven. |
