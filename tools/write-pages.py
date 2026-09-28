@@ -498,6 +498,10 @@ DESIGN = {
     "s3lanterngold": "Only the gold counts double. Cream lamps do not buy the line.",
     "s3milldoor": "Hold the door for three minutes. A breach before the clock is a loss.",
     "s3plowplat": "Stop level with the platform. Close and still short fails the leg.",
+    "s3lanternseven": "First to seven, then leave. Six is still short.",
+    "s3millpouc": "The pouch has to cross the mill. Stopping in the middle is not across.",
+    "s3plowlane": "Stay in the lane for the whole leg, ahead of the other crew. One departure fails it.",
+    "s3lanternbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
