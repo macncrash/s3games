@@ -422,6 +422,10 @@ DESIGN = {
     "s3tramslip": "Berth in the slip before the tide turns. A late berth fails the job.",
     "s3jugglemark": "The gold mark is the end. Extra catches after a finished mark are not the job.",
     "s3lotdawn": "Keep the flares lit until dawn. A dark lot ends the watch.",
+    "s3tramboom": "The drive has to sit on the boom. Reaching the boom without setting it down fails the leg.",
+    "s3jugglegold": "Only the gold counts double. Cream catches do not buy the line.",
+    "s3lotdoor": "Hold the door for the whole watch. A breach before the gate is a loss.",
+    "s3tramplat": "Stop level with the platform. Close and still short fails the leg.",
 }
 
 
