@@ -470,6 +470,10 @@ DESIGN = {
     "s3lugemark": "Set down on the mark ahead of the other crew. Close to the mark is still a missed leg.",
     "s3paradechime": "The hour has to chime at 12:00:00. A near miss on the first try is still short.",
     "s3towercler": "Clear the ground before the clock dies. A clean tower after the clock is already over.",
+    "s3lugeturn": "Three turns, still upright. A tip fails the job.",
+    "s3paradetape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3millreli": "Hold the mill until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3plowbuoy": "Round the buoys and return to the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
