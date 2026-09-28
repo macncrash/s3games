@@ -378,6 +378,10 @@ DESIGN = {
     "s3marketbell": "Three tries at the change. The bell has to ring before the third try dies.",
     "s3bunkerwell": "The well has to stand. A breach is a loss even if the score looks high.",
     "s3scullkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
+    "s3marketchime": "The hour has to chime, then leave. Serving out before the hour is not this cartridge.",
+    "s3bunkerpace": "Fire on the third pace. An earlier shot that still holds the bunker is not the job.",
+    "s3scullpass": "Clear the gorge before the storm clock dies. Making the pass with the clock already gone fails the leg.",
+    "s3markettape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
 }
 
 
