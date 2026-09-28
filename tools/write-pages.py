@@ -386,6 +386,10 @@ DESIGN = {
     "s3scullslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
     "s3shufflemark": "The disk has to stop inside the painted mark. Close to the mark is still out.",
     "s3bunkerdawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
+    "s3scullboom": "The drive has to land on the boom. Missing the boom fails the job even if you arrive.",
+    "s3shufflegold": "A gold disk in the 3 counts double. Cream does not buy the double.",
+    "s3bunkerdoor": "The blast door has to hold for three minutes. Opening it early ends the watch.",
+    "s3scullplat": "Stop level with the stage. Close is not level.",
 }
 
 
