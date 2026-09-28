@@ -404,10 +404,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 392 | s3lotcolu | Reed | complete | At the lot, you stop the column on the road. Miss that and the watch is over. |
 | 393 | s3trambox | Gale | complete | In the tram, you stop inside the box. Missing the end fails the leg. |
 | 394 | s3keysgold | Nock | complete | A short keys. You are done when only the gold counts double. |
-| 395 | s3lotbann | Reed | queued | You have the lot. The job is to bring the banner back. Anything else is a loss. |
-| 396 | s3tramlock | Gale | queued | Take the tram and pass the lock without scraping a gate. The clock is the other crew. |
-| 397 | s3keysseven | Nock | queued | Play keys until first to seven. Leave when that is true. |
-| 398 | s3lotpurs | Reed | queued | One lot. Be the last machine still running. Then it is done. |
+| 395 | s3lotbann | Reed | complete | You have the lot. The job is to bring the banner back. Anything else is a loss. |
+| 396 | s3tramlock | Gale | complete | Take the tram and pass the lock without scraping a gate. The clock is the other crew. |
+| 397 | s3keysseven | Nock | complete | Play keys until first to seven. Leave when that is true. |
+| 398 | s3lotpurs | Reed | complete | One lot. Be the last machine still running. Then it is done. |
 | 399 | s3tramgrass | Gale | queued | The tram has one job: land on the grass and come to a full stop. |
 | 400 | s3keysbell | Nock | queued | Keys: the bell rings before the third try dies. That is the whole cartridge. |
 | 401 | s3lotwell | Reed | queued | At the lot, you keep the well standing through three waves. Miss that and the watch is over. |
