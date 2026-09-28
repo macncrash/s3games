@@ -502,6 +502,10 @@ DESIGN = {
     "s3millpouc": "The pouch has to cross the mill. Stopping in the middle is not across.",
     "s3plowlane": "Stay in the lane for the whole leg, ahead of the other crew. One departure fails it.",
     "s3lanternbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3millladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3plowmark": "Set down on the mark. Close to the mark is still a missed job.",
+    "s3lanternchime": "The hour has to chime at 12:00:00. Lamps that miss the hour do not end it.",
+    "s3millcler": "Clear the ground before the clock dies. A clean mill after the clock is already over.",
 }
 
 
