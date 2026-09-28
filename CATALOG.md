@@ -444,10 +444,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 432 | s3lugelock | Gale | complete | The luge has one job: pass the lock without scraping a gate. |
 | 433 | s3safeseven | Nock | complete | A short safe. You are done when first to seven. |
 | 434 | s3towerpurs | Reed | complete | At the tower, you be the last machine still running. Miss that and the watch is over. |
-| 435 | s3lugegrass | Gale | queued | In the luge, you land on the grass and come to a full stop. Missing the end fails the leg. |
-| 436 | s3safebell | Nock | queued | Play safe until the bell rings before the third try dies. Leave when that is true. |
-| 437 | s3towerwell | Reed | queued | You have the tower. The job is to keep the well standing through three waves. Anything else is a loss. |
-| 438 | s3lugekilo | Gale | queued | Take the luge and finish the kilometer without touching wheels. The clock is the other crew. |
+| 435 | s3lugegrass | Gale | complete | In the luge, you land on the grass and come to a full stop. Missing the end fails the leg. |
+| 436 | s3safebell | Nock | complete | Play safe until the bell rings before the third try dies. Leave when that is true. |
+| 437 | s3towerwell | Reed | complete | You have the tower. The job is to keep the well standing through three waves. Anything else is a loss. |
+| 438 | s3lugekilo | Gale | complete | Take the luge and finish the kilometer without touching wheels. The clock is the other crew. |
 | 439 | s3safechime | Nock | queued | Safe: the hour has to chime. That is the whole cartridge. |
 | 440 | s3towerpace | Reed | queued | One tower. Wait until the third pace before you fire. Then it is done. |
 | 441 | s3lugepass | Gale | queued | The luge has one job: clear the pass before the storm clock. |
