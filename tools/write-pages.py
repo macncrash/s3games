@@ -454,6 +454,10 @@ DESIGN = {
     "s3towerpace": "Wait for the third pace, then fire. An earlier shot is a loss.",
     "s3lugepass": "Clear the pass before the storm clock. A late crest fails the job.",
     "s3safetape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3towermaga": "The magazine has to outlast the raid. Burning the rounds and dying with the raid still up is a loss.",
+    "s3lugeslip": "Berth in the slip before the tide turns. A late berth fails the leg.",
+    "s3parademark": "Stand on the gold mark. Stopping on the wrong row is still open.",
+    "s3towerdawn": "Keep the flares lit until dawn. A dark tower ends the watch.",
 }
 
 
