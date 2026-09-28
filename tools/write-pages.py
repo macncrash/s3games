@@ -482,6 +482,10 @@ DESIGN = {
     "s3plowlock": "Pass the lock without scraping a gate. A scrape spends the run even if you clear the lock.",
     "s3mosaicseven": "First to seven, then leave. Six is still short.",
     "s3millpurs": "Be the last machine still running. A stall of your own ends the watch.",
+    "s3plowgrass": "Land on the grass and come to a full stop while the other crew still has the clock. Sliding off the grass fails the leg.",
+    "s3mosaicbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3millwell": "The well has to stand through three waves. A well that falls on the third wave is a loss.",
+    "s3plowkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
 }
 
 
