@@ -384,10 +384,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 372 | s3scullslip | Gale | complete | Take the scull and berth in the slip before the tide turns. The clock is the other crew. |
 | 373 | s3shufflemark | Nock | complete | Play shuffle until a finished mark ends it. Leave when that is true. |
 | 374 | s3bunkerdawn | Reed | complete | One bunker. Keep the flares lit until dawn. Then it is done. |
-| 375 | s3scullboom | Gale | queued | The scull has one job: deliver the drive to the boom. |
-| 376 | s3shufflegold | Nock | queued | Shuffle: only the gold counts double. That is the whole cartridge. |
-| 377 | s3bunkerdoor | Reed | queued | At the bunker, you hold the door for three minutes. Miss that and the watch is over. |
-| 378 | s3scullplat | Gale | queued | In the scull, you stop level with the platform. Missing the end fails the leg. |
+| 375 | s3scullboom | Gale | complete | The scull has one job: deliver the drive to the boom. |
+| 376 | s3shufflegold | Nock | complete | Shuffle: only the gold counts double. That is the whole cartridge. |
+| 377 | s3bunkerdoor | Reed | complete | At the bunker, you hold the door for three minutes. Miss that and the watch is over. |
+| 378 | s3scullplat | Gale | complete | In the scull, you stop level with the platform. Missing the end fails the leg. |
 | 379 | s3shuffleseven | Nock | queued | A short shuffle. You are done when first to seven. |
 | 380 | s3bunkerpouc | Reed | queued | You have the bunker. The job is to carry the pouch across. Anything else is a loss. |
 | 381 | s3sculllane | Gale | queued | Take the scull and stay in the lane for the whole leg. The clock is the other crew. |
