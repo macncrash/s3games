@@ -474,6 +474,10 @@ DESIGN = {
     "s3paradetape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
     "s3millreli": "Hold the mill until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3plowbuoy": "Round the buoys and return to the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
+    "s3mosaicmark": "A finished mark ends it. Stamps that never close the mark are still the job.",
+    "s3millcolu": "Stop the column on the road. A wagon that still gets through is a loss.",
+    "s3plowbox": "Stop inside the box. Stopping short of the box fails the job.",
+    "s3mosaicgold": "Only the gold counts double. Bare and cream tiles do not buy the line.",
 }
 
 
