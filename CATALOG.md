@@ -516,10 +516,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 504 | s3cranelock | Gale | complete | Take the crane and pass the lock without scraping a gate. The clock is the other crew. |
 | 505 | s3ovenseven | Nock | complete | Play oven until first to seven. Leave when that is true. |
 | 506 | s3quarrypurs | Reed | complete | One quarry. Be the last machine still running. Then it is done. |
-| 507 | s3cranegrass | Gale | queued | The crane has one job: land on the grass and come to a full stop. |
-| 508 | s3ovenbell | Nock | queued | Oven: the bell rings before the third try dies. That is the whole cartridge. |
-| 509 | s3quarrywell | Reed | queued | At the quarry, you keep the well standing through three waves. Miss that and the watch is over. |
-| 510 | s3cranekilo | Gale | queued | In the crane, you finish the kilometer without touching wheels. Missing the end fails the leg. |
+| 507 | s3cranegrass | Gale | complete | The crane has one job: land on the grass and come to a full stop. |
+| 508 | s3ovenbell | Nock | complete | Oven: the bell rings before the third try dies. That is the whole cartridge. |
+| 509 | s3quarrywell | Reed | complete | At the quarry, you keep the well standing through three waves. Miss that and the watch is over. |
+| 510 | s3cranekilo | Gale | complete | In the crane, you finish the kilometer without touching wheels. Missing the end fails the leg. |
 | 511 | s3ovenchime | Nock | queued | A short oven. You are done when the hour has to chime. |
 | 512 | s3quarrypace | Reed | queued | You have the quarry. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 513 | s3cranepass | Gale | queued | Take the crane and clear the pass before the storm clock. The clock is the other crew. |
