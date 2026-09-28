@@ -442,6 +442,10 @@ DESIGN = {
     "s3towercolu": "Stop the column on the road. A column that still gets through is a loss.",
     "s3lugebox": "Stop inside the box before the other crew. Stopping short of the box fails the leg.",
     "s3safegold": "Only the gold counts double. Cream numbers do not buy the line.",
+    "s3towerbann": "Bring the banner back. Reaching the banner and leaving it there is not done.",
+    "s3lugelock": "Pass the lock without scraping a gate. A scrape spends the run even if you clear the lock.",
+    "s3safeseven": "First to seven, then leave. Six is still short.",
+    "s3towerpurs": "Be the last machine still running. A stall of your own ends the watch.",
 }
 
 
