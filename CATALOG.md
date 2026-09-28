@@ -492,10 +492,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 480 | s3plowslip | Gale | complete | Take the plow and berth in the slip before the tide turns. The clock is the other crew. |
 | 481 | s3lanternmark | Nock | complete | Play lantern until a finished mark ends it. Leave when that is true. |
 | 482 | s3milldawn | Reed | complete | One mill. Keep the flares lit until dawn. Then it is done. |
-| 483 | s3plowboom | Gale | queued | The plow has one job: deliver the drive to the boom. |
-| 484 | s3lanterngold | Nock | queued | Lantern: only the gold counts double. That is the whole cartridge. |
-| 485 | s3milldoor | Reed | queued | At the mill, you hold the door for three minutes. Miss that and the watch is over. |
-| 486 | s3plowplat | Gale | queued | In the plow, you stop level with the platform. Missing the end fails the leg. |
+| 483 | s3plowboom | Gale | complete | The plow has one job: deliver the drive to the boom. |
+| 484 | s3lanterngold | Nock | complete | Lantern: only the gold counts double. That is the whole cartridge. |
+| 485 | s3milldoor | Reed | complete | At the mill, you hold the door for three minutes. Miss that and the watch is over. |
+| 486 | s3plowplat | Gale | complete | In the plow, you stop level with the platform. Missing the end fails the leg. |
 | 487 | s3lanternseven | Nock | queued | A short lantern. You are done when first to seven. |
 | 488 | s3millpouc | Reed | queued | You have the mill. The job is to carry the pouch across. Anything else is a loss. |
 | 489 | s3plowlane | Gale | queued | Take the plow and stay in the lane for the whole leg. The clock is the other crew. |
