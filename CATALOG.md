@@ -508,10 +508,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 496 | s3lanterntape | Nock | complete | A short lantern. You are done when the drawer has to match the tape. |
 | 497 | s3quarryreli | Reed | complete | One quarry. Hold until the relief bell. Then it is done. |
 | 498 | s3cranebuoy | Gale | complete | The crane has one job: round the buoys and return to the same dock. |
-| 499 | s3ovenmark | Nock | queued | Oven: a finished mark ends it. That is the whole cartridge. |
-| 500 | s3quarrycolu | Reed | queued | At the quarry, you stop the column on the road. Miss that and the watch is over. |
-| 501 | s3cranebox | Gale | queued | In the crane, you stop inside the box. Missing the end fails the leg. |
-| 502 | s3ovengold | Nock | queued | A short oven. You are done when only the gold counts double. |
+| 499 | s3ovenmark | Nock | complete | Oven: a finished mark ends it. That is the whole cartridge. |
+| 500 | s3quarrycolu | Reed | complete | At the quarry, you stop the column on the road. Miss that and the watch is over. |
+| 501 | s3cranebox | Gale | complete | In the crane, you stop inside the box. Missing the end fails the leg. |
+| 502 | s3ovengold | Nock | complete | A short oven. You are done when only the gold counts double. |
 | 503 | s3quarrybann | Reed | queued | You have the quarry. The job is to bring the banner back. Anything else is a loss. |
 | 504 | s3cranelock | Gale | queued | Take the crane and pass the lock without scraping a gate. The clock is the other crew. |
 | 505 | s3ovenseven | Nock | queued | Play oven until first to seven. Leave when that is true. |
