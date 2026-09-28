@@ -356,10 +356,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 344 | s3alleypouc | Reed | complete | At the alley, you carry the pouch across. Miss that and the watch is over. |
 | 345 | s3bargelane | Gale | complete | In the barge, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 346 | s3boccebell | Nock | complete | Bocce: the bell rings before the third try dies. That is the whole cartridge. |
-| 347 | s3alleyladd | Reed | queued | You have the alley. The job is to reach the far ladder. Anything else is a loss. |
-| 348 | s3bargemark | Gale | queued | Take the barge and set down on the mark. The clock is the other crew. |
-| 349 | s3boccechime | Nock | queued | A short bocce. You are done when the hour has to chime. |
-| 350 | s3alleycler | Reed | queued | One alley. Clear the ground before the clock dies. Then it is done. |
+| 347 | s3alleyladd | Reed | complete | You have the alley. The job is to reach the far ladder. Anything else is a loss. |
+| 348 | s3bargemark | Gale | complete | Take the barge and set down on the mark. The clock is the other crew. |
+| 349 | s3boccechime | Nock | complete | A short bocce. You are done when the hour has to chime. |
+| 350 | s3alleycler | Reed | complete | One alley. Clear the ground before the clock dies. Then it is done. |
 | 351 | s3bargeturn | Gale | queued | The barge has one job: make the three turns without tipping. |
 | 352 | s3boccetape | Nock | queued | Play bocce until the drawer has to match the tape. Leave when that is true. |
 | 353 | s3bunkerreli | Reed | queued | You have the bunker. The job is to hold until the relief bell. Anything else is a loss. |
