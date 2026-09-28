@@ -380,10 +380,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 368 | s3bunkerpace | Reed | complete | At the bunker, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 369 | s3scullpass | Gale | complete | In the scull, you clear the pass before the storm clock. Missing the end fails the leg. |
 | 370 | s3markettape | Nock | complete | Market: the drawer has to match the tape. That is the whole cartridge. |
-| 371 | s3bunkermaga | Reed | queued | You have the bunker. The job is to make the magazine last longer than the raid. Anything else is a loss. |
-| 372 | s3scullslip | Gale | queued | Take the scull and berth in the slip before the tide turns. The clock is the other crew. |
-| 373 | s3shufflemark | Nock | queued | Play shuffle until a finished mark ends it. Leave when that is true. |
-| 374 | s3bunkerdawn | Reed | queued | One bunker. Keep the flares lit until dawn. Then it is done. |
+| 371 | s3bunkermaga | Reed | complete | You have the bunker. The job is to make the magazine last longer than the raid. Anything else is a loss. |
+| 372 | s3scullslip | Gale | complete | Take the scull and berth in the slip before the tide turns. The clock is the other crew. |
+| 373 | s3shufflemark | Nock | complete | Play shuffle until a finished mark ends it. Leave when that is true. |
+| 374 | s3bunkerdawn | Reed | complete | One bunker. Keep the flares lit until dawn. Then it is done. |
 | 375 | s3scullboom | Gale | queued | The scull has one job: deliver the drive to the boom. |
 | 376 | s3shufflegold | Nock | queued | Shuffle: only the gold counts double. That is the whole cartridge. |
 | 377 | s3bunkerdoor | Reed | queued | At the bunker, you hold the door for three minutes. Miss that and the watch is over. |
