@@ -418,6 +418,10 @@ DESIGN = {
     "s3lotpace": "Wait for the third pace, then fire. An earlier shot is a loss.",
     "s3trampass": "Clear the pass before the storm clock. The other crew is that clock, and a late crest fails the leg.",
     "s3keystape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3lotmaga": "The magazine has to outlast the raid. Burning the rounds and dying with the raid still up is a loss.",
+    "s3tramslip": "Berth in the slip before the tide turns. A late berth fails the job.",
+    "s3jugglemark": "The gold mark is the end. Extra catches after a finished mark are not the job.",
+    "s3lotdawn": "Keep the flares lit until dawn. A dark lot ends the watch.",
 }
 
 
