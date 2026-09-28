@@ -358,6 +358,10 @@ DESIGN = {
     "s3alleypouc": "The pouch has to cross the alley. Reaching the far side without it ends the watch.",
     "s3bargelane": "Stay in the canal for the whole leg and still make the end. Leaving the lane fails it.",
     "s3boccebell": "Three bowls. The bell has to ring before the third try dies.",
+    "s3alleyladd": "The far ladder is the job. Stopping short of it is a loss.",
+    "s3bargemark": "Set down on the painted mark before the other crew. Close to the mark, or late, fails the leg.",
+    "s3boccechime": "The hour has to chime, then leave. A bowl before the hour is not this cartridge.",
+    "s3alleycler": "Clear the ground before the clock dies. A clean alley after the clock is already over.",
 }
 
 
