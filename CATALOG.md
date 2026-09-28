@@ -368,10 +368,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 356 | s3bunkercolu | Reed | complete | One bunker. Stop the column on the road. Then it is done. |
 | 357 | s3scullbox | Gale | complete | The scull has one job: stop inside the box. |
 | 358 | s3marketgold | Nock | complete | Play market until only the gold counts double. Leave when that is true. |
-| 359 | s3bunkerbann | Reed | queued | At the bunker, you bring the banner back. Miss that and the watch is over. |
-| 360 | s3sculllock | Gale | queued | In the scull, you pass the lock without scraping a gate. Missing the end fails the leg. |
-| 361 | s3marketseven | Nock | queued | Market: first to seven. That is the whole cartridge. |
-| 362 | s3bunkerpurs | Reed | queued | You have the bunker. The job is to be the last machine still running. Anything else is a loss. |
+| 359 | s3bunkerbann | Reed | complete | At the bunker, you bring the banner back. Miss that and the watch is over. |
+| 360 | s3sculllock | Gale | complete | In the scull, you pass the lock without scraping a gate. Missing the end fails the leg. |
+| 361 | s3marketseven | Nock | complete | Market: first to seven. That is the whole cartridge. |
+| 362 | s3bunkerpurs | Reed | complete | You have the bunker. The job is to be the last machine still running. Anything else is a loss. |
 | 363 | s3scullgrass | Gale | queued | Take the scull and land on the grass and come to a full stop. The clock is the other crew. |
 | 364 | s3marketbell | Nock | queued | A short market. You are done when the bell rings before the third try dies. |
 | 365 | s3bunkerwell | Reed | queued | One bunker. Keep the well standing through three waves. Then it is done. |
