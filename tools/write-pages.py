@@ -406,6 +406,10 @@ DESIGN = {
     "s3lotcolu": "The column has to stop on the road. A van that gets through is a loss.",
     "s3trambox": "Stop inside the box. Close to the box is still outside, and that fails the leg.",
     "s3keysgold": "Only the gold counts double, and the line is 150. Cream hits do not buy the double.",
+    "s3lotbann": "The banner has to come back to the lot. Reaching it and staying away is a loss.",
+    "s3tramlock": "Pass the lock with both gates clear, ahead of the other crew. A scrape fails the leg.",
+    "s3keysseven": "First to seven, then leave. A six that looks close is still short.",
+    "s3lotpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the lot.",
 }
 
 
