@@ -500,10 +500,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 488 | s3millpouc | Reed | complete | You have the mill. The job is to carry the pouch across. Anything else is a loss. |
 | 489 | s3plowlane | Gale | complete | Take the plow and stay in the lane for the whole leg. The clock is the other crew. |
 | 490 | s3lanternbell | Nock | complete | Play lantern until the bell rings before the third try dies. Leave when that is true. |
-| 491 | s3millladd | Reed | queued | One mill. Reach the far ladder. Then it is done. |
-| 492 | s3plowmark | Gale | queued | The plow has one job: set down on the mark. |
-| 493 | s3lanternchime | Nock | queued | Lantern: the hour has to chime. That is the whole cartridge. |
-| 494 | s3millcler | Reed | queued | At the mill, you clear the ground before the clock dies. Miss that and the watch is over. |
+| 491 | s3millladd | Reed | complete | One mill. Reach the far ladder. Then it is done. |
+| 492 | s3plowmark | Gale | complete | The plow has one job: set down on the mark. |
+| 493 | s3lanternchime | Nock | complete | Lantern: the hour has to chime. That is the whole cartridge. |
+| 494 | s3millcler | Reed | complete | At the mill, you clear the ground before the clock dies. Miss that and the watch is over. |
 | 495 | s3plowturn | Gale | queued | In the plow, you make the three turns without tipping. Missing the end fails the leg. |
 | 496 | s3lanterntape | Nock | queued | A short lantern. You are done when the drawer has to match the tape. |
 | 497 | s3quarryreli | Reed | queued | One quarry. Hold until the relief bell. Then it is done. |
