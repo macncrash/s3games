@@ -472,10 +472,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 460 | s3paradetape | Nock | complete | Play parade until the drawer has to match the tape. Leave when that is true. |
 | 461 | s3millreli | Reed | complete | You have the mill. The job is to hold until the relief bell. Anything else is a loss. |
 | 462 | s3plowbuoy | Gale | complete | Take the plow and round the buoys and return to the same dock. The clock is the other crew. |
-| 463 | s3mosaicmark | Nock | queued | A short mosaic. You are done when a finished mark ends it. |
-| 464 | s3millcolu | Reed | queued | One mill. Stop the column on the road. Then it is done. |
-| 465 | s3plowbox | Gale | queued | The plow has one job: stop inside the box. |
-| 466 | s3mosaicgold | Nock | queued | Play mosaic until only the gold counts double. Leave when that is true. |
+| 463 | s3mosaicmark | Nock | complete | A short mosaic. You are done when a finished mark ends it. |
+| 464 | s3millcolu | Reed | complete | One mill. Stop the column on the road. Then it is done. |
+| 465 | s3plowbox | Gale | complete | The plow has one job: stop inside the box. |
+| 466 | s3mosaicgold | Nock | complete | Play mosaic until only the gold counts double. Leave when that is true. |
 | 467 | s3millbann | Reed | queued | At the mill, you bring the banner back. Miss that and the watch is over. |
 | 468 | s3plowlock | Gale | queued | In the plow, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 469 | s3mosaicseven | Nock | queued | Mosaic: first to seven. That is the whole cartridge. |
