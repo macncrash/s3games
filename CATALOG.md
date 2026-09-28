@@ -468,10 +468,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 456 | s3lugemark | Gale | complete | Take the luge and set down on the mark. The clock is the other crew. |
 | 457 | s3paradechime | Nock | complete | A short parade. You are done when the hour has to chime. |
 | 458 | s3towercler | Reed | complete | One tower. Clear the ground before the clock dies. Then it is done. |
-| 459 | s3lugeturn | Gale | queued | The luge has one job: make the three turns without tipping. |
-| 460 | s3paradetape | Nock | queued | Play parade until the drawer has to match the tape. Leave when that is true. |
-| 461 | s3millreli | Reed | queued | You have the mill. The job is to hold until the relief bell. Anything else is a loss. |
-| 462 | s3plowbuoy | Gale | queued | Take the plow and round the buoys and return to the same dock. The clock is the other crew. |
+| 459 | s3lugeturn | Gale | complete | The luge has one job: make the three turns without tipping. |
+| 460 | s3paradetape | Nock | complete | Play parade until the drawer has to match the tape. Leave when that is true. |
+| 461 | s3millreli | Reed | complete | You have the mill. The job is to hold until the relief bell. Anything else is a loss. |
+| 462 | s3plowbuoy | Gale | complete | Take the plow and round the buoys and return to the same dock. The clock is the other crew. |
 | 463 | s3mosaicmark | Nock | queued | A short mosaic. You are done when a finished mark ends it. |
 | 464 | s3millcolu | Reed | queued | One mill. Stop the column on the road. Then it is done. |
 | 465 | s3plowbox | Gale | queued | The plow has one job: stop inside the box. |
