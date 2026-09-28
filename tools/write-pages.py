@@ -430,6 +430,10 @@ DESIGN = {
     "s3lotpouc": "The pouch has to cross the lot. Reaching the middle and stopping is not across.",
     "s3tramlane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3jugglebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3lotladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3trammark": "Set the tram down on the mark. Close to the mark is still a missed leg.",
+    "s3jugglechime": "The hour has to chime at 12:00:00. Catches that miss the hour do not end it.",
+    "s3lotcler": "Clear the ground before the clock dies. A clean lot after the clock is already over.",
 }
 
 
