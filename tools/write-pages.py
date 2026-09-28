@@ -394,6 +394,10 @@ DESIGN = {
     "s3bunkerpouc": "The pouch has to cross the bunker. Reaching the far side without it is a loss.",
     "s3sculllane": "Stay inside the buoyed lane for the whole leg. Leaving the lane fails it.",
     "s3shufflebell": "The bell has to ring before the third try dies. A later slide is already over.",
+    "s3bunkerladd": "The far ladder is the job. Stopping short of it is a loss.",
+    "s3scullmark": "Set down on the mark. Close to the mark fails the job.",
+    "s3shufflechime": "The hour has to chime. A disk before the hour is not this cartridge.",
+    "s3bunkercler": "Clear the ground before the clock dies. A clean bunker after the clock is already over.",
 }
 
 
