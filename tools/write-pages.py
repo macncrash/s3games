@@ -514,6 +514,10 @@ DESIGN = {
     "s3quarrycolu": "Stop the column on the road. A truck that still gets through is a loss.",
     "s3cranebox": "Stop inside the box. Stopping short of the box fails the job.",
     "s3ovengold": "Only the gold counts double. Cream loaves do not buy the line.",
+    "s3quarrybann": "Bring the banner back. Reaching the banner and leaving it there is not done.",
+    "s3cranelock": "Pass the lock ahead of the other crew. A scrape spends the run even if you clear the lock.",
+    "s3ovenseven": "First to seven, then leave. Six is still short.",
+    "s3quarrypurs": "Be the last machine still running. A stall of your own ends the watch.",
 }
 
 
