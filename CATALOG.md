@@ -480,10 +480,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 468 | s3plowlock | Gale | complete | In the plow, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 469 | s3mosaicseven | Nock | complete | Mosaic: first to seven. That is the whole cartridge. |
 | 470 | s3millpurs | Reed | complete | You have the mill. The job is to be the last machine still running. Anything else is a loss. |
-| 471 | s3plowgrass | Gale | queued | Take the plow and land on the grass and come to a full stop. The clock is the other crew. |
-| 472 | s3mosaicbell | Nock | queued | A short mosaic. You are done when the bell rings before the third try dies. |
-| 473 | s3millwell | Reed | queued | One mill. Keep the well standing through three waves. Then it is done. |
-| 474 | s3plowkilo | Gale | queued | The plow has one job: finish the kilometer without touching wheels. |
+| 471 | s3plowgrass | Gale | complete | Take the plow and land on the grass and come to a full stop. The clock is the other crew. |
+| 472 | s3mosaicbell | Nock | complete | A short mosaic. You are done when the bell rings before the third try dies. |
+| 473 | s3millwell | Reed | complete | One mill. Keep the well standing through three waves. Then it is done. |
+| 474 | s3plowkilo | Gale | complete | The plow has one job: finish the kilometer without touching wheels. |
 | 475 | s3mosaicchime | Nock | queued | Play mosaic until the hour has to chime. Leave when that is true. |
 | 476 | s3millpace | Reed | queued | At the mill, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 477 | s3plowpass | Gale | queued | In the plow, you clear the pass before the storm clock. Missing the end fails the leg. |
