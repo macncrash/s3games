@@ -398,6 +398,10 @@ DESIGN = {
     "s3scullmark": "Set down on the mark. Close to the mark fails the job.",
     "s3shufflechime": "The hour has to chime. A disk before the hour is not this cartridge.",
     "s3bunkercler": "Clear the ground before the clock dies. A clean bunker after the clock is already over.",
+    "s3scullturn": "Three river bends, still upright, and the end of the leg made. A tip or a skipped bend fails it.",
+    "s3shuffletape": "The drawer has to match the tape, then you leave. A score that does not match the tape is still open.",
+    "s3lotreli": "Hold the lot until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3trambuoy": "Round the harbour buoys and tie up at the same dock. A fast circuit that finishes at the wrong dock fails the leg.",
 }
 
 
