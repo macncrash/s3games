@@ -388,10 +388,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 376 | s3shufflegold | Nock | complete | Shuffle: only the gold counts double. That is the whole cartridge. |
 | 377 | s3bunkerdoor | Reed | complete | At the bunker, you hold the door for three minutes. Miss that and the watch is over. |
 | 378 | s3scullplat | Gale | complete | In the scull, you stop level with the platform. Missing the end fails the leg. |
-| 379 | s3shuffleseven | Nock | queued | A short shuffle. You are done when first to seven. |
-| 380 | s3bunkerpouc | Reed | queued | You have the bunker. The job is to carry the pouch across. Anything else is a loss. |
-| 381 | s3sculllane | Gale | queued | Take the scull and stay in the lane for the whole leg. The clock is the other crew. |
-| 382 | s3shufflebell | Nock | queued | Play shuffle until the bell rings before the third try dies. Leave when that is true. |
+| 379 | s3shuffleseven | Nock | complete | A short shuffle. You are done when first to seven. |
+| 380 | s3bunkerpouc | Reed | complete | You have the bunker. The job is to carry the pouch across. Anything else is a loss. |
+| 381 | s3sculllane | Gale | complete | Take the scull and stay in the lane for the whole leg. The clock is the other crew. |
+| 382 | s3shufflebell | Nock | complete | Play shuffle until the bell rings before the third try dies. Leave when that is true. |
 | 383 | s3bunkerladd | Reed | queued | One bunker. Reach the far ladder. Then it is done. |
 | 384 | s3scullmark | Gale | queued | The scull has one job: set down on the mark. |
 | 385 | s3shufflechime | Nock | queued | Shuffle: the hour has to chime. That is the whole cartridge. |
