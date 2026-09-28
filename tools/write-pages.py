@@ -490,6 +490,10 @@ DESIGN = {
     "s3millpace": "Wait for the third pace, then fire. An earlier shot is a loss.",
     "s3plowpass": "Clear the pass before the storm clock. A late crest fails the leg.",
     "s3mosaictape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3millmaga": "The magazine has to outlast the raid. Burning the rounds and dying with the raid still up is a loss.",
+    "s3plowslip": "Berth in the slip before the tide turns. A late berth fails the leg.",
+    "s3lanternmark": "Close the gold lamp in order. A lamp left open is still the job.",
+    "s3milldawn": "Keep the flares lit until dawn. A dark mill ends the watch.",
 }
 
 
