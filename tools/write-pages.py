@@ -506,6 +506,10 @@ DESIGN = {
     "s3plowmark": "Set down on the mark. Close to the mark is still a missed job.",
     "s3lanternchime": "The hour has to chime at 12:00:00. Lamps that miss the hour do not end it.",
     "s3millcler": "Clear the ground before the clock dies. A clean mill after the clock is already over.",
+    "s3plowturn": "Three turns, still upright. A tip fails the leg.",
+    "s3lanterntape": "The drawer has to match the tape, then the lantern shuts. A line that does not match is still open.",
+    "s3quarryreli": "Hold the quarry until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3cranebuoy": "Round the buoys and return to the same dock. A circuit that finishes at the wrong dock fails the job.",
 }
 
 
