@@ -376,10 +376,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 364 | s3marketbell | Nock | complete | A short market. You are done when the bell rings before the third try dies. |
 | 365 | s3bunkerwell | Reed | complete | One bunker. Keep the well standing through three waves. Then it is done. |
 | 366 | s3scullkilo | Gale | complete | The scull has one job: finish the kilometer without touching wheels. |
-| 367 | s3marketchime | Nock | queued | Play market until the hour has to chime. Leave when that is true. |
-| 368 | s3bunkerpace | Reed | queued | At the bunker, you wait until the third pace before you fire. Miss that and the watch is over. |
-| 369 | s3scullpass | Gale | queued | In the scull, you clear the pass before the storm clock. Missing the end fails the leg. |
-| 370 | s3markettape | Nock | queued | Market: the drawer has to match the tape. That is the whole cartridge. |
+| 367 | s3marketchime | Nock | complete | Play market until the hour has to chime. Leave when that is true. |
+| 368 | s3bunkerpace | Reed | complete | At the bunker, you wait until the third pace before you fire. Miss that and the watch is over. |
+| 369 | s3scullpass | Gale | complete | In the scull, you clear the pass before the storm clock. Missing the end fails the leg. |
+| 370 | s3markettape | Nock | complete | Market: the drawer has to match the tape. That is the whole cartridge. |
 | 371 | s3bunkermaga | Reed | queued | You have the bunker. The job is to make the magazine last longer than the raid. Anything else is a loss. |
 | 372 | s3scullslip | Gale | queued | Take the scull and berth in the slip before the tide turns. The clock is the other crew. |
 | 373 | s3shufflemark | Nock | queued | Play shuffle until a finished mark ends it. Leave when that is true. |
