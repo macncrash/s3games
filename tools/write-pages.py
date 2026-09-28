@@ -382,6 +382,10 @@ DESIGN = {
     "s3bunkerpace": "Fire on the third pace. An earlier shot that still holds the bunker is not the job.",
     "s3scullpass": "Clear the gorge before the storm clock dies. Making the pass with the clock already gone fails the leg.",
     "s3markettape": "The drawer has to match the tape, then you leave. A till that is close is still open.",
+    "s3bunkermaga": "One magazine has to outlast the raid. Emptying it before the raid ends fails the watch.",
+    "s3scullslip": "Berth in the slip before the tide turns. A late berth fails the leg even if you find the slip.",
+    "s3shufflemark": "The disk has to stop inside the painted mark. Close to the mark is still out.",
+    "s3bunkerdawn": "The flares have to stay lit until dawn. A dark flare before dawn is a loss.",
 }
 
 
