@@ -414,6 +414,10 @@ DESIGN = {
     "s3keysbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
     "s3lotwell": "The well has to stand through three waves. A breach is a loss.",
     "s3tramkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
+    "s3keyschime": "The hour has to chime at 12:00:00. A near miss on the clock is still short.",
+    "s3lotpace": "Wait for the third pace, then fire. An earlier shot is a loss.",
+    "s3trampass": "Clear the pass before the storm clock. The other crew is that clock, and a late crest fails the leg.",
+    "s3keystape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
 }
 
 
