@@ -510,6 +510,10 @@ DESIGN = {
     "s3lanterntape": "The drawer has to match the tape, then the lantern shuts. A line that does not match is still open.",
     "s3quarryreli": "Hold the quarry until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3cranebuoy": "Round the buoys and return to the same dock. A circuit that finishes at the wrong dock fails the job.",
+    "s3ovenmark": "Lift the gold crust. A mark left in the oven is still open.",
+    "s3quarrycolu": "Stop the column on the road. A truck that still gets through is a loss.",
+    "s3cranebox": "Stop inside the box. Stopping short of the box fails the job.",
+    "s3ovengold": "Only the gold counts double. Cream loaves do not buy the line.",
 }
 
 
