@@ -448,10 +448,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 436 | s3safebell | Nock | complete | Play safe until the bell rings before the third try dies. Leave when that is true. |
 | 437 | s3towerwell | Reed | complete | You have the tower. The job is to keep the well standing through three waves. Anything else is a loss. |
 | 438 | s3lugekilo | Gale | complete | Take the luge and finish the kilometer without touching wheels. The clock is the other crew. |
-| 439 | s3safechime | Nock | queued | Safe: the hour has to chime. That is the whole cartridge. |
-| 440 | s3towerpace | Reed | queued | One tower. Wait until the third pace before you fire. Then it is done. |
-| 441 | s3lugepass | Gale | queued | The luge has one job: clear the pass before the storm clock. |
-| 442 | s3safetape | Nock | queued | A short safe. You are done when the drawer has to match the tape. |
+| 439 | s3safechime | Nock | complete | Safe: the hour has to chime. That is the whole cartridge. |
+| 440 | s3towerpace | Reed | complete | One tower. Wait until the third pace before you fire. Then it is done. |
+| 441 | s3lugepass | Gale | complete | The luge has one job: clear the pass before the storm clock. |
+| 442 | s3safetape | Nock | complete | A short safe. You are done when the drawer has to match the tape. |
 | 443 | s3towermaga | Reed | queued | At the tower, you make the magazine last longer than the raid. Miss that and the watch is over. |
 | 444 | s3lugeslip | Gale | queued | In the luge, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 445 | s3parademark | Nock | queued | Parade: a finished mark ends it. That is the whole cartridge. |
