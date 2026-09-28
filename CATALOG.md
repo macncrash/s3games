@@ -452,10 +452,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 440 | s3towerpace | Reed | complete | One tower. Wait until the third pace before you fire. Then it is done. |
 | 441 | s3lugepass | Gale | complete | The luge has one job: clear the pass before the storm clock. |
 | 442 | s3safetape | Nock | complete | A short safe. You are done when the drawer has to match the tape. |
-| 443 | s3towermaga | Reed | queued | At the tower, you make the magazine last longer than the raid. Miss that and the watch is over. |
-| 444 | s3lugeslip | Gale | queued | In the luge, you berth in the slip before the tide turns. Missing the end fails the leg. |
-| 445 | s3parademark | Nock | queued | Parade: a finished mark ends it. That is the whole cartridge. |
-| 446 | s3towerdawn | Reed | queued | You have the tower. The job is to keep the flares lit until dawn. Anything else is a loss. |
+| 443 | s3towermaga | Reed | complete | At the tower, you make the magazine last longer than the raid. Miss that and the watch is over. |
+| 444 | s3lugeslip | Gale | complete | In the luge, you berth in the slip before the tide turns. Missing the end fails the leg. |
+| 445 | s3parademark | Nock | complete | Parade: a finished mark ends it. That is the whole cartridge. |
+| 446 | s3towerdawn | Reed | complete | You have the tower. The job is to keep the flares lit until dawn. Anything else is a loss. |
 | 447 | s3lugeboom | Gale | queued | Take the luge and deliver the drive to the boom. The clock is the other crew. |
 | 448 | s3paradegold | Nock | queued | A short parade. You are done when only the gold counts double. |
 | 449 | s3towerdoor | Reed | queued | One tower. Hold the door for three minutes. Then it is done. |
