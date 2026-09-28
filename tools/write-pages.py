@@ -410,6 +410,10 @@ DESIGN = {
     "s3tramlock": "Pass the lock with both gates clear, ahead of the other crew. A scrape fails the leg.",
     "s3keysseven": "First to seven, then leave. A six that looks close is still short.",
     "s3lotpurs": "Be the last machine still running. Stopping the others and then dying yourself does not take the lot.",
+    "s3tramgrass": "Land on the grass and come to a full stop. A touch that keeps rolling fails the job.",
+    "s3keysbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3lotwell": "The well has to stand through three waves. A breach is a loss.",
+    "s3tramkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
 }
 
 
