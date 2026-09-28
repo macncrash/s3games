@@ -420,10 +420,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 408 | s3tramslip | Gale | complete | The tram has one job: berth in the slip before the tide turns. |
 | 409 | s3jugglemark | Nock | complete | A short juggle. You are done when a finished mark ends it. |
 | 410 | s3lotdawn | Reed | complete | At the lot, you keep the flares lit until dawn. Miss that and the watch is over. |
-| 411 | s3tramboom | Gale | queued | In the tram, you deliver the drive to the boom. Missing the end fails the leg. |
-| 412 | s3jugglegold | Nock | queued | Play juggle until only the gold counts double. Leave when that is true. |
-| 413 | s3lotdoor | Reed | queued | You have the lot. The job is to hold the door for three minutes. Anything else is a loss. |
-| 414 | s3tramplat | Gale | queued | Take the tram and stop level with the platform. The clock is the other crew. |
+| 411 | s3tramboom | Gale | complete | In the tram, you deliver the drive to the boom. Missing the end fails the leg. |
+| 412 | s3jugglegold | Nock | complete | Play juggle until only the gold counts double. Leave when that is true. |
+| 413 | s3lotdoor | Reed | complete | You have the lot. The job is to hold the door for three minutes. Anything else is a loss. |
+| 414 | s3tramplat | Gale | complete | Take the tram and stop level with the platform. The clock is the other crew. |
 | 415 | s3juggleseven | Nock | queued | Juggle: first to seven. That is the whole cartridge. |
 | 416 | s3lotpouc | Reed | queued | One lot. Carry the pouch across. Then it is done. |
 | 417 | s3tramlane | Gale | queued | The tram has one job: stay in the lane for the whole leg. |
