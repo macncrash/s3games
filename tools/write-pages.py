@@ -518,6 +518,10 @@ DESIGN = {
     "s3cranelock": "Pass the lock ahead of the other crew. A scrape spends the run even if you clear the lock.",
     "s3ovenseven": "First to seven, then leave. Six is still short.",
     "s3quarrypurs": "Be the last machine still running. A stall of your own ends the watch.",
+    "s3cranegrass": "Land on the grass and come to a full stop. Sliding off the grass fails the job.",
+    "s3ovenbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3quarrywell": "The well has to stand through three waves. A well that falls on the third wave is a loss.",
+    "s3cranekilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
 }
 
 
