@@ -462,6 +462,10 @@ DESIGN = {
     "s3paradegold": "Only the gold counts double. Bare and cream scores do not buy the line.",
     "s3towerdoor": "Hold the door for three minutes. A breach before the clock is a loss.",
     "s3lugeplat": "Stop level with the platform. Close and still short fails the job.",
+    "s3paradeseven": "First to seven, then leave. Six is still short.",
+    "s3towerpouc": "The pouch has to cross the tower. Stopping in the middle is not across.",
+    "s3lugelane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3paradebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
