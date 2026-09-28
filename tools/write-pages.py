@@ -486,6 +486,10 @@ DESIGN = {
     "s3mosaicbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
     "s3millwell": "The well has to stand through three waves. A well that falls on the third wave is a loss.",
     "s3plowkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
+    "s3mosaicchime": "The hour has to chime at 12:00:00. Tiles that miss the hour do not end it.",
+    "s3millpace": "Wait for the third pace, then fire. An earlier shot is a loss.",
+    "s3plowpass": "Clear the pass before the storm clock. A late crest fails the leg.",
+    "s3mosaictape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
 }
 
 
