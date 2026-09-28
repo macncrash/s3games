@@ -400,10 +400,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 388 | s3shuffletape | Nock | complete | A short shuffle. You are done when the drawer has to match the tape. |
 | 389 | s3lotreli | Reed | complete | One lot. Hold until the relief bell. Then it is done. |
 | 390 | s3trambuoy | Gale | complete | The tram has one job: round the buoys and return to the same dock. |
-| 391 | s3keysmark | Nock | queued | Keys: a finished mark ends it. That is the whole cartridge. |
-| 392 | s3lotcolu | Reed | queued | At the lot, you stop the column on the road. Miss that and the watch is over. |
-| 393 | s3trambox | Gale | queued | In the tram, you stop inside the box. Missing the end fails the leg. |
-| 394 | s3keysgold | Nock | queued | A short keys. You are done when only the gold counts double. |
+| 391 | s3keysmark | Nock | complete | Keys: a finished mark ends it. That is the whole cartridge. |
+| 392 | s3lotcolu | Reed | complete | At the lot, you stop the column on the road. Miss that and the watch is over. |
+| 393 | s3trambox | Gale | complete | In the tram, you stop inside the box. Missing the end fails the leg. |
+| 394 | s3keysgold | Nock | complete | A short keys. You are done when only the gold counts double. |
 | 395 | s3lotbann | Reed | queued | You have the lot. The job is to bring the banner back. Anything else is a loss. |
 | 396 | s3tramlock | Gale | queued | Take the tram and pass the lock without scraping a gate. The clock is the other crew. |
 | 397 | s3keysseven | Nock | queued | Play keys until first to seven. Leave when that is true. |
