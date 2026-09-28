@@ -476,10 +476,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 464 | s3millcolu | Reed | complete | One mill. Stop the column on the road. Then it is done. |
 | 465 | s3plowbox | Gale | complete | The plow has one job: stop inside the box. |
 | 466 | s3mosaicgold | Nock | complete | Play mosaic until only the gold counts double. Leave when that is true. |
-| 467 | s3millbann | Reed | queued | At the mill, you bring the banner back. Miss that and the watch is over. |
-| 468 | s3plowlock | Gale | queued | In the plow, you pass the lock without scraping a gate. Missing the end fails the leg. |
-| 469 | s3mosaicseven | Nock | queued | Mosaic: first to seven. That is the whole cartridge. |
-| 470 | s3millpurs | Reed | queued | You have the mill. The job is to be the last machine still running. Anything else is a loss. |
+| 467 | s3millbann | Reed | complete | At the mill, you bring the banner back. Miss that and the watch is over. |
+| 468 | s3plowlock | Gale | complete | In the plow, you pass the lock without scraping a gate. Missing the end fails the leg. |
+| 469 | s3mosaicseven | Nock | complete | Mosaic: first to seven. That is the whole cartridge. |
+| 470 | s3millpurs | Reed | complete | You have the mill. The job is to be the last machine still running. Anything else is a loss. |
 | 471 | s3plowgrass | Gale | queued | Take the plow and land on the grass and come to a full stop. The clock is the other crew. |
 | 472 | s3mosaicbell | Nock | queued | A short mosaic. You are done when the bell rings before the third try dies. |
 | 473 | s3millwell | Reed | queued | One mill. Keep the well standing through three waves. Then it is done. |
