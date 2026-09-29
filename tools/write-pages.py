@@ -678,6 +678,10 @@ DESIGN = {
     "s3fishgold": "Only the gold counts double. Cream fish do not buy the line.",
     "s3cisterndoor": "Hold the door for three minutes. Breaking the seal early is a loss.",
     "s3rickshawplat": "Stop level with the platform. Short or past the platform fails the job.",
+    "s3fishseven": "First to seven, then leave. Six is still short.",
+    "s3cisternpouc": "Carry the pouch across the cistern. Stopping in the middle is not across.",
+    "s3rickshawlane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3fishbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
