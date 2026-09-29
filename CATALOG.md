@@ -540,10 +540,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 528 | s3cranemark | Gale | complete | In the crane, you set down on the mark. Missing the end fails the leg. |
 | 529 | s3memorychime | Nock | complete | Play memory until the hour has to chime. Leave when that is true. |
 | 530 | s3quarrycler | Reed | complete | You have the quarry. The job is to clear the ground before the clock dies. Anything else is a loss. |
-| 531 | s3craneturn | Gale | queued | Take the crane and make the three turns without tipping. The clock is the other crew. |
-| 532 | s3memorytape | Nock | queued | Memory: the drawer has to match the tape. That is the whole cartridge. |
-| 533 | s3orchardreli | Reed | queued | At the orchard, you hold until the relief bell. Miss that and the watch is over. |
-| 534 | s3mailvanbuoy | Gale | queued | In the mailvan, you round the buoys and return to the same dock. Missing the end fails the leg. |
+| 531 | s3craneturn | Gale | complete | Take the crane and make the three turns without tipping. The clock is the other crew. |
+| 532 | s3memorytape | Nock | complete | Memory: the drawer has to match the tape. That is the whole cartridge. |
+| 533 | s3orchardreli | Reed | complete | At the orchard, you hold until the relief bell. Miss that and the watch is over. |
+| 534 | s3mailvanbuoy | Gale | complete | In the mailvan, you round the buoys and return to the same dock. Missing the end fails the leg. |
 | 535 | s3boardmark | Nock | queued | Play board until a finished mark ends it. Leave when that is true. |
 | 536 | s3orchardcolu | Reed | queued | You have the orchard. The job is to stop the column on the road. Anything else is a loss. |
 | 537 | s3mailvanbox | Gale | queued | Take the mailvan and stop inside the box. The clock is the other crew. |
