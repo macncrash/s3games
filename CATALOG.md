@@ -612,10 +612,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 600 | s3headermark | Gale | complete | The header has one job: set down on the mark. |
 | 601 | s3shelvechime | Nock | complete | Shelve: the hour has to chime. That is the whole cartridge. |
 | 602 | s3causewaycler | Reed | complete | At the causeway, you clear the ground before the clock dies. Miss that and the watch is over. |
-| 603 | s3headerturn | Gale | queued | In the header, you make the three turns without tipping. Missing the end fails the leg. |
-| 604 | s3shelvetape | Nock | queued | A short shelve. You are done when the drawer has to match the tape. |
-| 605 | s3viaductreli | Reed | queued | One viaduct. Hold until the relief bell. Then it is done. |
-| 606 | s3cliffbuoy | Gale | queued | The cliff has one job: round the buoys and return to the same dock. |
+| 603 | s3headerturn | Gale | complete | In the header, you make the three turns without tipping. Missing the end fails the leg. |
+| 604 | s3shelvetape | Nock | complete | A short shelve. You are done when the drawer has to match the tape. |
+| 605 | s3viaductreli | Reed | complete | One viaduct. Hold until the relief bell. Then it is done. |
+| 606 | s3cliffbuoy | Gale | complete | The cliff has one job: round the buoys and return to the same dock. |
 | 607 | s3solitairemark | Nock | queued | Solitaire: a finished mark ends it. That is the whole cartridge. |
 | 608 | s3viaductcolu | Reed | queued | At the viaduct, you stop the column on the road. Miss that and the watch is over. |
 | 609 | s3cliffbox | Gale | queued | In the cliff, you stop inside the box. Missing the end fails the leg. |
