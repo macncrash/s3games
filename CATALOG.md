@@ -556,10 +556,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 544 | s3boardbell | Nock | complete | Play board until the bell rings before the third try dies. Leave when that is true. |
 | 545 | s3orchardwell | Reed | complete | You have the orchard. The job is to keep the well standing through three waves. Anything else is a loss. |
 | 546 | s3mailvankilo | Gale | complete | Take the mailvan and finish the kilometer without touching wheels. The clock is the other crew. |
-| 547 | s3boardchime | Nock | queued | Board: the hour has to chime. That is the whole cartridge. |
-| 548 | s3orchardpace | Reed | queued | One orchard. Wait until the third pace before you fire. Then it is done. |
-| 549 | s3mailvanpass | Gale | queued | The mailvan has one job: clear the pass before the storm clock. |
-| 550 | s3boardtape | Nock | queued | A short board. You are done when the drawer has to match the tape. |
+| 547 | s3boardchime | Nock | complete | Board: the hour has to chime. That is the whole cartridge. |
+| 548 | s3orchardpace | Reed | complete | One orchard. Wait until the third pace before you fire. Then it is done. |
+| 549 | s3mailvanpass | Gale | complete | The mailvan has one job: clear the pass before the storm clock. |
+| 550 | s3boardtape | Nock | complete | A short board. You are done when the drawer has to match the tape. |
 | 551 | s3orchardmaga | Reed | queued | At the orchard, you make the magazine last longer than the raid. Miss that and the watch is over. |
 | 552 | s3mailvanslip | Gale | queued | In the mailvan, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 553 | s3strikermark | Nock | queued | Striker: a finished mark ends it. That is the whole cartridge. |
