@@ -598,6 +598,10 @@ DESIGN = {
     "s3causewaypace": "Wait for the third pace, then fire. An earlier shot is a loss.",
     "s3headerpass": "Clear the pass before the storm clock. A late crest fails the leg.",
     "s3choirtape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3causewaymaga": "The magazine has to outlast the raid. Burning the rounds and dying with the raid still up is a loss.",
+    "s3headerslip": "Berth in the slip before the other crew. A late berth fails the leg.",
+    "s3shelvemark": "Finish the mark on the shelf. A row left open is still the job.",
+    "s3causewaydawn": "Keep the flares lit until dawn. A dark causeway ends the watch.",
 }
 
 
