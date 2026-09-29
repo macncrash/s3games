@@ -576,10 +576,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 564 | s3mailvanmark | Gale | complete | Take the mailvan and set down on the mark. The clock is the other crew. |
 | 565 | s3strikerchime | Nock | complete | A short striker. You are done when the hour has to chime. |
 | 566 | s3orchardcler | Reed | complete | One orchard. Clear the ground before the clock dies. Then it is done. |
-| 567 | s3mailvanturn | Gale | queued | The mailvan has one job: make the three turns without tipping. |
-| 568 | s3strikertape | Nock | queued | Play striker until the drawer has to match the tape. Leave when that is true. |
-| 569 | s3causewayreli | Reed | queued | You have the causeway. The job is to hold until the relief bell. Anything else is a loss. |
-| 570 | s3headerbuoy | Gale | queued | Take the header and round the buoys and return to the same dock. The clock is the other crew. |
+| 567 | s3mailvanturn | Gale | complete | The mailvan has one job: make the three turns without tipping. |
+| 568 | s3strikertape | Nock | complete | Play striker until the drawer has to match the tape. Leave when that is true. |
+| 569 | s3causewayreli | Reed | complete | You have the causeway. The job is to hold until the relief bell. Anything else is a loss. |
+| 570 | s3headerbuoy | Gale | complete | Take the header and round the buoys and return to the same dock. The clock is the other crew. |
 | 571 | s3choirmark | Nock | queued | A short choir. You are done when a finished mark ends it. |
 | 572 | s3causewaycolu | Reed | queued | One causeway. Stop the column on the road. Then it is done. |
 | 573 | s3headerbox | Gale | queued | The header has one job: stop inside the box. |
