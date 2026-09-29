@@ -628,10 +628,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 616 | s3solitairebell | Nock | complete | Solitaire: the bell rings before the third try dies. That is the whole cartridge. |
 | 617 | s3viaductwell | Reed | complete | At the viaduct, you keep the well standing through three waves. Miss that and the watch is over. |
 | 618 | s3cliffkilo | Gale | complete | In the cliff, you finish the kilometer without touching wheels. Missing the end fails the leg. |
-| 619 | s3solitairechime | Nock | queued | A short solitaire. You are done when the hour has to chime. |
-| 620 | s3viaductpace | Reed | queued | You have the viaduct. The job is to wait until the third pace before you fire. Anything else is a loss. |
-| 621 | s3cliffpass | Gale | queued | Take the cliff and clear the pass before the storm clock. The clock is the other crew. |
-| 622 | s3solitairetape | Nock | queued | Play solitaire until the drawer has to match the tape. Leave when that is true. |
+| 619 | s3solitairechime | Nock | complete | A short solitaire. You are done when the hour has to chime. |
+| 620 | s3viaductpace | Reed | complete | You have the viaduct. The job is to wait until the third pace before you fire. Anything else is a loss. |
+| 621 | s3cliffpass | Gale | complete | Take the cliff and clear the pass before the storm clock. The clock is the other crew. |
+| 622 | s3solitairetape | Nock | complete | Play solitaire until the drawer has to match the tape. Leave when that is true. |
 | 623 | s3viaductmaga | Reed | queued | One viaduct. Make the magazine last longer than the raid. Then it is done. |
 | 624 | s3cliffslip | Gale | queued | The cliff has one job: berth in the slip before the tide turns. |
 | 625 | s3clockmark | Nock | queued | A short clock. You are done when a finished mark ends it. |
