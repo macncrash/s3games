@@ -736,10 +736,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 724 | s3anvilbell | Nock | complete | Anvil: the bell rings before the third try dies. That is the whole cartridge. |
 | 725 | s3palisadewell | Reed | complete | At the palisade, you keep the well standing through three waves. Miss that and the watch is over. |
 | 726 | s3subkilo | Gale | complete | In the sub, you finish the kilometer without touching wheels. Missing the end fails the leg. |
-| 727 | s3anvilchime | Nock | queued | A short anvil. You are done when the hour has to chime. |
-| 728 | s3palisadepace | Reed | queued | You have the palisade. The job is to wait until the third pace before you fire. Anything else is a loss. |
-| 729 | s3subpass | Gale | queued | Take the sub and clear the pass before the storm clock. The clock is the other crew. |
-| 730 | s3anviltape | Nock | queued | Play anvil until the drawer has to match the tape. Leave when that is true. |
+| 727 | s3anvilchime | Nock | complete | A short anvil. You are done when the hour has to chime. |
+| 728 | s3palisadepace | Reed | complete | You have the palisade. The job is to wait until the third pace before you fire. Anything else is a loss. |
+| 729 | s3subpass | Gale | complete | Take the sub and clear the pass before the storm clock. The clock is the other crew. |
+| 730 | s3anviltape | Nock | complete | Play anvil until the drawer has to match the tape. Leave when that is true. |
 | 731 | s3palisademaga | Reed | queued | One palisade. Make the magazine last longer than the raid. Then it is done. |
 | 732 | s3subslip | Gale | queued | The sub has one job: berth in the slip before the tide turns. |
 | 733 | s3loommark | Nock | queued | A short loom. You are done when a finished mark ends it. |
