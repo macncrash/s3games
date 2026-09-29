@@ -632,10 +632,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 620 | s3viaductpace | Reed | complete | You have the viaduct. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 621 | s3cliffpass | Gale | complete | Take the cliff and clear the pass before the storm clock. The clock is the other crew. |
 | 622 | s3solitairetape | Nock | complete | Play solitaire until the drawer has to match the tape. Leave when that is true. |
-| 623 | s3viaductmaga | Reed | queued | One viaduct. Make the magazine last longer than the raid. Then it is done. |
-| 624 | s3cliffslip | Gale | queued | The cliff has one job: berth in the slip before the tide turns. |
-| 625 | s3clockmark | Nock | queued | A short clock. You are done when a finished mark ends it. |
-| 626 | s3viaductdawn | Reed | queued | At the viaduct, you keep the flares lit until dawn. Miss that and the watch is over. |
+| 623 | s3viaductmaga | Reed | complete | One viaduct. Make the magazine last longer than the raid. Then it is done. |
+| 624 | s3cliffslip | Gale | complete | The cliff has one job: berth in the slip before the tide turns. |
+| 625 | s3clockmark | Nock | complete | A short clock. You are done when a finished mark ends it. |
+| 626 | s3viaductdawn | Reed | complete | At the viaduct, you keep the flares lit until dawn. Miss that and the watch is over. |
 | 627 | s3cliffboom | Gale | queued | In the cliff, you deliver the drive to the boom. Missing the end fails the leg. |
 | 628 | s3clockgold | Nock | queued | Play clock until only the gold counts double. Leave when that is true. |
 | 629 | s3viaductdoor | Reed | queued | You have the viaduct. The job is to hold the door for three minutes. Anything else is a loss. |
