@@ -756,10 +756,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 744 | s3submark | Gale | complete | In the sub, you set down on the mark. Missing the end fails the leg. |
 | 745 | s3loomchime | Nock | complete | Play loom until the hour has to chime. Leave when that is true. |
 | 746 | s3palisadecler | Reed | complete | You have the palisade. The job is to clear the ground before the clock dies. Anything else is a loss. |
-| 747 | s3subturn | Gale | queued | Take the sub and make the three turns without tipping. The clock is the other crew. |
-| 748 | s3loomtape | Nock | queued | Loom: the drawer has to match the tape. That is the whole cartridge. |
-| 749 | s3trenchreli | Reed | queued | At the trench, you hold until the relief bell. Miss that and the watch is over. |
-| 750 | s3bikebuoy | Gale | queued | In the bike, you round the buoys and return to the same dock. Missing the end fails the leg. |
+| 747 | s3subturn | Gale | complete | Take the sub and make the three turns without tipping. The clock is the other crew. |
+| 748 | s3loomtape | Nock | complete | Loom: the drawer has to match the tape. That is the whole cartridge. |
+| 749 | s3trenchreli | Reed | complete | At the trench, you hold until the relief bell. Miss that and the watch is over. |
+| 750 | s3bikebuoy | Gale | complete | In the bike, you round the buoys and return to the same dock. Missing the end fails the leg. |
 | 751 | s3kilnmark | Nock | queued | Play kiln until a finished mark ends it. Leave when that is true. |
 | 752 | s3trenchcolu | Reed | queued | You have the trench. The job is to stop the column on the road. Anything else is a loss. |
 | 753 | s3bikebox | Gale | queued | Take the bike and stop inside the box. The clock is the other crew. |
