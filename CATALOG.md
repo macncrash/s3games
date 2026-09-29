@@ -528,10 +528,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 516 | s3craneslip | Gale | complete | The crane has one job: berth in the slip before the tide turns. |
 | 517 | s3memorymark | Nock | complete | A short memory. You are done when a finished mark ends it. |
 | 518 | s3quarrydawn | Reed | complete | At the quarry, you keep the flares lit until dawn. Miss that and the watch is over. |
-| 519 | s3craneboom | Gale | queued | In the crane, you deliver the drive to the boom. Missing the end fails the leg. |
-| 520 | s3memorygold | Nock | queued | Play memory until only the gold counts double. Leave when that is true. |
-| 521 | s3quarrydoor | Reed | queued | You have the quarry. The job is to hold the door for three minutes. Anything else is a loss. |
-| 522 | s3craneplat | Gale | queued | Take the crane and stop level with the platform. The clock is the other crew. |
+| 519 | s3craneboom | Gale | complete | In the crane, you deliver the drive to the boom. Missing the end fails the leg. |
+| 520 | s3memorygold | Nock | complete | Play memory until only the gold counts double. Leave when that is true. |
+| 521 | s3quarrydoor | Reed | complete | You have the quarry. The job is to hold the door for three minutes. Anything else is a loss. |
+| 522 | s3craneplat | Gale | complete | Take the crane and stop level with the platform. The clock is the other crew. |
 | 523 | s3memoryseven | Nock | queued | Memory: first to seven. That is the whole cartridge. |
 | 524 | s3quarrypouc | Reed | queued | One quarry. Carry the pouch across. Then it is done. |
 | 525 | s3cranelane | Gale | queued | The crane has one job: stay in the lane for the whole leg. |
