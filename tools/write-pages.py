@@ -654,6 +654,10 @@ DESIGN = {
     "s3clocktape": "The drawer has to match the tape. A near time is still a miss.",
     "s3cisternreli": "Hold until the relief bell. Leaving early ends the watch.",
     "s3rickshawbuoy": "Round the buoys and return to the same dock. Missing the dock fails the leg.",
+    "s3drawermark": "A finished mark ends it. An open drawer is still short.",
+    "s3cisterncolu": "Stop the column on the road. A column still rolling is a loss.",
+    "s3rickshawbox": "Stop inside the box ahead of the other crew. Outside the box fails the leg.",
+    "s3drawergold": "Only the gold counts double. Cream strikes do not buy the line.",
 }
 
 
