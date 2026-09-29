@@ -558,6 +558,10 @@ DESIGN = {
     "s3boardbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
     "s3orchardwell": "The well has to stand through three waves. A well that falls on the third wave is a loss.",
     "s3mailvankilo": "Finish the kilometer without touching a wheel, ahead of the other crew. A scrape spends the run.",
+    "s3boardchime": "The hour has to chime at 12:00:00. A near miss on the patches is still short.",
+    "s3orchardpace": "Wait for the third pace, then fire. An earlier shot is a loss.",
+    "s3mailvanpass": "Clear the pass before the storm clock. A late crest fails the job.",
+    "s3boardtape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
 }
 
 
