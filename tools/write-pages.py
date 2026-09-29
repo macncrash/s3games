@@ -542,6 +542,10 @@ DESIGN = {
     "s3cranemark": "Set the load down on the mark. Close to the mark is still a missed leg.",
     "s3memorychime": "The hour has to chime. Pairs that miss the hour do not end it.",
     "s3quarrycler": "Clear the ground before the clock dies. A clean quarry after the clock is already over.",
+    "s3craneturn": "Three turns, still upright, with the other crew still on the clock. A tip fails the leg.",
+    "s3memorytape": "The drawer has to match the tape. A line that does not match is still open.",
+    "s3orchardreli": "Hold the orchard until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3mailvanbuoy": "Round the buoys and return to the same dock. A circuit that finishes at the wrong dock fails the leg.",
 }
 
 
