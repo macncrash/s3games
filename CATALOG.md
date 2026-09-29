@@ -584,10 +584,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 572 | s3causewaycolu | Reed | complete | One causeway. Stop the column on the road. Then it is done. |
 | 573 | s3headerbox | Gale | complete | The header has one job: stop inside the box. |
 | 574 | s3choirgold | Nock | complete | Play choir until only the gold counts double. Leave when that is true. |
-| 575 | s3causewaybann | Reed | queued | At the causeway, you bring the banner back. Miss that and the watch is over. |
-| 576 | s3headerlock | Gale | queued | In the header, you pass the lock without scraping a gate. Missing the end fails the leg. |
-| 577 | s3choirseven | Nock | queued | Choir: first to seven. That is the whole cartridge. |
-| 578 | s3causewaypurs | Reed | queued | You have the causeway. The job is to be the last machine still running. Anything else is a loss. |
+| 575 | s3causewaybann | Reed | complete | At the causeway, you bring the banner back. Miss that and the watch is over. |
+| 576 | s3headerlock | Gale | complete | In the header, you pass the lock without scraping a gate. Missing the end fails the leg. |
+| 577 | s3choirseven | Nock | complete | Choir: first to seven. That is the whole cartridge. |
+| 578 | s3causewaypurs | Reed | complete | You have the causeway. The job is to be the last machine still running. Anything else is a loss. |
 | 579 | s3headergrass | Gale | queued | Take the header and land on the grass and come to a full stop. The clock is the other crew. |
 | 580 | s3choirbell | Nock | queued | A short choir. You are done when the bell rings before the third try dies. |
 | 581 | s3causewaywell | Reed | queued | One causeway. Keep the well standing through three waves. Then it is done. |
