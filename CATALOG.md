@@ -636,10 +636,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 624 | s3cliffslip | Gale | complete | The cliff has one job: berth in the slip before the tide turns. |
 | 625 | s3clockmark | Nock | complete | A short clock. You are done when a finished mark ends it. |
 | 626 | s3viaductdawn | Reed | complete | At the viaduct, you keep the flares lit until dawn. Miss that and the watch is over. |
-| 627 | s3cliffboom | Gale | queued | In the cliff, you deliver the drive to the boom. Missing the end fails the leg. |
-| 628 | s3clockgold | Nock | queued | Play clock until only the gold counts double. Leave when that is true. |
-| 629 | s3viaductdoor | Reed | queued | You have the viaduct. The job is to hold the door for three minutes. Anything else is a loss. |
-| 630 | s3cliffplat | Gale | queued | Take the cliff and stop level with the platform. The clock is the other crew. |
+| 627 | s3cliffboom | Gale | complete | In the cliff, you deliver the drive to the boom. Missing the end fails the leg. |
+| 628 | s3clockgold | Nock | complete | Play clock until only the gold counts double. Leave when that is true. |
+| 629 | s3viaductdoor | Reed | complete | You have the viaduct. The job is to hold the door for three minutes. Anything else is a loss. |
+| 630 | s3cliffplat | Gale | complete | Take the cliff and stop level with the platform. The clock is the other crew. |
 | 631 | s3clockseven | Nock | queued | Clock: first to seven. That is the whole cartridge. |
 | 632 | s3viaductpouc | Reed | queued | One viaduct. Carry the pouch across. Then it is done. |
 | 633 | s3clifflane | Gale | queued | The cliff has one job: stay in the lane for the whole leg. |
