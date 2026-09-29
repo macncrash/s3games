@@ -642,6 +642,10 @@ DESIGN = {
     "s3clockgold": "Only the gold counts double. Cream strikes do not buy the line.",
     "s3viaductdoor": "Hold the door for three minutes. A breach before the clock is a loss.",
     "s3cliffplat": "Stop level with the platform, ahead of the other crew. Close and still short fails the leg.",
+    "s3clockseven": "First to seven, then leave. Six is still short.",
+    "s3viaductpouc": "The pouch has to cross the viaduct. Stopping in the middle is not across.",
+    "s3clifflane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3clockbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
