@@ -624,10 +624,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 612 | s3clifflock | Gale | complete | Take the cliff and pass the lock without scraping a gate. The clock is the other crew. |
 | 613 | s3solitaireseven | Nock | complete | Play solitaire until first to seven. Leave when that is true. |
 | 614 | s3viaductpurs | Reed | complete | One viaduct. Be the last machine still running. Then it is done. |
-| 615 | s3cliffgrass | Gale | queued | The cliff has one job: land on the grass and come to a full stop. |
-| 616 | s3solitairebell | Nock | queued | Solitaire: the bell rings before the third try dies. That is the whole cartridge. |
-| 617 | s3viaductwell | Reed | queued | At the viaduct, you keep the well standing through three waves. Miss that and the watch is over. |
-| 618 | s3cliffkilo | Gale | queued | In the cliff, you finish the kilometer without touching wheels. Missing the end fails the leg. |
+| 615 | s3cliffgrass | Gale | complete | The cliff has one job: land on the grass and come to a full stop. |
+| 616 | s3solitairebell | Nock | complete | Solitaire: the bell rings before the third try dies. That is the whole cartridge. |
+| 617 | s3viaductwell | Reed | complete | At the viaduct, you keep the well standing through three waves. Miss that and the watch is over. |
+| 618 | s3cliffkilo | Gale | complete | In the cliff, you finish the kilometer without touching wheels. Missing the end fails the leg. |
 | 619 | s3solitairechime | Nock | queued | A short solitaire. You are done when the hour has to chime. |
 | 620 | s3viaductpace | Reed | queued | You have the viaduct. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 621 | s3cliffpass | Gale | queued | Take the cliff and clear the pass before the storm clock. The clock is the other crew. |
