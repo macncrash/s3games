@@ -524,10 +524,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 512 | s3quarrypace | Reed | complete | You have the quarry. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 513 | s3cranepass | Gale | complete | Take the crane and clear the pass before the storm clock. The clock is the other crew. |
 | 514 | s3oventape | Nock | complete | Play oven until the drawer has to match the tape. Leave when that is true. |
-| 515 | s3quarrymaga | Reed | queued | One quarry. Make the magazine last longer than the raid. Then it is done. |
-| 516 | s3craneslip | Gale | queued | The crane has one job: berth in the slip before the tide turns. |
-| 517 | s3memorymark | Nock | queued | A short memory. You are done when a finished mark ends it. |
-| 518 | s3quarrydawn | Reed | queued | At the quarry, you keep the flares lit until dawn. Miss that and the watch is over. |
+| 515 | s3quarrymaga | Reed | complete | One quarry. Make the magazine last longer than the raid. Then it is done. |
+| 516 | s3craneslip | Gale | complete | The crane has one job: berth in the slip before the tide turns. |
+| 517 | s3memorymark | Nock | complete | A short memory. You are done when a finished mark ends it. |
+| 518 | s3quarrydawn | Reed | complete | At the quarry, you keep the flares lit until dawn. Miss that and the watch is over. |
 | 519 | s3craneboom | Gale | queued | In the crane, you deliver the drive to the boom. Missing the end fails the leg. |
 | 520 | s3memorygold | Nock | queued | Play memory until only the gold counts double. Leave when that is true. |
 | 521 | s3quarrydoor | Reed | queued | You have the quarry. The job is to hold the door for three minutes. Anything else is a loss. |
