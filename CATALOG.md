@@ -708,10 +708,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 696 | s3mushslip | Gale | complete | Take the mush and berth in the slip before the tide turns. The clock is the other crew. |
 | 697 | s3bedsmark | Nock | complete | Play beds until a finished mark ends it. Leave when that is true. |
 | 698 | s3redoubtdawn | Reed | complete | One redoubt. Keep the flares lit until dawn. Then it is done. |
-| 699 | s3mushboom | Gale | queued | The mush has one job: deliver the drive to the boom. |
-| 700 | s3bedsgold | Nock | queued | Beds: only the gold counts double. That is the whole cartridge. |
-| 701 | s3redoubtdoor | Reed | queued | At the redoubt, you hold the door for three minutes. Miss that and the watch is over. |
-| 702 | s3mushplat | Gale | queued | In the mush, you stop level with the platform. Missing the end fails the leg. |
+| 699 | s3mushboom | Gale | complete | The mush has one job: deliver the drive to the boom. |
+| 700 | s3bedsgold | Nock | complete | Beds: only the gold counts double. That is the whole cartridge. |
+| 701 | s3redoubtdoor | Reed | complete | At the redoubt, you hold the door for three minutes. Miss that and the watch is over. |
+| 702 | s3mushplat | Gale | complete | In the mush, you stop level with the platform. Missing the end fails the leg. |
 | 703 | s3bedsseven | Nock | queued | A short beds. You are done when first to seven. |
 | 704 | s3redoubtpouc | Reed | queued | You have the redoubt. The job is to carry the pouch across. Anything else is a loss. |
 | 705 | s3mushlane | Gale | queued | Take the mush and stay in the lane for the whole leg. The clock is the other crew. |
