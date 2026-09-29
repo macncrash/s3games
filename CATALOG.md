@@ -596,10 +596,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 584 | s3causewaypace | Reed | complete | At the causeway, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 585 | s3headerpass | Gale | complete | In the header, you clear the pass before the storm clock. Missing the end fails the leg. |
 | 586 | s3choirtape | Nock | complete | Choir: the drawer has to match the tape. That is the whole cartridge. |
-| 587 | s3causewaymaga | Reed | queued | You have the causeway. The job is to make the magazine last longer than the raid. Anything else is a loss. |
-| 588 | s3headerslip | Gale | queued | Take the header and berth in the slip before the tide turns. The clock is the other crew. |
-| 589 | s3shelvemark | Nock | queued | Play shelve until a finished mark ends it. Leave when that is true. |
-| 590 | s3causewaydawn | Reed | queued | One causeway. Keep the flares lit until dawn. Then it is done. |
+| 587 | s3causewaymaga | Reed | complete | You have the causeway. The job is to make the magazine last longer than the raid. Anything else is a loss. |
+| 588 | s3headerslip | Gale | complete | Take the header and berth in the slip before the tide turns. The clock is the other crew. |
+| 589 | s3shelvemark | Nock | complete | Play shelve until a finished mark ends it. Leave when that is true. |
+| 590 | s3causewaydawn | Reed | complete | One causeway. Keep the flares lit until dawn. Then it is done. |
 | 591 | s3headerboom | Gale | queued | The header has one job: deliver the drive to the boom. |
 | 592 | s3shelvegold | Nock | queued | Shelve: only the gold counts double. That is the whole cartridge. |
 | 593 | s3causewaydoor | Reed | queued | At the causeway, you hold the door for three minutes. Miss that and the watch is over. |
