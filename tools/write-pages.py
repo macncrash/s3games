@@ -590,6 +590,10 @@ DESIGN = {
     "s3headerlock": "Pass the lock without scraping a gate, and reach the end of the leg. A scrape spends the run.",
     "s3choirseven": "First to seven, then leave. Six is still short.",
     "s3causewaypurs": "Be the last machine still running. A stall of your own ends the watch.",
+    "s3headergrass": "Land on the grass and come to a full stop ahead of the other crew. Sliding off the grass fails the leg.",
+    "s3choirbell": "The bell has to ring before the third try dies. A late ring is still short.",
+    "s3causewaywell": "The well has to stand through three waves. A well that falls on the third wave is a loss.",
+    "s3headerkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
 }
 
 
