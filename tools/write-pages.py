@@ -674,6 +674,10 @@ DESIGN = {
     "s3rickshawslip": "Berth in the slip before the tide turns. Late is a failed leg.",
     "s3fishmark": "Cover the mark. An open mark is still short.",
     "s3cisterndawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3rickshawboom": "Deliver the drive to the boom ahead of the other crew. Short of the boom fails the leg.",
+    "s3fishgold": "Only the gold counts double. Cream fish do not buy the line.",
+    "s3cisterndoor": "Hold the door for three minutes. Breaking the seal early is a loss.",
+    "s3rickshawplat": "Stop level with the platform. Short or past the platform fails the job.",
 }
 
 
