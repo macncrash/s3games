@@ -586,6 +586,10 @@ DESIGN = {
     "s3causewaycolu": "Stop the column on the road. A truck that still gets through is a loss.",
     "s3headerbox": "Stop inside the box. Stopping short of the box fails the job.",
     "s3choirgold": "Only the gold counts double. Cream voices do not buy the line.",
+    "s3causewaybann": "Bring the banner back to the causeway. Reaching the banner and leaving it there is not done.",
+    "s3headerlock": "Pass the lock without scraping a gate, and reach the end of the leg. A scrape spends the run.",
+    "s3choirseven": "First to seven, then leave. Six is still short.",
+    "s3causewaypurs": "Be the last machine still running. A stall of your own ends the watch.",
 }
 
 
