@@ -564,10 +564,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 552 | s3mailvanslip | Gale | complete | In the mailvan, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 553 | s3strikermark | Nock | complete | Striker: a finished mark ends it. That is the whole cartridge. |
 | 554 | s3orcharddawn | Reed | complete | You have the orchard. The job is to keep the flares lit until dawn. Anything else is a loss. |
-| 555 | s3mailvanboom | Gale | queued | Take the mailvan and deliver the drive to the boom. The clock is the other crew. |
-| 556 | s3strikergold | Nock | queued | A short striker. You are done when only the gold counts double. |
-| 557 | s3orcharddoor | Reed | queued | One orchard. Hold the door for three minutes. Then it is done. |
-| 558 | s3mailvanplat | Gale | queued | The mailvan has one job: stop level with the platform. |
+| 555 | s3mailvanboom | Gale | complete | Take the mailvan and deliver the drive to the boom. The clock is the other crew. |
+| 556 | s3strikergold | Nock | complete | A short striker. You are done when only the gold counts double. |
+| 557 | s3orcharddoor | Reed | complete | One orchard. Hold the door for three minutes. Then it is done. |
+| 558 | s3mailvanplat | Gale | complete | The mailvan has one job: stop level with the platform. |
 | 559 | s3strikerseven | Nock | queued | Play striker until first to seven. Leave when that is true. |
 | 560 | s3orchardpouc | Reed | queued | At the orchard, you carry the pouch across. Miss that and the watch is over. |
 | 561 | s3mailvanlane | Gale | queued | In the mailvan, you stay in the lane for the whole leg. Missing the end fails the leg. |
