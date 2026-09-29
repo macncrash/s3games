@@ -754,6 +754,10 @@ DESIGN = {
     "s3palisadepouc": "Carry the pouch across the palisade. Stopping in the middle is not across.",
     "s3sublane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3loombell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3palisadeladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3submark": "Set the sub on the mark. Close and still off the mark fails the leg.",
+    "s3loomchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3palisadecler": "Clear the ground before the clock dies. Anything left is a loss.",
 }
 
 
