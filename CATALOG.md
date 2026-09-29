@@ -748,10 +748,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 736 | s3loomgold | Nock | complete | Play loom until only the gold counts double. Leave when that is true. |
 | 737 | s3palisadedoor | Reed | complete | You have the palisade. The job is to hold the door for three minutes. Anything else is a loss. |
 | 738 | s3subplat | Gale | complete | Take the sub and stop level with the platform. The clock is the other crew. |
-| 739 | s3loomseven | Nock | queued | Loom: first to seven. That is the whole cartridge. |
-| 740 | s3palisadepouc | Reed | queued | One palisade. Carry the pouch across. Then it is done. |
-| 741 | s3sublane | Gale | queued | The sub has one job: stay in the lane for the whole leg. |
-| 742 | s3loombell | Nock | queued | A short loom. You are done when the bell rings before the third try dies. |
+| 739 | s3loomseven | Nock | complete | Loom: first to seven. That is the whole cartridge. |
+| 740 | s3palisadepouc | Reed | complete | One palisade. Carry the pouch across. Then it is done. |
+| 741 | s3sublane | Gale | complete | The sub has one job: stay in the lane for the whole leg. |
+| 742 | s3loombell | Nock | complete | A short loom. You are done when the bell rings before the third try dies. |
 | 743 | s3palisadeladd | Reed | queued | At the palisade, you reach the far ladder. Miss that and the watch is over. |
 | 744 | s3submark | Gale | queued | In the sub, you set down on the mark. Missing the end fails the leg. |
 | 745 | s3loomchime | Nock | queued | Play loom until the hour has to chime. Leave when that is true. |
