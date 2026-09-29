@@ -682,6 +682,10 @@ DESIGN = {
     "s3cisternpouc": "Carry the pouch across the cistern. Stopping in the middle is not across.",
     "s3rickshawlane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3fishbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3cisternladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3rickshawmark": "Set down on the mark ahead of the other crew. Close and still off the mark fails the leg.",
+    "s3fishchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3cisterncler": "Clear the ground before the clock dies. Anything left is a loss.",
 }
 
 
