@@ -634,6 +634,10 @@ DESIGN = {
     "s3viaductpace": "Wait for the third pace, then fire. An earlier shot is a loss.",
     "s3cliffpass": "Clear the pass ahead of the other crew. A late crest fails the leg.",
     "s3solitairetape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3viaductmaga": "The magazine has to outlast the raid. Burning the rounds and dying with the raid still up is a loss.",
+    "s3cliffslip": "Berth in the slip before the tide turns. A late berth fails the job.",
+    "s3clockmark": "Lift the gold hour. A mark left on the clock is still open.",
+    "s3viaductdawn": "Keep the flares lit until dawn. A dark viaduct ends the watch.",
 }
 
 
