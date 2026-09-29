@@ -602,6 +602,10 @@ DESIGN = {
     "s3headerslip": "Berth in the slip before the other crew. A late berth fails the leg.",
     "s3shelvemark": "Finish the mark on the shelf. A row left open is still the job.",
     "s3causewaydawn": "Keep the flares lit until dawn. A dark causeway ends the watch.",
+    "s3headerboom": "The drive has to sit on the boom. Reaching the boom without setting it down fails the job.",
+    "s3shelvegold": "Only the gold counts double. Cream books do not buy the line.",
+    "s3causewaydoor": "Hold the door for three minutes. A breach before the clock is a loss.",
+    "s3headerplat": "Stop level with the platform. Close and still short fails the leg.",
 }
 
 
