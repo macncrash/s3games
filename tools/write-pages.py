@@ -574,6 +574,10 @@ DESIGN = {
     "s3orchardpouc": "The pouch has to cross the orchard. Stopping in the middle is not across.",
     "s3mailvanlane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3strikerbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3orchardladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3mailvanmark": "Set down on the mark before the other crew. Close to the mark is still a missed leg.",
+    "s3strikerchime": "The hour has to chime at 12:00:00. A near miss is still short.",
+    "s3orchardcler": "Clear the ground before the clock dies. A clean orchard after the clock is already over.",
 }
 
 
