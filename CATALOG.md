@@ -652,10 +652,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 640 | s3clocktape | Nock | complete | Clock: the drawer has to match the tape. That is the whole cartridge. |
 | 641 | s3cisternreli | Reed | complete | At the cistern, you hold until the relief bell. Miss that and the watch is over. |
 | 642 | s3rickshawbuoy | Gale | complete | In the rickshaw, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 643 | s3drawermark | Nock | queued | Play drawer until a finished mark ends it. Leave when that is true. |
-| 644 | s3cisterncolu | Reed | queued | You have the cistern. The job is to stop the column on the road. Anything else is a loss. |
-| 645 | s3rickshawbox | Gale | queued | Take the rickshaw and stop inside the box. The clock is the other crew. |
-| 646 | s3drawergold | Nock | queued | Drawer: only the gold counts double. That is the whole cartridge. |
+| 643 | s3drawermark | Nock | complete | Play drawer until a finished mark ends it. Leave when that is true. |
+| 644 | s3cisterncolu | Reed | complete | You have the cistern. The job is to stop the column on the road. Anything else is a loss. |
+| 645 | s3rickshawbox | Gale | complete | Take the rickshaw and stop inside the box. The clock is the other crew. |
+| 646 | s3drawergold | Nock | complete | Drawer: only the gold counts double. That is the whole cartridge. |
 | 647 | s3cisternbann | Reed | queued | One cistern. Bring the banner back. Then it is done. |
 | 648 | s3rickshawlock | Gale | queued | The rickshaw has one job: pass the lock without scraping a gate. |
 | 649 | s3drawerseven | Nock | queued | A short drawer. You are done when first to seven. |
