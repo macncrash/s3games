@@ -606,6 +606,10 @@ DESIGN = {
     "s3shelvegold": "Only the gold counts double. Cream books do not buy the line.",
     "s3causewaydoor": "Hold the door for three minutes. A breach before the clock is a loss.",
     "s3headerplat": "Stop level with the platform. Close and still short fails the leg.",
+    "s3shelveseven": "First to seven, then leave. Six is still short.",
+    "s3causewaypouc": "The pouch has to cross the causeway. Stopping in the middle is not across.",
+    "s3headerlane": "Take the header, hold the lane, and finish under the other crew. One departure fails the leg.",
+    "s3shelvebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
