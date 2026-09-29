@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VIADUCT MAGA</title>
+<style>
+  :root { --bg: #12100e; --line: #3a322c; --ink: #f3ece4; --dim: #b3a79c; --sun: #e2b34a; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); font: 14px/1.5 ui-monospace, Menlo, monospace; }
+  body { display: flex; flex-direction: column; align-items: center; gap: 14px; padding: 16px; }
+  .screen { position: relative; width: min(100%, calc((100vh - 120px) * 4 / 3), 1280px); aspect-ratio: 4 / 3; background: #000;
+    border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  canvas { display: block; width: 100% !important; height: 100% !important; outline: none; image-rendering: pixelated; }
+  .overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
+    background: rgba(0,0,0,.78); cursor: pointer; text-align: center; }
+  .overlay b { font-size: 22px; letter-spacing: 4px; color: var(--sun); }
+  .overlay span { color: var(--dim); }
+  .keys { color: var(--dim); text-align: center; max-width: 960px; }
+  kbd { background: #2d2e35; border: 1px solid #40414a; border-bottom-width: 2px; border-radius: 4px; padding: 0 5px; color: var(--ink); }
+</style>
+</head>
+<body>
+  <div class="screen">
+    <canvas id="canvas" tabindex="-1" oncontextmenu="event.preventDefault()"></canvas>
+    <div class="overlay" id="overlay">
+      <b id="status">LOADING…</b>
+      <span id="hint">downloading the cartridge</span>
+    </div>
+  </div>
+  <div class="keys">Aim with <kbd>←</kbd> <kbd>→</kbd>. Fire with <kbd>A</kbd>. Red rifles breach the deck. Grey coats peel off. Do not empty the magazine before the raid is over.</div>
+  <script>
+    var statusEl = document.getElementById('status');
+    var hintEl = document.getElementById('hint');
+    var canvas = document.getElementById('canvas');
+    var overlay = document.getElementById('overlay');
+    function start() {
+      overlay.style.display = 'none';
+      canvas.focus();
+      if (window.Module && Module.S3 && Module.S3.play) Module.S3.play();
+    }
+    overlay.addEventListener('click', start);
+    var Module = {
+      canvas: canvas,
+      onReady: function () {
+        statusEl.textContent = 'VIADUCT MAGA';
+        hintEl.textContent = 'click to take the watch';
+      }
+    };
+  </script>
+  {{{ SCRIPT }}}
+</body>
+</html>
