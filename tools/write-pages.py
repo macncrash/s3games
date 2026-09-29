@@ -726,6 +726,10 @@ DESIGN = {
     "s3bedstape": "The drawer has to match the tape. A near match is still a miss.",
     "s3palisadereli": "Hold until the relief bell. Leaving early ends the watch.",
     "s3subbuoy": "Round the buoys and return to the same dock. Missing the dock fails the job.",
+    "s3anvilmark": "A finished mark ends it. An open stamp is still short.",
+    "s3palisadecolu": "Stop the column on the road. A column still rolling is a loss.",
+    "s3subbox": "Stop inside the box. Outside the box fails the leg.",
+    "s3anvilgold": "Only the gold counts double. Cream heats do not buy the line.",
 }
 
 
