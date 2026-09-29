@@ -530,6 +530,10 @@ DESIGN = {
     "s3craneslip": "Berth in the slip before the tide turns. A late berth fails the job.",
     "s3memorymark": "Recall the order and lift it. A mark left open is still the job.",
     "s3quarrydawn": "Keep the flares lit until dawn. A dark quarry ends the watch.",
+    "s3craneboom": "Set the drive on the end of the boom. Reaching the boom without setting it down fails the leg.",
+    "s3memorygold": "Only the gold counts double. Bare cards do not buy the line.",
+    "s3quarrydoor": "Hold the door for three minutes. A breach before the clock is a loss.",
+    "s3craneplat": "Stop level with the platform, ahead of the other crew. Close and still short fails the leg.",
 }
 
 
