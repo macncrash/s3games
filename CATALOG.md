@@ -552,10 +552,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 540 | s3mailvanlock | Gale | complete | The mailvan has one job: pass the lock without scraping a gate. |
 | 541 | s3boardseven | Nock | complete | A short board. You are done when first to seven. |
 | 542 | s3orchardpurs | Reed | complete | At the orchard, you be the last machine still running. Miss that and the watch is over. |
-| 543 | s3mailvangrass | Gale | queued | In the mailvan, you land on the grass and come to a full stop. Missing the end fails the leg. |
-| 544 | s3boardbell | Nock | queued | Play board until the bell rings before the third try dies. Leave when that is true. |
-| 545 | s3orchardwell | Reed | queued | You have the orchard. The job is to keep the well standing through three waves. Anything else is a loss. |
-| 546 | s3mailvankilo | Gale | queued | Take the mailvan and finish the kilometer without touching wheels. The clock is the other crew. |
+| 543 | s3mailvangrass | Gale | complete | In the mailvan, you land on the grass and come to a full stop. Missing the end fails the leg. |
+| 544 | s3boardbell | Nock | complete | Play board until the bell rings before the third try dies. Leave when that is true. |
+| 545 | s3orchardwell | Reed | complete | You have the orchard. The job is to keep the well standing through three waves. Anything else is a loss. |
+| 546 | s3mailvankilo | Gale | complete | Take the mailvan and finish the kilometer without touching wheels. The clock is the other crew. |
 | 547 | s3boardchime | Nock | queued | Board: the hour has to chime. That is the whole cartridge. |
 | 548 | s3orchardpace | Reed | queued | One orchard. Wait until the third pace before you fire. Then it is done. |
 | 549 | s3mailvanpass | Gale | queued | The mailvan has one job: clear the pass before the storm clock. |
