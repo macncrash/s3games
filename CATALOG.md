@@ -640,10 +640,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 628 | s3clockgold | Nock | complete | Play clock until only the gold counts double. Leave when that is true. |
 | 629 | s3viaductdoor | Reed | complete | You have the viaduct. The job is to hold the door for three minutes. Anything else is a loss. |
 | 630 | s3cliffplat | Gale | complete | Take the cliff and stop level with the platform. The clock is the other crew. |
-| 631 | s3clockseven | Nock | queued | Clock: first to seven. That is the whole cartridge. |
-| 632 | s3viaductpouc | Reed | queued | One viaduct. Carry the pouch across. Then it is done. |
-| 633 | s3clifflane | Gale | queued | The cliff has one job: stay in the lane for the whole leg. |
-| 634 | s3clockbell | Nock | queued | A short clock. You are done when the bell rings before the third try dies. |
+| 631 | s3clockseven | Nock | complete | Clock: first to seven. That is the whole cartridge. |
+| 632 | s3viaductpouc | Reed | complete | One viaduct. Carry the pouch across. Then it is done. |
+| 633 | s3clifflane | Gale | complete | The cliff has one job: stay in the lane for the whole leg. |
+| 634 | s3clockbell | Nock | complete | A short clock. You are done when the bell rings before the third try dies. |
 | 635 | s3viaductladd | Reed | queued | At the viaduct, you reach the far ladder. Miss that and the watch is over. |
 | 636 | s3cliffmark | Gale | queued | In the cliff, you set down on the mark. Missing the end fails the leg. |
 | 637 | s3clockchime | Nock | queued | Play clock until the hour has to chime. Leave when that is true. |
