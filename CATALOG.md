@@ -688,10 +688,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 676 | s3fishtape | Nock | complete | Play fish until the drawer has to match the tape. Leave when that is true. |
 | 677 | s3redoubtreli | Reed | complete | You have the redoubt. The job is to hold until the relief bell. Anything else is a loss. |
 | 678 | s3mushbuoy | Gale | complete | Take the mush and round the buoys and return to the same dock. The clock is the other crew. |
-| 679 | s3chefmark | Nock | queued | A short chef. You are done when a finished mark ends it. |
-| 680 | s3redoubtcolu | Reed | queued | One redoubt. Stop the column on the road. Then it is done. |
-| 681 | s3mushbox | Gale | queued | The mush has one job: stop inside the box. |
-| 682 | s3chefgold | Nock | queued | Play chef until only the gold counts double. Leave when that is true. |
+| 679 | s3chefmark | Nock | complete | A short chef. You are done when a finished mark ends it. |
+| 680 | s3redoubtcolu | Reed | complete | One redoubt. Stop the column on the road. Then it is done. |
+| 681 | s3mushbox | Gale | complete | The mush has one job: stop inside the box. |
+| 682 | s3chefgold | Nock | complete | Play chef until only the gold counts double. Leave when that is true. |
 | 683 | s3redoubtbann | Reed | queued | At the redoubt, you bring the banner back. Miss that and the watch is over. |
 | 684 | s3mushlock | Gale | queued | In the mush, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 685 | s3chefseven | Nock | queued | Chef: first to seven. That is the whole cartridge. |
