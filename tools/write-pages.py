@@ -694,6 +694,10 @@ DESIGN = {
     "s3redoubtcolu": "Stop the column on the road. A column still rolling is a loss.",
     "s3mushbox": "Stop inside the box. Outside the box fails the job.",
     "s3chefgold": "Only the gold counts double. Cream plates do not buy the line.",
+    "s3redoubtbann": "Bring the banner back to the redoubt. Stopping short of home is not done.",
+    "s3mushlock": "Pass the lock without scraping a gate. One scrape fails the leg.",
+    "s3chefseven": "First to seven, then leave. Six is still short.",
+    "s3redoubtpurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
