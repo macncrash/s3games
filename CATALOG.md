@@ -560,10 +560,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 548 | s3orchardpace | Reed | complete | One orchard. Wait until the third pace before you fire. Then it is done. |
 | 549 | s3mailvanpass | Gale | complete | The mailvan has one job: clear the pass before the storm clock. |
 | 550 | s3boardtape | Nock | complete | A short board. You are done when the drawer has to match the tape. |
-| 551 | s3orchardmaga | Reed | queued | At the orchard, you make the magazine last longer than the raid. Miss that and the watch is over. |
-| 552 | s3mailvanslip | Gale | queued | In the mailvan, you berth in the slip before the tide turns. Missing the end fails the leg. |
-| 553 | s3strikermark | Nock | queued | Striker: a finished mark ends it. That is the whole cartridge. |
-| 554 | s3orcharddawn | Reed | queued | You have the orchard. The job is to keep the flares lit until dawn. Anything else is a loss. |
+| 551 | s3orchardmaga | Reed | complete | At the orchard, you make the magazine last longer than the raid. Miss that and the watch is over. |
+| 552 | s3mailvanslip | Gale | complete | In the mailvan, you berth in the slip before the tide turns. Missing the end fails the leg. |
+| 553 | s3strikermark | Nock | complete | Striker: a finished mark ends it. That is the whole cartridge. |
+| 554 | s3orcharddawn | Reed | complete | You have the orchard. The job is to keep the flares lit until dawn. Anything else is a loss. |
 | 555 | s3mailvanboom | Gale | queued | Take the mailvan and deliver the drive to the boom. The clock is the other crew. |
 | 556 | s3strikergold | Nock | queued | A short striker. You are done when only the gold counts double. |
 | 557 | s3orcharddoor | Reed | queued | One orchard. Hold the door for three minutes. Then it is done. |
