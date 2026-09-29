@@ -732,10 +732,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 720 | s3sublock | Gale | complete | Take the sub and pass the lock without scraping a gate. The clock is the other crew. |
 | 721 | s3anvilseven | Nock | complete | Play anvil until first to seven. Leave when that is true. |
 | 722 | s3palisadepurs | Reed | complete | One palisade. Be the last machine still running. Then it is done. |
-| 723 | s3subgrass | Gale | queued | The sub has one job: land on the grass and come to a full stop. |
-| 724 | s3anvilbell | Nock | queued | Anvil: the bell rings before the third try dies. That is the whole cartridge. |
-| 725 | s3palisadewell | Reed | queued | At the palisade, you keep the well standing through three waves. Miss that and the watch is over. |
-| 726 | s3subkilo | Gale | queued | In the sub, you finish the kilometer without touching wheels. Missing the end fails the leg. |
+| 723 | s3subgrass | Gale | complete | The sub has one job: land on the grass and come to a full stop. |
+| 724 | s3anvilbell | Nock | complete | Anvil: the bell rings before the third try dies. That is the whole cartridge. |
+| 725 | s3palisadewell | Reed | complete | At the palisade, you keep the well standing through three waves. Miss that and the watch is over. |
+| 726 | s3subkilo | Gale | complete | In the sub, you finish the kilometer without touching wheels. Missing the end fails the leg. |
 | 727 | s3anvilchime | Nock | queued | A short anvil. You are done when the hour has to chime. |
 | 728 | s3palisadepace | Reed | queued | You have the palisade. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 729 | s3subpass | Gale | queued | Take the sub and clear the pass before the storm clock. The clock is the other crew. |
