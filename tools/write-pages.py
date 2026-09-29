@@ -538,6 +538,10 @@ DESIGN = {
     "s3quarrypouc": "The pouch has to cross the quarry. Stopping in the middle is not across.",
     "s3cranelane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3memorybell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3quarryladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3cranemark": "Set the load down on the mark. Close to the mark is still a missed leg.",
+    "s3memorychime": "The hour has to chime. Pairs that miss the hour do not end it.",
+    "s3quarrycler": "Clear the ground before the clock dies. A clean quarry after the clock is already over.",
 }
 
 
