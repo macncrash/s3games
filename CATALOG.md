@@ -680,10 +680,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 668 | s3cisternpouc | Reed | complete | At the cistern, you carry the pouch across. Miss that and the watch is over. |
 | 669 | s3rickshawlane | Gale | complete | In the rickshaw, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 670 | s3fishbell | Nock | complete | Fish: the bell rings before the third try dies. That is the whole cartridge. |
-| 671 | s3cisternladd | Reed | queued | You have the cistern. The job is to reach the far ladder. Anything else is a loss. |
-| 672 | s3rickshawmark | Gale | queued | Take the rickshaw and set down on the mark. The clock is the other crew. |
-| 673 | s3fishchime | Nock | queued | A short fish. You are done when the hour has to chime. |
-| 674 | s3cisterncler | Reed | queued | One cistern. Clear the ground before the clock dies. Then it is done. |
+| 671 | s3cisternladd | Reed | complete | You have the cistern. The job is to reach the far ladder. Anything else is a loss. |
+| 672 | s3rickshawmark | Gale | complete | Take the rickshaw and set down on the mark. The clock is the other crew. |
+| 673 | s3fishchime | Nock | complete | A short fish. You are done when the hour has to chime. |
+| 674 | s3cisterncler | Reed | complete | One cistern. Clear the ground before the clock dies. Then it is done. |
 | 675 | s3rickshawturn | Gale | queued | The rickshaw has one job: make the three turns without tipping. |
 | 676 | s3fishtape | Nock | queued | Play fish until the drawer has to match the tape. Leave when that is true. |
 | 677 | s3redoubtreli | Reed | queued | You have the redoubt. The job is to hold until the relief bell. Anything else is a loss. |
