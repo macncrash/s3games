@@ -716,10 +716,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 704 | s3redoubtpouc | Reed | complete | You have the redoubt. The job is to carry the pouch across. Anything else is a loss. |
 | 705 | s3mushlane | Gale | complete | Take the mush and stay in the lane for the whole leg. The clock is the other crew. |
 | 706 | s3bedsbell | Nock | complete | Play beds until the bell rings before the third try dies. Leave when that is true. |
-| 707 | s3redoubtladd | Reed | queued | One redoubt. Reach the far ladder. Then it is done. |
-| 708 | s3mushmark | Gale | queued | The mush has one job: set down on the mark. |
-| 709 | s3bedschime | Nock | queued | Beds: the hour has to chime. That is the whole cartridge. |
-| 710 | s3redoubtcler | Reed | queued | At the redoubt, you clear the ground before the clock dies. Miss that and the watch is over. |
+| 707 | s3redoubtladd | Reed | complete | One redoubt. Reach the far ladder. Then it is done. |
+| 708 | s3mushmark | Gale | complete | The mush has one job: set down on the mark. |
+| 709 | s3bedschime | Nock | complete | Beds: the hour has to chime. That is the whole cartridge. |
+| 710 | s3redoubtcler | Reed | complete | At the redoubt, you clear the ground before the clock dies. Miss that and the watch is over. |
 | 711 | s3mushturn | Gale | queued | In the mush, you make the three turns without tipping. Missing the end fails the leg. |
 | 712 | s3bedstape | Nock | queued | A short beds. You are done when the drawer has to match the tape. |
 | 713 | s3palisadereli | Reed | queued | One palisade. Hold until the relief bell. Then it is done. |
