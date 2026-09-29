@@ -706,6 +706,10 @@ DESIGN = {
     "s3redoubtpace": "Fire on the third pace. An early shot is not done.",
     "s3mushpass": "Clear the pass before the storm clock. Late is a loss.",
     "s3cheftape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3redoubtmaga": "The magazine has to outlast the raid. Empty before the last stop ends the watch.",
+    "s3mushslip": "Berth in the slip before the tide turns. Late is a failed leg.",
+    "s3bedsmark": "A finished mark ends it. An unlifted bed is still short.",
+    "s3redoubtdawn": "Keep the flares lit until dawn. A dark flare is a loss.",
 }
 
 
