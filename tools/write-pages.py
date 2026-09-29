@@ -722,6 +722,10 @@ DESIGN = {
     "s3mushmark": "Set down on the mark. Close and still rolling fails the job.",
     "s3bedschime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3redoubtcler": "Clear the ground before the clock dies. Anything left is a loss.",
+    "s3mushturn": "Three turns without tipping. One tip ends the leg.",
+    "s3bedstape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3palisadereli": "Hold until the relief bell. Leaving early ends the watch.",
+    "s3subbuoy": "Round the buoys and return to the same dock. Missing the dock fails the job.",
 }
 
 
