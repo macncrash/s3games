@@ -646,6 +646,10 @@ DESIGN = {
     "s3viaductpouc": "The pouch has to cross the viaduct. Stopping in the middle is not across.",
     "s3clifflane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3clockbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3viaductladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3cliffmark": "Set the cart on the mark. Close and still off the mark fails the leg.",
+    "s3clockchime": "The hour has to chime at 12:00:00. Leaving before the chime is a loss.",
+    "s3viaductcler": "Clear the ground before the clock dies. Anything left on the span is a loss.",
 }
 
 
