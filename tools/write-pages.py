@@ -758,6 +758,10 @@ DESIGN = {
     "s3submark": "Set the sub on the mark. Close and still off the mark fails the leg.",
     "s3loomchime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3palisadecler": "Clear the ground before the clock dies. Anything left is a loss.",
+    "s3subturn": "Three turns upright before the other crew. One tip ends the leg.",
+    "s3loomtape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3trenchreli": "Hold until the relief bell. Leaving early ends the watch.",
+    "s3bikebuoy": "Round the buoys and return to the same dock. Missing the dock fails the leg.",
 }
 
 
