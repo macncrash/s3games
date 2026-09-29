@@ -750,6 +750,10 @@ DESIGN = {
     "s3loomgold": "Only the gold counts double. Cream picks do not buy the line.",
     "s3palisadedoor": "Hold the door for three minutes. Breaking early ends the watch.",
     "s3subplat": "Stop level with the platform ahead of the other crew. Short or past fails the leg.",
+    "s3loomseven": "First to seven, then leave. Six is still short.",
+    "s3palisadepouc": "Carry the pouch across the palisade. Stopping in the middle is not across.",
+    "s3sublane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3loombell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
