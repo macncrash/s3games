@@ -710,6 +710,10 @@ DESIGN = {
     "s3mushslip": "Berth in the slip before the tide turns. Late is a failed leg.",
     "s3bedsmark": "A finished mark ends it. An unlifted bed is still short.",
     "s3redoubtdawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3mushboom": "Deliver the drive to the boom. Short of the boom fails the job.",
+    "s3bedsgold": "Only the gold counts double. Cream beds do not buy the line.",
+    "s3redoubtdoor": "Hold the door for three minutes. Breaking early ends the watch.",
+    "s3mushplat": "Stop level with the platform. Short or past the platform fails the leg.",
 }
 
 
