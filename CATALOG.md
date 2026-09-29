@@ -616,10 +616,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 604 | s3shelvetape | Nock | complete | A short shelve. You are done when the drawer has to match the tape. |
 | 605 | s3viaductreli | Reed | complete | One viaduct. Hold until the relief bell. Then it is done. |
 | 606 | s3cliffbuoy | Gale | complete | The cliff has one job: round the buoys and return to the same dock. |
-| 607 | s3solitairemark | Nock | queued | Solitaire: a finished mark ends it. That is the whole cartridge. |
-| 608 | s3viaductcolu | Reed | queued | At the viaduct, you stop the column on the road. Miss that and the watch is over. |
-| 609 | s3cliffbox | Gale | queued | In the cliff, you stop inside the box. Missing the end fails the leg. |
-| 610 | s3solitairegold | Nock | queued | A short solitaire. You are done when only the gold counts double. |
+| 607 | s3solitairemark | Nock | complete | Solitaire: a finished mark ends it. That is the whole cartridge. |
+| 608 | s3viaductcolu | Reed | complete | At the viaduct, you stop the column on the road. Miss that and the watch is over. |
+| 609 | s3cliffbox | Gale | complete | In the cliff, you stop inside the box. Missing the end fails the leg. |
+| 610 | s3solitairegold | Nock | complete | A short solitaire. You are done when only the gold counts double. |
 | 611 | s3viaductbann | Reed | queued | You have the viaduct. The job is to bring the banner back. Anything else is a loss. |
 | 612 | s3clifflock | Gale | queued | Take the cliff and pass the lock without scraping a gate. The clock is the other crew. |
 | 613 | s3solitaireseven | Nock | queued | Play solitaire until first to seven. Leave when that is true. |
