@@ -554,6 +554,10 @@ DESIGN = {
     "s3mailvanlock": "Pass the lock without scraping a gate. A scrape spends the run even if you clear the lock.",
     "s3boardseven": "First to seven, then leave. Six is still short.",
     "s3orchardpurs": "Be the last machine still running. A stall of your own ends the watch.",
+    "s3mailvangrass": "Land on the grass and come to a full stop. Sliding off the grass fails the leg.",
+    "s3boardbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3orchardwell": "The well has to stand through three waves. A well that falls on the third wave is a loss.",
+    "s3mailvankilo": "Finish the kilometer without touching a wheel, ahead of the other crew. A scrape spends the run.",
 }
 
 
