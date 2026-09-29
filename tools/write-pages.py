@@ -622,6 +622,10 @@ DESIGN = {
     "s3viaductcolu": "Stop the column on the road. A truck that still gets through is a loss.",
     "s3cliffbox": "Stop inside the box. Stopping short of the box fails the leg.",
     "s3solitairegold": "Only the gold counts double. Cream cards do not buy the line.",
+    "s3viaductbann": "Bring the banner back to the viaduct. Reaching the banner and leaving it there is not done.",
+    "s3clifflock": "Pass the lock without scraping a gate. A scrape spends the run even if you clear the lock.",
+    "s3solitaireseven": "First to seven, then leave. Six is still short.",
+    "s3viaductpurs": "Be the last machine still running. A stall of your own ends the watch.",
 }
 
 
