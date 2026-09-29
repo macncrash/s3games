@@ -666,6 +666,10 @@ DESIGN = {
     "s3drawerbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
     "s3cisternwell": "Keep the well standing through three waves. A fallen well is a loss.",
     "s3rickshawkilo": "Finish the kilometer without touching wheels. One touch fails the leg.",
+    "s3drawerchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3cisternpace": "Fire on the third pace. An early shot is not done.",
+    "s3rickshawpass": "Clear the pass before the storm clock. Late is a loss.",
+    "s3drawertape": "The drawer has to match the tape. A near match is still a miss.",
 }
 
 
