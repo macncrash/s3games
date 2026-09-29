@@ -730,6 +730,10 @@ DESIGN = {
     "s3palisadecolu": "Stop the column on the road. A column still rolling is a loss.",
     "s3subbox": "Stop inside the box. Outside the box fails the leg.",
     "s3anvilgold": "Only the gold counts double. Cream heats do not buy the line.",
+    "s3palisadebann": "Bring the banner back to the palisade. Stopping short of home is not done.",
+    "s3sublock": "Pass the lock without scraping a gate. One scrape fails the leg.",
+    "s3anvilseven": "First to seven, then leave. Six is still short.",
+    "s3palisadepurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
