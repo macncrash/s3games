@@ -760,10 +760,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 748 | s3loomtape | Nock | complete | Loom: the drawer has to match the tape. That is the whole cartridge. |
 | 749 | s3trenchreli | Reed | complete | At the trench, you hold until the relief bell. Miss that and the watch is over. |
 | 750 | s3bikebuoy | Gale | complete | In the bike, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 751 | s3kilnmark | Nock | queued | Play kiln until a finished mark ends it. Leave when that is true. |
-| 752 | s3trenchcolu | Reed | queued | You have the trench. The job is to stop the column on the road. Anything else is a loss. |
-| 753 | s3bikebox | Gale | queued | Take the bike and stop inside the box. The clock is the other crew. |
-| 754 | s3kilngold | Nock | queued | Kiln: only the gold counts double. That is the whole cartridge. |
+| 751 | s3kilnmark | Nock | complete | Play kiln until a finished mark ends it. Leave when that is true. |
+| 752 | s3trenchcolu | Reed | complete | You have the trench. The job is to stop the column on the road. Anything else is a loss. |
+| 753 | s3bikebox | Gale | complete | Take the bike and stop inside the box. The clock is the other crew. |
+| 754 | s3kilngold | Nock | complete | Kiln: only the gold counts double. That is the whole cartridge. |
 | 755 | s3trenchbann | Reed | queued | One trench. Bring the banner back. Then it is done. |
 | 756 | s3bikelock | Gale | queued | The bike has one job: pass the lock without scraping a gate. |
 | 757 | s3kilnseven | Nock | queued | A short kiln. You are done when first to seven. |
