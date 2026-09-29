@@ -764,10 +764,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 752 | s3trenchcolu | Reed | complete | You have the trench. The job is to stop the column on the road. Anything else is a loss. |
 | 753 | s3bikebox | Gale | complete | Take the bike and stop inside the box. The clock is the other crew. |
 | 754 | s3kilngold | Nock | complete | Kiln: only the gold counts double. That is the whole cartridge. |
-| 755 | s3trenchbann | Reed | queued | One trench. Bring the banner back. Then it is done. |
-| 756 | s3bikelock | Gale | queued | The bike has one job: pass the lock without scraping a gate. |
-| 757 | s3kilnseven | Nock | queued | A short kiln. You are done when first to seven. |
-| 758 | s3trenchpurs | Reed | queued | At the trench, you be the last machine still running. Miss that and the watch is over. |
+| 755 | s3trenchbann | Reed | complete | One trench. Bring the banner back. Then it is done. |
+| 756 | s3bikelock | Gale | complete | The bike has one job: pass the lock without scraping a gate. |
+| 757 | s3kilnseven | Nock | complete | A short kiln. You are done when first to seven. |
+| 758 | s3trenchpurs | Reed | complete | At the trench, you be the last machine still running. Miss that and the watch is over. |
 | 759 | s3bikegrass | Gale | queued | In the bike, you land on the grass and come to a full stop. Missing the end fails the leg. |
 | 760 | s3kilnbell | Nock | queued | Play kiln until the bell rings before the third try dies. Leave when that is true. |
 | 761 | s3trenchwell | Reed | queued | You have the trench. The job is to keep the well standing through three waves. Anything else is a loss. |
