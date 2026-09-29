@@ -572,10 +572,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 560 | s3orchardpouc | Reed | complete | At the orchard, you carry the pouch across. Miss that and the watch is over. |
 | 561 | s3mailvanlane | Gale | complete | In the mailvan, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 562 | s3strikerbell | Nock | complete | Striker: the bell rings before the third try dies. That is the whole cartridge. |
-| 563 | s3orchardladd | Reed | queued | You have the orchard. The job is to reach the far ladder. Anything else is a loss. |
-| 564 | s3mailvanmark | Gale | queued | Take the mailvan and set down on the mark. The clock is the other crew. |
-| 565 | s3strikerchime | Nock | queued | A short striker. You are done when the hour has to chime. |
-| 566 | s3orchardcler | Reed | queued | One orchard. Clear the ground before the clock dies. Then it is done. |
+| 563 | s3orchardladd | Reed | complete | You have the orchard. The job is to reach the far ladder. Anything else is a loss. |
+| 564 | s3mailvanmark | Gale | complete | Take the mailvan and set down on the mark. The clock is the other crew. |
+| 565 | s3strikerchime | Nock | complete | A short striker. You are done when the hour has to chime. |
+| 566 | s3orchardcler | Reed | complete | One orchard. Clear the ground before the clock dies. Then it is done. |
 | 567 | s3mailvanturn | Gale | queued | The mailvan has one job: make the three turns without tipping. |
 | 568 | s3strikertape | Nock | queued | Play striker until the drawer has to match the tape. Leave when that is true. |
 | 569 | s3causewayreli | Reed | queued | You have the causeway. The job is to hold until the relief bell. Anything else is a loss. |
