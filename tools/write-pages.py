@@ -610,6 +610,10 @@ DESIGN = {
     "s3causewaypouc": "The pouch has to cross the causeway. Stopping in the middle is not across.",
     "s3headerlane": "Take the header, hold the lane, and finish under the other crew. One departure fails the leg.",
     "s3shelvebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3causewayladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3headermark": "Set down on the mark. Close to the mark is still a missed job.",
+    "s3shelvechime": "The hour has to chime. A shelf that misses the hour is still open.",
+    "s3causewaycler": "Clear the ground before the clock dies. A clean causeway after the clock is already over.",
 }
 
 
