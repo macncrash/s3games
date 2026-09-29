@@ -566,6 +566,10 @@ DESIGN = {
     "s3mailvanslip": "Berth in the slip before the tide turns. A late berth fails the leg.",
     "s3strikermark": "The gold bell has to finish the mark. An open swing is still the job.",
     "s3orcharddawn": "Keep the flares lit until dawn. A dark orchard ends the watch.",
+    "s3mailvanboom": "Deliver the drive to the boom before the other crew. Reaching the boom without setting it down fails the leg.",
+    "s3strikergold": "Only the gold counts double. Bare swings do not buy the line.",
+    "s3orcharddoor": "Hold the door for three minutes. A breach before the clock is a loss.",
+    "s3mailvanplat": "Stop level with the platform. Close and still short fails the job.",
 }
 
 
