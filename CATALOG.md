@@ -620,10 +620,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 608 | s3viaductcolu | Reed | complete | At the viaduct, you stop the column on the road. Miss that and the watch is over. |
 | 609 | s3cliffbox | Gale | complete | In the cliff, you stop inside the box. Missing the end fails the leg. |
 | 610 | s3solitairegold | Nock | complete | A short solitaire. You are done when only the gold counts double. |
-| 611 | s3viaductbann | Reed | queued | You have the viaduct. The job is to bring the banner back. Anything else is a loss. |
-| 612 | s3clifflock | Gale | queued | Take the cliff and pass the lock without scraping a gate. The clock is the other crew. |
-| 613 | s3solitaireseven | Nock | queued | Play solitaire until first to seven. Leave when that is true. |
-| 614 | s3viaductpurs | Reed | queued | One viaduct. Be the last machine still running. Then it is done. |
+| 611 | s3viaductbann | Reed | complete | You have the viaduct. The job is to bring the banner back. Anything else is a loss. |
+| 612 | s3clifflock | Gale | complete | Take the cliff and pass the lock without scraping a gate. The clock is the other crew. |
+| 613 | s3solitaireseven | Nock | complete | Play solitaire until first to seven. Leave when that is true. |
+| 614 | s3viaductpurs | Reed | complete | One viaduct. Be the last machine still running. Then it is done. |
 | 615 | s3cliffgrass | Gale | queued | The cliff has one job: land on the grass and come to a full stop. |
 | 616 | s3solitairebell | Nock | queued | Solitaire: the bell rings before the third try dies. That is the whole cartridge. |
 | 617 | s3viaductwell | Reed | queued | At the viaduct, you keep the well standing through three waves. Miss that and the watch is over. |
