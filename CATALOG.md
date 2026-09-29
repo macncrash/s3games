@@ -676,10 +676,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 664 | s3fishgold | Nock | complete | A short fish. You are done when only the gold counts double. |
 | 665 | s3cisterndoor | Reed | complete | One cistern. Hold the door for three minutes. Then it is done. |
 | 666 | s3rickshawplat | Gale | complete | The rickshaw has one job: stop level with the platform. |
-| 667 | s3fishseven | Nock | queued | Play fish until first to seven. Leave when that is true. |
-| 668 | s3cisternpouc | Reed | queued | At the cistern, you carry the pouch across. Miss that and the watch is over. |
-| 669 | s3rickshawlane | Gale | queued | In the rickshaw, you stay in the lane for the whole leg. Missing the end fails the leg. |
-| 670 | s3fishbell | Nock | queued | Fish: the bell rings before the third try dies. That is the whole cartridge. |
+| 667 | s3fishseven | Nock | complete | Play fish until first to seven. Leave when that is true. |
+| 668 | s3cisternpouc | Reed | complete | At the cistern, you carry the pouch across. Miss that and the watch is over. |
+| 669 | s3rickshawlane | Gale | complete | In the rickshaw, you stay in the lane for the whole leg. Missing the end fails the leg. |
+| 670 | s3fishbell | Nock | complete | Fish: the bell rings before the third try dies. That is the whole cartridge. |
 | 671 | s3cisternladd | Reed | queued | You have the cistern. The job is to reach the far ladder. Anything else is a loss. |
 | 672 | s3rickshawmark | Gale | queued | Take the rickshaw and set down on the mark. The clock is the other crew. |
 | 673 | s3fishchime | Nock | queued | A short fish. You are done when the hour has to chime. |
