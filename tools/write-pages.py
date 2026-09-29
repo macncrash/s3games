@@ -570,6 +570,10 @@ DESIGN = {
     "s3strikergold": "Only the gold counts double. Bare swings do not buy the line.",
     "s3orcharddoor": "Hold the door for three minutes. A breach before the clock is a loss.",
     "s3mailvanplat": "Stop level with the platform. Close and still short fails the job.",
+    "s3strikerseven": "First to seven, then leave. Six is still short.",
+    "s3orchardpouc": "The pouch has to cross the orchard. Stopping in the middle is not across.",
+    "s3mailvanlane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3strikerbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
