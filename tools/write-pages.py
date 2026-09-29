@@ -562,6 +562,10 @@ DESIGN = {
     "s3orchardpace": "Wait for the third pace, then fire. An earlier shot is a loss.",
     "s3mailvanpass": "Clear the pass before the storm clock. A late crest fails the job.",
     "s3boardtape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3orchardmaga": "The magazine has to outlast the raid. Burning the rounds and dying with the raid still up is a loss.",
+    "s3mailvanslip": "Berth in the slip before the tide turns. A late berth fails the leg.",
+    "s3strikermark": "The gold bell has to finish the mark. An open swing is still the job.",
+    "s3orcharddawn": "Keep the flares lit until dawn. A dark orchard ends the watch.",
 }
 
 
