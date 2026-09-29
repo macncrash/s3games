@@ -658,6 +658,10 @@ DESIGN = {
     "s3cisterncolu": "Stop the column on the road. A column still rolling is a loss.",
     "s3rickshawbox": "Stop inside the box ahead of the other crew. Outside the box fails the leg.",
     "s3drawergold": "Only the gold counts double. Cream strikes do not buy the line.",
+    "s3cisternbann": "Bring the banner back to the cistern. Stopping short of home is not done.",
+    "s3rickshawlock": "Pass the lock without scraping a gate. One scrape fails the leg.",
+    "s3drawerseven": "First to seven, then leave. Six is still short.",
+    "s3cisternpurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
