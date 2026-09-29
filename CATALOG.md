@@ -704,10 +704,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 692 | s3redoubtpace | Reed | complete | At the redoubt, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 693 | s3mushpass | Gale | complete | In the mush, you clear the pass before the storm clock. Missing the end fails the leg. |
 | 694 | s3cheftape | Nock | complete | Chef: the drawer has to match the tape. That is the whole cartridge. |
-| 695 | s3redoubtmaga | Reed | queued | You have the redoubt. The job is to make the magazine last longer than the raid. Anything else is a loss. |
-| 696 | s3mushslip | Gale | queued | Take the mush and berth in the slip before the tide turns. The clock is the other crew. |
-| 697 | s3bedsmark | Nock | queued | Play beds until a finished mark ends it. Leave when that is true. |
-| 698 | s3redoubtdawn | Reed | queued | One redoubt. Keep the flares lit until dawn. Then it is done. |
+| 695 | s3redoubtmaga | Reed | complete | You have the redoubt. The job is to make the magazine last longer than the raid. Anything else is a loss. |
+| 696 | s3mushslip | Gale | complete | Take the mush and berth in the slip before the tide turns. The clock is the other crew. |
+| 697 | s3bedsmark | Nock | complete | Play beds until a finished mark ends it. Leave when that is true. |
+| 698 | s3redoubtdawn | Reed | complete | One redoubt. Keep the flares lit until dawn. Then it is done. |
 | 699 | s3mushboom | Gale | queued | The mush has one job: deliver the drive to the boom. |
 | 700 | s3bedsgold | Nock | queued | Beds: only the gold counts double. That is the whole cartridge. |
 | 701 | s3redoubtdoor | Reed | queued | At the redoubt, you hold the door for three minutes. Miss that and the watch is over. |
