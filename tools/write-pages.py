@@ -714,6 +714,10 @@ DESIGN = {
     "s3bedsgold": "Only the gold counts double. Cream beds do not buy the line.",
     "s3redoubtdoor": "Hold the door for three minutes. Breaking early ends the watch.",
     "s3mushplat": "Stop level with the platform. Short or past the platform fails the leg.",
+    "s3bedsseven": "First to seven, then leave. Six is still short.",
+    "s3redoubtpouc": "Carry the pouch across the redoubt. Stopping in the middle is not across.",
+    "s3mushlane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3bedsbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
