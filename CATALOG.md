@@ -648,10 +648,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 636 | s3cliffmark | Gale | complete | In the cliff, you set down on the mark. Missing the end fails the leg. |
 | 637 | s3clockchime | Nock | complete | Play clock until the hour has to chime. Leave when that is true. |
 | 638 | s3viaductcler | Reed | complete | You have the viaduct. The job is to clear the ground before the clock dies. Anything else is a loss. |
-| 639 | s3cliffturn | Gale | queued | Take the cliff and make the three turns without tipping. The clock is the other crew. |
-| 640 | s3clocktape | Nock | queued | Clock: the drawer has to match the tape. That is the whole cartridge. |
-| 641 | s3cisternreli | Reed | queued | At the cistern, you hold until the relief bell. Miss that and the watch is over. |
-| 642 | s3rickshawbuoy | Gale | queued | In the rickshaw, you round the buoys and return to the same dock. Missing the end fails the leg. |
+| 639 | s3cliffturn | Gale | complete | Take the cliff and make the three turns without tipping. The clock is the other crew. |
+| 640 | s3clocktape | Nock | complete | Clock: the drawer has to match the tape. That is the whole cartridge. |
+| 641 | s3cisternreli | Reed | complete | At the cistern, you hold until the relief bell. Miss that and the watch is over. |
+| 642 | s3rickshawbuoy | Gale | complete | In the rickshaw, you round the buoys and return to the same dock. Missing the end fails the leg. |
 | 643 | s3drawermark | Nock | queued | Play drawer until a finished mark ends it. Leave when that is true. |
 | 644 | s3cisterncolu | Reed | queued | You have the cistern. The job is to stop the column on the road. Anything else is a loss. |
 | 645 | s3rickshawbox | Gale | queued | Take the rickshaw and stop inside the box. The clock is the other crew. |
