@@ -740,10 +740,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 728 | s3palisadepace | Reed | complete | You have the palisade. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 729 | s3subpass | Gale | complete | Take the sub and clear the pass before the storm clock. The clock is the other crew. |
 | 730 | s3anviltape | Nock | complete | Play anvil until the drawer has to match the tape. Leave when that is true. |
-| 731 | s3palisademaga | Reed | queued | One palisade. Make the magazine last longer than the raid. Then it is done. |
-| 732 | s3subslip | Gale | queued | The sub has one job: berth in the slip before the tide turns. |
-| 733 | s3loommark | Nock | queued | A short loom. You are done when a finished mark ends it. |
-| 734 | s3palisadedawn | Reed | queued | At the palisade, you keep the flares lit until dawn. Miss that and the watch is over. |
+| 731 | s3palisademaga | Reed | complete | One palisade. Make the magazine last longer than the raid. Then it is done. |
+| 732 | s3subslip | Gale | complete | The sub has one job: berth in the slip before the tide turns. |
+| 733 | s3loommark | Nock | complete | A short loom. You are done when a finished mark ends it. |
+| 734 | s3palisadedawn | Reed | complete | At the palisade, you keep the flares lit until dawn. Miss that and the watch is over. |
 | 735 | s3subboom | Gale | queued | In the sub, you deliver the drive to the boom. Missing the end fails the leg. |
 | 736 | s3loomgold | Nock | queued | Play loom until only the gold counts double. Leave when that is true. |
 | 737 | s3palisadedoor | Reed | queued | You have the palisade. The job is to hold the door for three minutes. Anything else is a loss. |
