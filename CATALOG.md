@@ -600,10 +600,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 588 | s3headerslip | Gale | complete | Take the header and berth in the slip before the tide turns. The clock is the other crew. |
 | 589 | s3shelvemark | Nock | complete | Play shelve until a finished mark ends it. Leave when that is true. |
 | 590 | s3causewaydawn | Reed | complete | One causeway. Keep the flares lit until dawn. Then it is done. |
-| 591 | s3headerboom | Gale | queued | The header has one job: deliver the drive to the boom. |
-| 592 | s3shelvegold | Nock | queued | Shelve: only the gold counts double. That is the whole cartridge. |
-| 593 | s3causewaydoor | Reed | queued | At the causeway, you hold the door for three minutes. Miss that and the watch is over. |
-| 594 | s3headerplat | Gale | queued | In the header, you stop level with the platform. Missing the end fails the leg. |
+| 591 | s3headerboom | Gale | complete | The header has one job: deliver the drive to the boom. |
+| 592 | s3shelvegold | Nock | complete | Shelve: only the gold counts double. That is the whole cartridge. |
+| 593 | s3causewaydoor | Reed | complete | At the causeway, you hold the door for three minutes. Miss that and the watch is over. |
+| 594 | s3headerplat | Gale | complete | In the header, you stop level with the platform. Missing the end fails the leg. |
 | 595 | s3shelveseven | Nock | queued | A short shelve. You are done when first to seven. |
 | 596 | s3causewaypouc | Reed | queued | You have the causeway. The job is to carry the pouch across. Anything else is a loss. |
 | 597 | s3headerlane | Gale | queued | Take the header and stay in the lane for the whole leg. The clock is the other crew. |
