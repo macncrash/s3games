@@ -532,10 +532,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 520 | s3memorygold | Nock | complete | Play memory until only the gold counts double. Leave when that is true. |
 | 521 | s3quarrydoor | Reed | complete | You have the quarry. The job is to hold the door for three minutes. Anything else is a loss. |
 | 522 | s3craneplat | Gale | complete | Take the crane and stop level with the platform. The clock is the other crew. |
-| 523 | s3memoryseven | Nock | queued | Memory: first to seven. That is the whole cartridge. |
-| 524 | s3quarrypouc | Reed | queued | One quarry. Carry the pouch across. Then it is done. |
-| 525 | s3cranelane | Gale | queued | The crane has one job: stay in the lane for the whole leg. |
-| 526 | s3memorybell | Nock | queued | A short memory. You are done when the bell rings before the third try dies. |
+| 523 | s3memoryseven | Nock | complete | Memory: first to seven. That is the whole cartridge. |
+| 524 | s3quarrypouc | Reed | complete | One quarry. Carry the pouch across. Then it is done. |
+| 525 | s3cranelane | Gale | complete | The crane has one job: stay in the lane for the whole leg. |
+| 526 | s3memorybell | Nock | complete | A short memory. You are done when the bell rings before the third try dies. |
 | 527 | s3quarryladd | Reed | queued | At the quarry, you reach the far ladder. Miss that and the watch is over. |
 | 528 | s3cranemark | Gale | queued | In the crane, you set down on the mark. Missing the end fails the leg. |
 | 529 | s3memorychime | Nock | queued | Play memory until the hour has to chime. Leave when that is true. |
