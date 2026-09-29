@@ -718,6 +718,10 @@ DESIGN = {
     "s3redoubtpouc": "Carry the pouch across the redoubt. Stopping in the middle is not across.",
     "s3mushlane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3bedsbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3redoubtladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3mushmark": "Set down on the mark. Close and still rolling fails the job.",
+    "s3bedschime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3redoubtcler": "Clear the ground before the clock dies. Anything left is a loss.",
 }
 
 
