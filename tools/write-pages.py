@@ -534,6 +534,10 @@ DESIGN = {
     "s3memorygold": "Only the gold counts double. Bare cards do not buy the line.",
     "s3quarrydoor": "Hold the door for three minutes. A breach before the clock is a loss.",
     "s3craneplat": "Stop level with the platform, ahead of the other crew. Close and still short fails the leg.",
+    "s3memoryseven": "First to seven, then leave. Six is still short.",
+    "s3quarrypouc": "The pouch has to cross the quarry. Stopping in the middle is not across.",
+    "s3cranelane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3memorybell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
