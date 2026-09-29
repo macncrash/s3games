@@ -670,6 +670,10 @@ DESIGN = {
     "s3cisternpace": "Fire on the third pace. An early shot is not done.",
     "s3rickshawpass": "Clear the pass before the storm clock. Late is a loss.",
     "s3drawertape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3cisternmaga": "The magazine has to outlast the raid. Empty before the last stop ends the watch.",
+    "s3rickshawslip": "Berth in the slip before the tide turns. Late is a failed leg.",
+    "s3fishmark": "Cover the mark. An open mark is still short.",
+    "s3cisterndawn": "Keep the flares lit until dawn. A dark flare is a loss.",
 }
 
 
