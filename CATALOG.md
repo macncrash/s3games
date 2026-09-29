@@ -608,10 +608,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 596 | s3causewaypouc | Reed | complete | You have the causeway. The job is to carry the pouch across. Anything else is a loss. |
 | 597 | s3headerlane | Gale | complete | Take the header and stay in the lane for the whole leg. The clock is the other crew. |
 | 598 | s3shelvebell | Nock | complete | Play shelve until the bell rings before the third try dies. Leave when that is true. |
-| 599 | s3causewayladd | Reed | queued | One causeway. Reach the far ladder. Then it is done. |
-| 600 | s3headermark | Gale | queued | The header has one job: set down on the mark. |
-| 601 | s3shelvechime | Nock | queued | Shelve: the hour has to chime. That is the whole cartridge. |
-| 602 | s3causewaycler | Reed | queued | At the causeway, you clear the ground before the clock dies. Miss that and the watch is over. |
+| 599 | s3causewayladd | Reed | complete | One causeway. Reach the far ladder. Then it is done. |
+| 600 | s3headermark | Gale | complete | The header has one job: set down on the mark. |
+| 601 | s3shelvechime | Nock | complete | Shelve: the hour has to chime. That is the whole cartridge. |
+| 602 | s3causewaycler | Reed | complete | At the causeway, you clear the ground before the clock dies. Miss that and the watch is over. |
 | 603 | s3headerturn | Gale | queued | In the header, you make the three turns without tipping. Missing the end fails the leg. |
 | 604 | s3shelvetape | Nock | queued | A short shelve. You are done when the drawer has to match the tape. |
 | 605 | s3viaductreli | Reed | queued | One viaduct. Hold until the relief bell. Then it is done. |
