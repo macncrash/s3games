@@ -522,6 +522,10 @@ DESIGN = {
     "s3ovenbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
     "s3quarrywell": "The well has to stand through three waves. A well that falls on the third wave is a loss.",
     "s3cranekilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
+    "s3ovenchime": "The hour has to chime at 12:00:00. A near miss is still short.",
+    "s3quarrypace": "Wait for the third pace, then fire. An earlier shot is a loss.",
+    "s3cranepass": "Clear the pass before the storm clock. A late crest fails the leg.",
+    "s3oventape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
 }
 
 
