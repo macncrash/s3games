@@ -690,6 +690,10 @@ DESIGN = {
     "s3fishtape": "The drawer has to match the tape. A near match is still a miss.",
     "s3redoubtreli": "Hold until the relief bell. Leaving early ends the watch.",
     "s3mushbuoy": "Round the buoys and beat the other crew back to the same dock. Missing the dock fails the leg.",
+    "s3chefmark": "A finished mark ends it. An open plate is still short.",
+    "s3redoubtcolu": "Stop the column on the road. A column still rolling is a loss.",
+    "s3mushbox": "Stop inside the box. Outside the box fails the job.",
+    "s3chefgold": "Only the gold counts double. Cream plates do not buy the line.",
 }
 
 
