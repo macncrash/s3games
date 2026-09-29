@@ -734,6 +734,10 @@ DESIGN = {
     "s3sublock": "Pass the lock without scraping a gate. One scrape fails the leg.",
     "s3anvilseven": "First to seven, then leave. Six is still short.",
     "s3palisadepurs": "Be the last machine still running. Stalling early ends the watch.",
+    "s3subgrass": "Land on the grass and come to a full stop. Rolling past the grass fails the job.",
+    "s3anvilbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3palisadewell": "Keep the well standing through three waves. A fallen well is a loss.",
+    "s3subkilo": "Finish the kilometer without touching wheels. One touch fails the leg.",
 }
 
 
