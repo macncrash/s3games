@@ -696,10 +696,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 684 | s3mushlock | Gale | complete | In the mush, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 685 | s3chefseven | Nock | complete | Chef: first to seven. That is the whole cartridge. |
 | 686 | s3redoubtpurs | Reed | complete | You have the redoubt. The job is to be the last machine still running. Anything else is a loss. |
-| 687 | s3mushgrass | Gale | queued | Take the mush and land on the grass and come to a full stop. The clock is the other crew. |
-| 688 | s3chefbell | Nock | queued | A short chef. You are done when the bell rings before the third try dies. |
-| 689 | s3redoubtwell | Reed | queued | One redoubt. Keep the well standing through three waves. Then it is done. |
-| 690 | s3mushkilo | Gale | queued | The mush has one job: finish the kilometer without touching wheels. |
+| 687 | s3mushgrass | Gale | complete | Take the mush and land on the grass and come to a full stop. The clock is the other crew. |
+| 688 | s3chefbell | Nock | complete | A short chef. You are done when the bell rings before the third try dies. |
+| 689 | s3redoubtwell | Reed | complete | One redoubt. Keep the well standing through three waves. Then it is done. |
+| 690 | s3mushkilo | Gale | complete | The mush has one job: finish the kilometer without touching wheels. |
 | 691 | s3chefchime | Nock | queued | Play chef until the hour has to chime. Leave when that is true. |
 | 692 | s3redoubtpace | Reed | queued | At the redoubt, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 693 | s3mushpass | Gale | queued | In the mush, you clear the pass before the storm clock. Missing the end fails the leg. |
