@@ -766,6 +766,10 @@ DESIGN = {
     "s3trenchcolu": "Stop the column on the road. A column still rolling is a loss.",
     "s3bikebox": "Stop inside the box before the other crew. Outside the box fails the leg.",
     "s3kilngold": "Only the gold counts double. Cream fires do not buy the line.",
+    "s3trenchbann": "Bring the banner back from the trench. Stopping short of home is not done.",
+    "s3bikelock": "Pass the lock without scraping a gate. One scrape fails the job.",
+    "s3kilnseven": "First to seven, then leave. Six is still short.",
+    "s3trenchpurs": "Be the last machine still running. A breach ends the watch.",
 }
 
 
