@@ -664,10 +664,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 652 | s3drawerbell | Nock | complete | Play drawer until the bell rings before the third try dies. Leave when that is true. |
 | 653 | s3cisternwell | Reed | complete | You have the cistern. The job is to keep the well standing through three waves. Anything else is a loss. |
 | 654 | s3rickshawkilo | Gale | complete | Take the rickshaw and finish the kilometer without touching wheels. The clock is the other crew. |
-| 655 | s3drawerchime | Nock | queued | Drawer: the hour has to chime. That is the whole cartridge. |
-| 656 | s3cisternpace | Reed | queued | One cistern. Wait until the third pace before you fire. Then it is done. |
-| 657 | s3rickshawpass | Gale | queued | The rickshaw has one job: clear the pass before the storm clock. |
-| 658 | s3drawertape | Nock | queued | A short drawer. You are done when the drawer has to match the tape. |
+| 655 | s3drawerchime | Nock | complete | Drawer: the hour has to chime. That is the whole cartridge. |
+| 656 | s3cisternpace | Reed | complete | One cistern. Wait until the third pace before you fire. Then it is done. |
+| 657 | s3rickshawpass | Gale | complete | The rickshaw has one job: clear the pass before the storm clock. |
+| 658 | s3drawertape | Nock | complete | A short drawer. You are done when the drawer has to match the tape. |
 | 659 | s3cisternmaga | Reed | queued | At the cistern, you make the magazine last longer than the raid. Miss that and the watch is over. |
 | 660 | s3rickshawslip | Gale | queued | In the rickshaw, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 661 | s3fishmark | Nock | queued | Fish: a finished mark ends it. That is the whole cartridge. |
