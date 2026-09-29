@@ -724,10 +724,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 712 | s3bedstape | Nock | complete | A short beds. You are done when the drawer has to match the tape. |
 | 713 | s3palisadereli | Reed | complete | One palisade. Hold until the relief bell. Then it is done. |
 | 714 | s3subbuoy | Gale | complete | The sub has one job: round the buoys and return to the same dock. |
-| 715 | s3anvilmark | Nock | queued | Anvil: a finished mark ends it. That is the whole cartridge. |
-| 716 | s3palisadecolu | Reed | queued | At the palisade, you stop the column on the road. Miss that and the watch is over. |
-| 717 | s3subbox | Gale | queued | In the sub, you stop inside the box. Missing the end fails the leg. |
-| 718 | s3anvilgold | Nock | queued | A short anvil. You are done when only the gold counts double. |
+| 715 | s3anvilmark | Nock | complete | Anvil: a finished mark ends it. That is the whole cartridge. |
+| 716 | s3palisadecolu | Reed | complete | At the palisade, you stop the column on the road. Miss that and the watch is over. |
+| 717 | s3subbox | Gale | complete | In the sub, you stop inside the box. Missing the end fails the leg. |
+| 718 | s3anvilgold | Nock | complete | A short anvil. You are done when only the gold counts double. |
 | 719 | s3palisadebann | Reed | queued | You have the palisade. The job is to bring the banner back. Anything else is a loss. |
 | 720 | s3sublock | Gale | queued | Take the sub and pass the lock without scraping a gate. The clock is the other crew. |
 | 721 | s3anvilseven | Nock | queued | Play anvil until first to seven. Leave when that is true. |
