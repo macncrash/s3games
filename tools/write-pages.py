@@ -594,6 +594,10 @@ DESIGN = {
     "s3choirbell": "The bell has to ring before the third try dies. A late ring is still short.",
     "s3causewaywell": "The well has to stand through three waves. A well that falls on the third wave is a loss.",
     "s3headerkilo": "Finish the kilometer without touching a wheel. A scrape spends the run even if you make the distance.",
+    "s3choirchime": "The hour has to chime at 12:00:00. A phrase that misses the hour is still short.",
+    "s3causewaypace": "Wait for the third pace, then fire. An earlier shot is a loss.",
+    "s3headerpass": "Clear the pass before the storm clock. A late crest fails the leg.",
+    "s3choirtape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
 }
 
 
