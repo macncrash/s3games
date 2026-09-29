@@ -618,6 +618,10 @@ DESIGN = {
     "s3shelvetape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
     "s3viaductreli": "Hold the viaduct until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3cliffbuoy": "Round the buoys and return to the same dock. A circuit that finishes at the wrong dock fails the job.",
+    "s3solitairemark": "Hearts ace to king ends the mark. A short stack is still open.",
+    "s3viaductcolu": "Stop the column on the road. A truck that still gets through is a loss.",
+    "s3cliffbox": "Stop inside the box. Stopping short of the box fails the leg.",
+    "s3solitairegold": "Only the gold counts double. Cream cards do not buy the line.",
 }
 
 
