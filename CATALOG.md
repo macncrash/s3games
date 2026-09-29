@@ -720,10 +720,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 708 | s3mushmark | Gale | complete | The mush has one job: set down on the mark. |
 | 709 | s3bedschime | Nock | complete | Beds: the hour has to chime. That is the whole cartridge. |
 | 710 | s3redoubtcler | Reed | complete | At the redoubt, you clear the ground before the clock dies. Miss that and the watch is over. |
-| 711 | s3mushturn | Gale | queued | In the mush, you make the three turns without tipping. Missing the end fails the leg. |
-| 712 | s3bedstape | Nock | queued | A short beds. You are done when the drawer has to match the tape. |
-| 713 | s3palisadereli | Reed | queued | One palisade. Hold until the relief bell. Then it is done. |
-| 714 | s3subbuoy | Gale | queued | The sub has one job: round the buoys and return to the same dock. |
+| 711 | s3mushturn | Gale | complete | In the mush, you make the three turns without tipping. Missing the end fails the leg. |
+| 712 | s3bedstape | Nock | complete | A short beds. You are done when the drawer has to match the tape. |
+| 713 | s3palisadereli | Reed | complete | One palisade. Hold until the relief bell. Then it is done. |
+| 714 | s3subbuoy | Gale | complete | The sub has one job: round the buoys and return to the same dock. |
 | 715 | s3anvilmark | Nock | queued | Anvil: a finished mark ends it. That is the whole cartridge. |
 | 716 | s3palisadecolu | Reed | queued | At the palisade, you stop the column on the road. Miss that and the watch is over. |
 | 717 | s3subbox | Gale | queued | In the sub, you stop inside the box. Missing the end fails the leg. |
