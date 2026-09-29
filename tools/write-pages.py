@@ -614,6 +614,10 @@ DESIGN = {
     "s3headermark": "Set down on the mark. Close to the mark is still a missed job.",
     "s3shelvechime": "The hour has to chime. A shelf that misses the hour is still open.",
     "s3causewaycler": "Clear the ground before the clock dies. A clean causeway after the clock is already over.",
+    "s3headerturn": "Three turns, still upright. A tip fails the leg.",
+    "s3shelvetape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3viaductreli": "Hold the viaduct until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3cliffbuoy": "Round the buoys and return to the same dock. A circuit that finishes at the wrong dock fails the job.",
 }
 
 
