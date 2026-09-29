@@ -684,10 +684,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 672 | s3rickshawmark | Gale | complete | Take the rickshaw and set down on the mark. The clock is the other crew. |
 | 673 | s3fishchime | Nock | complete | A short fish. You are done when the hour has to chime. |
 | 674 | s3cisterncler | Reed | complete | One cistern. Clear the ground before the clock dies. Then it is done. |
-| 675 | s3rickshawturn | Gale | queued | The rickshaw has one job: make the three turns without tipping. |
-| 676 | s3fishtape | Nock | queued | Play fish until the drawer has to match the tape. Leave when that is true. |
-| 677 | s3redoubtreli | Reed | queued | You have the redoubt. The job is to hold until the relief bell. Anything else is a loss. |
-| 678 | s3mushbuoy | Gale | queued | Take the mush and round the buoys and return to the same dock. The clock is the other crew. |
+| 675 | s3rickshawturn | Gale | complete | The rickshaw has one job: make the three turns without tipping. |
+| 676 | s3fishtape | Nock | complete | Play fish until the drawer has to match the tape. Leave when that is true. |
+| 677 | s3redoubtreli | Reed | complete | You have the redoubt. The job is to hold until the relief bell. Anything else is a loss. |
+| 678 | s3mushbuoy | Gale | complete | Take the mush and round the buoys and return to the same dock. The clock is the other crew. |
 | 679 | s3chefmark | Nock | queued | A short chef. You are done when a finished mark ends it. |
 | 680 | s3redoubtcolu | Reed | queued | One redoubt. Stop the column on the road. Then it is done. |
 | 681 | s3mushbox | Gale | queued | The mush has one job: stop inside the box. |
