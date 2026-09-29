@@ -728,10 +728,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 716 | s3palisadecolu | Reed | complete | At the palisade, you stop the column on the road. Miss that and the watch is over. |
 | 717 | s3subbox | Gale | complete | In the sub, you stop inside the box. Missing the end fails the leg. |
 | 718 | s3anvilgold | Nock | complete | A short anvil. You are done when only the gold counts double. |
-| 719 | s3palisadebann | Reed | queued | You have the palisade. The job is to bring the banner back. Anything else is a loss. |
-| 720 | s3sublock | Gale | queued | Take the sub and pass the lock without scraping a gate. The clock is the other crew. |
-| 721 | s3anvilseven | Nock | queued | Play anvil until first to seven. Leave when that is true. |
-| 722 | s3palisadepurs | Reed | queued | One palisade. Be the last machine still running. Then it is done. |
+| 719 | s3palisadebann | Reed | complete | You have the palisade. The job is to bring the banner back. Anything else is a loss. |
+| 720 | s3sublock | Gale | complete | Take the sub and pass the lock without scraping a gate. The clock is the other crew. |
+| 721 | s3anvilseven | Nock | complete | Play anvil until first to seven. Leave when that is true. |
+| 722 | s3palisadepurs | Reed | complete | One palisade. Be the last machine still running. Then it is done. |
 | 723 | s3subgrass | Gale | queued | The sub has one job: land on the grass and come to a full stop. |
 | 724 | s3anvilbell | Nock | queued | Anvil: the bell rings before the third try dies. That is the whole cartridge. |
 | 725 | s3palisadewell | Reed | queued | At the palisade, you keep the well standing through three waves. Miss that and the watch is over. |
