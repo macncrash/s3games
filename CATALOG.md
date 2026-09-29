@@ -588,10 +588,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 576 | s3headerlock | Gale | complete | In the header, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 577 | s3choirseven | Nock | complete | Choir: first to seven. That is the whole cartridge. |
 | 578 | s3causewaypurs | Reed | complete | You have the causeway. The job is to be the last machine still running. Anything else is a loss. |
-| 579 | s3headergrass | Gale | queued | Take the header and land on the grass and come to a full stop. The clock is the other crew. |
-| 580 | s3choirbell | Nock | queued | A short choir. You are done when the bell rings before the third try dies. |
-| 581 | s3causewaywell | Reed | queued | One causeway. Keep the well standing through three waves. Then it is done. |
-| 582 | s3headerkilo | Gale | queued | The header has one job: finish the kilometer without touching wheels. |
+| 579 | s3headergrass | Gale | complete | Take the header and land on the grass and come to a full stop. The clock is the other crew. |
+| 580 | s3choirbell | Nock | complete | A short choir. You are done when the bell rings before the third try dies. |
+| 581 | s3causewaywell | Reed | complete | One causeway. Keep the well standing through three waves. Then it is done. |
+| 582 | s3headerkilo | Gale | complete | The header has one job: finish the kilometer without touching wheels. |
 | 583 | s3choirchime | Nock | queued | Play choir until the hour has to chime. Leave when that is true. |
 | 584 | s3causewaypace | Reed | queued | At the causeway, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 585 | s3headerpass | Gale | queued | In the header, you clear the pass before the storm clock. Missing the end fails the leg. |
