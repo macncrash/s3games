@@ -544,10 +544,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 532 | s3memorytape | Nock | complete | Memory: the drawer has to match the tape. That is the whole cartridge. |
 | 533 | s3orchardreli | Reed | complete | At the orchard, you hold until the relief bell. Miss that and the watch is over. |
 | 534 | s3mailvanbuoy | Gale | complete | In the mailvan, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 535 | s3boardmark | Nock | queued | Play board until a finished mark ends it. Leave when that is true. |
-| 536 | s3orchardcolu | Reed | queued | You have the orchard. The job is to stop the column on the road. Anything else is a loss. |
-| 537 | s3mailvanbox | Gale | queued | Take the mailvan and stop inside the box. The clock is the other crew. |
-| 538 | s3boardgold | Nock | queued | Board: only the gold counts double. That is the whole cartridge. |
+| 535 | s3boardmark | Nock | complete | Play board until a finished mark ends it. Leave when that is true. |
+| 536 | s3orchardcolu | Reed | complete | You have the orchard. The job is to stop the column on the road. Anything else is a loss. |
+| 537 | s3mailvanbox | Gale | complete | Take the mailvan and stop inside the box. The clock is the other crew. |
+| 538 | s3boardgold | Nock | complete | Board: only the gold counts double. That is the whole cartridge. |
 | 539 | s3orchardbann | Reed | queued | One orchard. Bring the banner back. Then it is done. |
 | 540 | s3mailvanlock | Gale | queued | The mailvan has one job: pass the lock without scraping a gate. |
 | 541 | s3boardseven | Nock | queued | A short board. You are done when first to seven. |
