@@ -762,6 +762,10 @@ DESIGN = {
     "s3loomtape": "The drawer has to match the tape. A near match is still a miss.",
     "s3trenchreli": "Hold until the relief bell. Leaving early ends the watch.",
     "s3bikebuoy": "Round the buoys and return to the same dock. Missing the dock fails the leg.",
+    "s3kilnmark": "A finished mark ends it. An open heat is still short.",
+    "s3trenchcolu": "Stop the column on the road. A column still rolling is a loss.",
+    "s3bikebox": "Stop inside the box before the other crew. Outside the box fails the leg.",
+    "s3kilngold": "Only the gold counts double. Cream fires do not buy the line.",
 }
 
 
