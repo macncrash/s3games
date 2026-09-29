@@ -578,6 +578,10 @@ DESIGN = {
     "s3mailvanmark": "Set down on the mark before the other crew. Close to the mark is still a missed leg.",
     "s3strikerchime": "The hour has to chime at 12:00:00. A near miss is still short.",
     "s3orchardcler": "Clear the ground before the clock dies. A clean orchard after the clock is already over.",
+    "s3mailvanturn": "Three turns, still upright. A tip fails the job.",
+    "s3strikertape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
+    "s3causewayreli": "Hold the causeway until the relief bell. Surviving the watch and missing the bell is not relief.",
+    "s3headerbuoy": "Round the buoys and return ahead of the other crew. A circuit that finishes late fails the leg.",
 }
 
 
