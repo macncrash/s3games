@@ -650,6 +650,10 @@ DESIGN = {
     "s3cliffmark": "Set the cart on the mark. Close and still off the mark fails the leg.",
     "s3clockchime": "The hour has to chime at 12:00:00. Leaving before the chime is a loss.",
     "s3viaductcler": "Clear the ground before the clock dies. Anything left on the span is a loss.",
+    "s3cliffturn": "Three turns without tipping. One tip ends the leg.",
+    "s3clocktape": "The drawer has to match the tape. A near time is still a miss.",
+    "s3cisternreli": "Hold until the relief bell. Leaving early ends the watch.",
+    "s3rickshawbuoy": "Round the buoys and return to the same dock. Missing the dock fails the leg.",
 }
 
 
