@@ -686,6 +686,10 @@ DESIGN = {
     "s3rickshawmark": "Set down on the mark ahead of the other crew. Close and still off the mark fails the leg.",
     "s3fishchime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3cisterncler": "Clear the ground before the clock dies. Anything left is a loss.",
+    "s3rickshawturn": "Three turns without tipping. One tip ends the job.",
+    "s3fishtape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3redoubtreli": "Hold until the relief bell. Leaving early ends the watch.",
+    "s3mushbuoy": "Round the buoys and beat the other crew back to the same dock. Missing the dock fails the leg.",
 }
 
 
