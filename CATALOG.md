@@ -580,10 +580,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 568 | s3strikertape | Nock | complete | Play striker until the drawer has to match the tape. Leave when that is true. |
 | 569 | s3causewayreli | Reed | complete | You have the causeway. The job is to hold until the relief bell. Anything else is a loss. |
 | 570 | s3headerbuoy | Gale | complete | Take the header and round the buoys and return to the same dock. The clock is the other crew. |
-| 571 | s3choirmark | Nock | queued | A short choir. You are done when a finished mark ends it. |
-| 572 | s3causewaycolu | Reed | queued | One causeway. Stop the column on the road. Then it is done. |
-| 573 | s3headerbox | Gale | queued | The header has one job: stop inside the box. |
-| 574 | s3choirgold | Nock | queued | Play choir until only the gold counts double. Leave when that is true. |
+| 571 | s3choirmark | Nock | complete | A short choir. You are done when a finished mark ends it. |
+| 572 | s3causewaycolu | Reed | complete | One causeway. Stop the column on the road. Then it is done. |
+| 573 | s3headerbox | Gale | complete | The header has one job: stop inside the box. |
+| 574 | s3choirgold | Nock | complete | Play choir until only the gold counts double. Leave when that is true. |
 | 575 | s3causewaybann | Reed | queued | At the causeway, you bring the banner back. Miss that and the watch is over. |
 | 576 | s3headerlock | Gale | queued | In the header, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 577 | s3choirseven | Nock | queued | Choir: first to seven. That is the whole cartridge. |
