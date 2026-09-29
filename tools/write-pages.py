@@ -546,6 +546,10 @@ DESIGN = {
     "s3memorytape": "The drawer has to match the tape. A line that does not match is still open.",
     "s3orchardreli": "Hold the orchard until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3mailvanbuoy": "Round the buoys and return to the same dock. A circuit that finishes at the wrong dock fails the leg.",
+    "s3boardmark": "Hold the mark and leave the desk. A mark that slips before you leave is still open.",
+    "s3orchardcolu": "Stop the column on the road. A truck that still gets through is a loss.",
+    "s3mailvanbox": "Stop inside the box before the other crew. Stopping short of the box fails the leg.",
+    "s3boardgold": "Only the gold counts double. Cream pieces do not buy the line.",
 }
 
 
