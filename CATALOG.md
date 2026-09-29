@@ -548,10 +548,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 536 | s3orchardcolu | Reed | complete | You have the orchard. The job is to stop the column on the road. Anything else is a loss. |
 | 537 | s3mailvanbox | Gale | complete | Take the mailvan and stop inside the box. The clock is the other crew. |
 | 538 | s3boardgold | Nock | complete | Board: only the gold counts double. That is the whole cartridge. |
-| 539 | s3orchardbann | Reed | queued | One orchard. Bring the banner back. Then it is done. |
-| 540 | s3mailvanlock | Gale | queued | The mailvan has one job: pass the lock without scraping a gate. |
-| 541 | s3boardseven | Nock | queued | A short board. You are done when first to seven. |
-| 542 | s3orchardpurs | Reed | queued | At the orchard, you be the last machine still running. Miss that and the watch is over. |
+| 539 | s3orchardbann | Reed | complete | One orchard. Bring the banner back. Then it is done. |
+| 540 | s3mailvanlock | Gale | complete | The mailvan has one job: pass the lock without scraping a gate. |
+| 541 | s3boardseven | Nock | complete | A short board. You are done when first to seven. |
+| 542 | s3orchardpurs | Reed | complete | At the orchard, you be the last machine still running. Miss that and the watch is over. |
 | 543 | s3mailvangrass | Gale | queued | In the mailvan, you land on the grass and come to a full stop. Missing the end fails the leg. |
 | 544 | s3boardbell | Nock | queued | Play board until the bell rings before the third try dies. Leave when that is true. |
 | 545 | s3orchardwell | Reed | queued | You have the orchard. The job is to keep the well standing through three waves. Anything else is a loss. |
