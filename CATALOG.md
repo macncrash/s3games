@@ -668,10 +668,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 656 | s3cisternpace | Reed | complete | One cistern. Wait until the third pace before you fire. Then it is done. |
 | 657 | s3rickshawpass | Gale | complete | The rickshaw has one job: clear the pass before the storm clock. |
 | 658 | s3drawertape | Nock | complete | A short drawer. You are done when the drawer has to match the tape. |
-| 659 | s3cisternmaga | Reed | queued | At the cistern, you make the magazine last longer than the raid. Miss that and the watch is over. |
-| 660 | s3rickshawslip | Gale | queued | In the rickshaw, you berth in the slip before the tide turns. Missing the end fails the leg. |
-| 661 | s3fishmark | Nock | queued | Fish: a finished mark ends it. That is the whole cartridge. |
-| 662 | s3cisterndawn | Reed | queued | You have the cistern. The job is to keep the flares lit until dawn. Anything else is a loss. |
+| 659 | s3cisternmaga | Reed | complete | At the cistern, you make the magazine last longer than the raid. Miss that and the watch is over. |
+| 660 | s3rickshawslip | Gale | complete | In the rickshaw, you berth in the slip before the tide turns. Missing the end fails the leg. |
+| 661 | s3fishmark | Nock | complete | Fish: a finished mark ends it. That is the whole cartridge. |
+| 662 | s3cisterndawn | Reed | complete | You have the cistern. The job is to keep the flares lit until dawn. Anything else is a loss. |
 | 663 | s3rickshawboom | Gale | queued | Take the rickshaw and deliver the drive to the boom. The clock is the other crew. |
 | 664 | s3fishgold | Nock | queued | A short fish. You are done when only the gold counts double. |
 | 665 | s3cisterndoor | Reed | queued | One cistern. Hold the door for three minutes. Then it is done. |
