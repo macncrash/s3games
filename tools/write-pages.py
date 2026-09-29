@@ -550,6 +550,10 @@ DESIGN = {
     "s3orchardcolu": "Stop the column on the road. A truck that still gets through is a loss.",
     "s3mailvanbox": "Stop inside the box before the other crew. Stopping short of the box fails the leg.",
     "s3boardgold": "Only the gold counts double. Cream pieces do not buy the line.",
+    "s3orchardbann": "Bring the banner back to the orchard. Reaching the banner and leaving it there is not done.",
+    "s3mailvanlock": "Pass the lock without scraping a gate. A scrape spends the run even if you clear the lock.",
+    "s3boardseven": "First to seven, then leave. Six is still short.",
+    "s3orchardpurs": "Be the last machine still running. A stall of your own ends the watch.",
 }
 
 
