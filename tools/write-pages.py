@@ -746,6 +746,10 @@ DESIGN = {
     "s3subslip": "Berth in the slip before the tide turns. Late is a failed job.",
     "s3loommark": "A finished mark ends it. An unwoven mark is still short.",
     "s3palisadedawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3subboom": "Deliver the drive to the boom. Short of the boom fails the leg.",
+    "s3loomgold": "Only the gold counts double. Cream picks do not buy the line.",
+    "s3palisadedoor": "Hold the door for three minutes. Breaking early ends the watch.",
+    "s3subplat": "Stop level with the platform ahead of the other crew. Short or past fails the leg.",
 }
 
 
