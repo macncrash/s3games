@@ -582,6 +582,10 @@ DESIGN = {
     "s3strikertape": "The drawer has to match the tape, then you leave. A line that does not match is still open.",
     "s3causewayreli": "Hold the causeway until the relief bell. Surviving the watch and missing the bell is not relief.",
     "s3headerbuoy": "Round the buoys and return ahead of the other crew. A circuit that finishes late fails the leg.",
+    "s3choirmark": "Three on the bar ends the mark. A spread that is still open is not finished.",
+    "s3causewaycolu": "Stop the column on the road. A truck that still gets through is a loss.",
+    "s3headerbox": "Stop inside the box. Stopping short of the box fails the job.",
+    "s3choirgold": "Only the gold counts double. Cream voices do not buy the line.",
 }
 
 
