@@ -742,6 +742,10 @@ DESIGN = {
     "s3palisadepace": "Fire on the third pace. An early shot is not done.",
     "s3subpass": "Clear the pass ahead of the other crew. Late is a loss.",
     "s3anviltape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3palisademaga": "The magazine has to outlast the raid. Empty before the last stop ends the watch.",
+    "s3subslip": "Berth in the slip before the tide turns. Late is a failed job.",
+    "s3loommark": "A finished mark ends it. An unwoven mark is still short.",
+    "s3palisadedawn": "Keep the flares lit until dawn. A dark flare is a loss.",
 }
 
 
