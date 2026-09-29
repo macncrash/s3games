@@ -662,6 +662,10 @@ DESIGN = {
     "s3rickshawlock": "Pass the lock without scraping a gate. One scrape fails the leg.",
     "s3drawerseven": "First to seven, then leave. Six is still short.",
     "s3cisternpurs": "Be the last machine still running. Stalling early ends the watch.",
+    "s3rickshawgrass": "Land on the grass and come to a full stop. Rolling past the grass fails the leg.",
+    "s3drawerbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3cisternwell": "Keep the well standing through three waves. A fallen well is a loss.",
+    "s3rickshawkilo": "Finish the kilometer without touching wheels. One touch fails the leg.",
 }
 
 
