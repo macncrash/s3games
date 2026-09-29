@@ -738,6 +738,10 @@ DESIGN = {
     "s3anvilbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
     "s3palisadewell": "Keep the well standing through three waves. A fallen well is a loss.",
     "s3subkilo": "Finish the kilometer without touching wheels. One touch fails the leg.",
+    "s3anvilchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3palisadepace": "Fire on the third pace. An early shot is not done.",
+    "s3subpass": "Clear the pass ahead of the other crew. Late is a loss.",
+    "s3anviltape": "The drawer has to match the tape. A near match is still a miss.",
 }
 
 
