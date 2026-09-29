@@ -660,10 +660,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 648 | s3rickshawlock | Gale | complete | The rickshaw has one job: pass the lock without scraping a gate. |
 | 649 | s3drawerseven | Nock | complete | A short drawer. You are done when first to seven. |
 | 650 | s3cisternpurs | Reed | complete | At the cistern, you be the last machine still running. Miss that and the watch is over. |
-| 651 | s3rickshawgrass | Gale | queued | In the rickshaw, you land on the grass and come to a full stop. Missing the end fails the leg. |
-| 652 | s3drawerbell | Nock | queued | Play drawer until the bell rings before the third try dies. Leave when that is true. |
-| 653 | s3cisternwell | Reed | queued | You have the cistern. The job is to keep the well standing through three waves. Anything else is a loss. |
-| 654 | s3rickshawkilo | Gale | queued | Take the rickshaw and finish the kilometer without touching wheels. The clock is the other crew. |
+| 651 | s3rickshawgrass | Gale | complete | In the rickshaw, you land on the grass and come to a full stop. Missing the end fails the leg. |
+| 652 | s3drawerbell | Nock | complete | Play drawer until the bell rings before the third try dies. Leave when that is true. |
+| 653 | s3cisternwell | Reed | complete | You have the cistern. The job is to keep the well standing through three waves. Anything else is a loss. |
+| 654 | s3rickshawkilo | Gale | complete | Take the rickshaw and finish the kilometer without touching wheels. The clock is the other crew. |
 | 655 | s3drawerchime | Nock | queued | Drawer: the hour has to chime. That is the whole cartridge. |
 | 656 | s3cisternpace | Reed | queued | One cistern. Wait until the third pace before you fire. Then it is done. |
 | 657 | s3rickshawpass | Gale | queued | The rickshaw has one job: clear the pass before the storm clock. |
