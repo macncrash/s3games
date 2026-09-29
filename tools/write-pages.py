@@ -638,6 +638,10 @@ DESIGN = {
     "s3cliffslip": "Berth in the slip before the tide turns. A late berth fails the job.",
     "s3clockmark": "Lift the gold hour. A mark left on the clock is still open.",
     "s3viaductdawn": "Keep the flares lit until dawn. A dark viaduct ends the watch.",
+    "s3cliffboom": "The drive has to sit on the boom. Reaching the boom without setting it down fails the leg.",
+    "s3clockgold": "Only the gold counts double. Cream strikes do not buy the line.",
+    "s3viaductdoor": "Hold the door for three minutes. A breach before the clock is a loss.",
+    "s3cliffplat": "Stop level with the platform, ahead of the other crew. Close and still short fails the leg.",
 }
 
 
