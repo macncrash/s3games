@@ -938,6 +938,10 @@ DESIGN = {
     "s3helimark": "Set down on the mark. Missing the mark fails the job.",
     "s3flutechime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3beaconcler": "Clear the ground before the clock dies. A late clear is not done.",
+    "s3heliturn": "Make the three turns without tipping. One tip fails the leg.",
+    "s3flutetape": "The drawer has to match the tape, then you leave. A near match is still a miss.",
+    "s3sallyreli": "Hold the sally until the relief bell. Leaving early is a loss.",
+    "s3keelbuoy": "Round the buoys and return to the same dock. Missing the dock fails the job.",
 }
 
 
