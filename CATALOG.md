@@ -896,10 +896,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 884 | s3granarypouc | Reed | complete | At the granary, you carry the pouch across. Miss that and the watch is over. |
 | 885 | s3raillane | Gale | complete | In the rail, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 886 | s3bellbell | Nock | complete | Bell: the bell rings before the third try dies. That is the whole cartridge. |
-| 887 | s3granaryladd | Reed | queued | You have the granary. The job is to reach the far ladder. Anything else is a loss. |
-| 888 | s3railmark | Gale | queued | Take the rail and set down on the mark. The clock is the other crew. |
-| 889 | s3bellchime | Nock | queued | A short bell. You are done when the hour has to chime. |
-| 890 | s3granarycler | Reed | queued | One granary. Clear the ground before the clock dies. Then it is done. |
+| 887 | s3granaryladd | Reed | complete | You have the granary. The job is to reach the far ladder. Anything else is a loss. |
+| 888 | s3railmark | Gale | complete | Take the rail and set down on the mark. The clock is the other crew. |
+| 889 | s3bellchime | Nock | complete | A short bell. You are done when the hour has to chime. |
+| 890 | s3granarycler | Reed | complete | One granary. Clear the ground before the clock dies. Then it is done. |
 | 891 | s3railturn | Gale | queued | The rail has one job: make the three turns without tipping. |
 | 892 | s3belltape | Nock | queued | Play bell until the drawer has to match the tape. Leave when that is true. |
 | 893 | s3beaconreli | Reed | queued | You have the beacon. The job is to hold until the relief bell. Anything else is a loss. |
