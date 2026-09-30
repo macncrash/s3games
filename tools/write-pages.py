@@ -942,6 +942,10 @@ DESIGN = {
     "s3flutetape": "The drawer has to match the tape, then you leave. A near match is still a miss.",
     "s3sallyreli": "Hold the sally until the relief bell. Leaving early is a loss.",
     "s3keelbuoy": "Round the buoys and return to the same dock. Missing the dock fails the job.",
+    "s3hornmark": "A finished mark ends it. An open call is still a miss.",
+    "s3sallycolu": "Stop the column on the road. Letting a wagon through is not done.",
+    "s3keelbox": "Stop inside the box. Rolling past the box fails the leg.",
+    "s3horngold": "Only the gold counts double. Cream calls do not buy the line.",
 }
 
 
