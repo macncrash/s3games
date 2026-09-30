@@ -912,10 +912,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 900 | s3helilock | Gale | complete | In the heli, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 901 | s3drumseven | Nock | complete | Drum: first to seven. That is the whole cartridge. |
 | 902 | s3beaconpurs | Reed | complete | You have the beacon. The job is to be the last machine still running. Anything else is a loss. |
-| 903 | s3heligrass | Gale | queued | Take the heli and land on the grass and come to a full stop. The clock is the other crew. |
-| 904 | s3drumbell | Nock | queued | A short drum. You are done when the bell rings before the third try dies. |
-| 905 | s3beaconwell | Reed | queued | One beacon. Keep the well standing through three waves. Then it is done. |
-| 906 | s3helikilo | Gale | queued | The heli has one job: finish the kilometer without touching wheels. |
+| 903 | s3heligrass | Gale | complete | Take the heli and land on the grass and come to a full stop. The clock is the other crew. |
+| 904 | s3drumbell | Nock | complete | A short drum. You are done when the bell rings before the third try dies. |
+| 905 | s3beaconwell | Reed | complete | One beacon. Keep the well standing through three waves. Then it is done. |
+| 906 | s3helikilo | Gale | complete | The heli has one job: finish the kilometer without touching wheels. |
 | 907 | s3drumchime | Nock | queued | Play drum until the hour has to chime. Leave when that is true. |
 | 908 | s3beaconpace | Reed | queued | At the beacon, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 909 | s3helipass | Gale | queued | In the heli, you clear the pass before the storm clock. Missing the end fails the leg. |
