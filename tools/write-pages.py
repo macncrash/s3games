@@ -898,6 +898,10 @@ DESIGN = {
     "s3granarypouc": "Carry the pouch across. Dropping it ends the watch.",
     "s3raillane": "Stay in the lane for the whole leg. Leaving the lane fails it.",
     "s3bellbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3granaryladd": "Reach the far ladder. Stopping short of it is a loss.",
+    "s3railmark": "Set down on the mark ahead of the other crew. Missing the mark fails the leg.",
+    "s3bellchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3granarycler": "Clear the ground before the clock dies. A late clear is not done.",
 }
 
 
