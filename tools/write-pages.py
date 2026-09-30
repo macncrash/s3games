@@ -818,6 +818,10 @@ DESIGN = {
     "s3kartslip": "Berth in the slip before the tide turns. Late is a failed leg.",
     "s3scoremark": "A finished mark ends it. An open score is still short.",
     "s3wharfdawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3kartboom": "Deliver the drive to the boom. Short of the boom fails the job.",
+    "s3scoregold": "Only the gold counts double. Cream lines do not buy the score.",
+    "s3wharfdoor": "Hold the door for three minutes. Breaking early ends the watch.",
+    "s3kartplat": "Stop level with the platform. Short or past the platform fails the leg.",
 }
 
 
