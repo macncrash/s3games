@@ -826,6 +826,10 @@ DESIGN = {
     "s3wharfpouc": "Carry the pouch across the wharf. Stopping in the middle is not across.",
     "s3kartlane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3scorebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3wharfladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3kartmark": "Set down on the mark. Close and still rolling fails the job.",
+    "s3scorechime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3wharfcler": "Clear the ground before the clock dies. Anything left is a loss.",
 }
 
 
