@@ -926,6 +926,10 @@ DESIGN = {
     "s3helislip": "Berth in the slip before the tide turns. Missing the berth fails the leg.",
     "s3flutemark": "A finished mark ends it. A missed note is still open.",
     "s3beacondawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3heliboom": "Deliver the drive to the boom. Missing the boom fails the job.",
+    "s3flutegold": "Only the gold counts double. Cream notes do not buy the line.",
+    "s3beacondoor": "Hold the door for three minutes. Dropping it early is not done.",
+    "s3heliplat": "Stop level with the platform. Short or long fails the leg.",
 }
 
 
