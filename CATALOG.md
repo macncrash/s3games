@@ -948,10 +948,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 936 | s3keellock | Gale | complete | Take the keel and pass the lock without scraping a gate. The clock is the other crew. |
 | 937 | s3hornseven | Nock | complete | Play horn until first to seven. Leave when that is true. |
 | 938 | s3sallypurs | Reed | complete | One sally. Be the last machine still running. Then it is done. |
-| 939 | s3keelgrass | Gale | queued | The keel has one job: land on the grass and come to a full stop. |
-| 940 | s3hornbell | Nock | queued | Horn: the bell rings before the third try dies. That is the whole cartridge. |
-| 941 | s3sallywell | Reed | queued | At the sally, you keep the well standing through three waves. Miss that and the watch is over. |
-| 942 | s3keelkilo | Gale | queued | In the keel, you finish the kilometer without touching wheels. Missing the end fails the leg. |
+| 939 | s3keelgrass | Gale | complete | The keel has one job: land on the grass and come to a full stop. |
+| 940 | s3hornbell | Nock | complete | Horn: the bell rings before the third try dies. That is the whole cartridge. |
+| 941 | s3sallywell | Reed | complete | At the sally, you keep the well standing through three waves. Miss that and the watch is over. |
+| 942 | s3keelkilo | Gale | complete | In the keel, you finish the kilometer without touching wheels. Missing the end fails the leg. |
 | 943 | s3hornchime | Nock | queued | A short horn. You are done when the hour has to chime. |
 | 944 | s3sallypace | Reed | queued | You have the sally. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 945 | s3keelpass | Gale | queued | Take the keel and clear the pass before the storm clock. The clock is the other crew. |
