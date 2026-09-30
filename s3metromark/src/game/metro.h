@@ -1,0 +1,61 @@
+// S3 METRO MARK — take the metro and set down on the mark.
+#pragma once
+#include "art.h"
+#include "console/system.h"
+
+namespace metromark {
+
+class Game : public gs::Cart {
+public:
+    const char* title() const override { return "S3 METRO MARK"; }
+    void init(gs::System& sys) override;
+    void frame(gs::System& sys) override;
+
+    void setBot(bool on) { bot_ = on; }
+    bool over() const { return over_; }
+    bool won() const { return won_; }
+    const char* why() const { return why_ ? why_ : ""; }
+    float seconds() const { return used_; }
+    float error() const { return s_ - mark_; }
+    // 0 title, 1 rolling, 2 the mark is close, 3 set down, 4 finished
+    int marker() const;
+
+private:
+    enum class Mode { Title, Run, Pause, Win, Fail };
+
+    struct Proj {
+        float x = 0, y = 0, ppm = 0;
+        int fog = 0;
+        bool ok = false;
+    };
+
+    void toTitle();
+    void begin();
+    void update(float dt);
+    void finish(bool good, const char* why);
+    void audio();
+    void draw();
+    void tunnel(float view);
+    void station(float along);
+    void trainAt();
+    void text(int col, int row, const char* s, int pal);
+    void textC(int row, const char* s, int pal);
+    void spr(const gs::Mipped& m, float cx, float cy, float h, int pal, bool flip = false, int fog = 0,
+             bool shadow = false);
+    Proj project(float wx, float ahead) const;
+    float bendAt(float s) const;
+
+    gs::System* sys_ = nullptr;
+    Art art_{};
+    Mode mode_ = Mode::Title;
+    bool bot_ = false;
+    bool over_ = false;
+    bool won_ = false;
+    const char* why_ = "";
+    float t_ = 0, used_ = 0, clock_ = 0, s_ = 0, v_ = 0, scenery_ = 0;
+    float mark_ = 0;
+    float hum_ = 0;
+    bool braking_ = false;
+};
+
+}  // namespace metromark
