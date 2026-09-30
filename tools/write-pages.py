@@ -1002,6 +1002,10 @@ DESIGN = {
     "s3quillgold": "Only the gold counts double. Cream strokes do not buy the line.",
     "s3culvertdoor": "Hold the door for three minutes. Dropping it early is not done.",
     "s3metroplat": "Stop level with the platform. Short or long fails the job.",
+    "s3quillseven": "First to seven. Six is still short.",
+    "s3culvertpouc": "Carry the pouch across. Dropping it ends the watch.",
+    "s3metrolane": "Stay in the lane for the whole leg. Leaving the lane fails it.",
+    "s3quillbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
