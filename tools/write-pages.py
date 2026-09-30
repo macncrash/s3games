@@ -782,6 +782,10 @@ DESIGN = {
     "s3bikeslip": "Berth in the slip before the tide turns. Late is a failed leg.",
     "s3pressmark": "A finished mark ends it. An open impression is still short.",
     "s3trenchdawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3bikeboom": "Deliver the drive to the boom before the other crew. Short of the boom fails the leg.",
+    "s3pressgold": "Only the gold counts double. Cream pulls do not buy the line.",
+    "s3trenchdoor": "Hold the door for three minutes. Breaking early ends the watch.",
+    "s3bikeplat": "Stop level with the platform. Short or past the platform fails the job.",
 }
 
 
