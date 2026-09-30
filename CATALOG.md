@@ -796,10 +796,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 784 | s3presstape | Nock | complete | Play press until the drawer has to match the tape. Leave when that is true. |
 | 785 | s3wharfreli | Reed | complete | You have the wharf. The job is to hold until the relief bell. Anything else is a loss. |
 | 786 | s3kartbuoy | Gale | complete | Take the kart and round the buoys and return to the same dock. The clock is the other crew. |
-| 787 | s3lensmark | Nock | queued | A short lens. You are done when a finished mark ends it. |
-| 788 | s3wharfcolu | Reed | queued | One wharf. Stop the column on the road. Then it is done. |
-| 789 | s3kartbox | Gale | queued | The kart has one job: stop inside the box. |
-| 790 | s3lensgold | Nock | queued | Play lens until only the gold counts double. Leave when that is true. |
+| 787 | s3lensmark | Nock | complete | A short lens. You are done when a finished mark ends it. |
+| 788 | s3wharfcolu | Reed | complete | One wharf. Stop the column on the road. Then it is done. |
+| 789 | s3kartbox | Gale | complete | The kart has one job: stop inside the box. |
+| 790 | s3lensgold | Nock | complete | Play lens until only the gold counts double. Leave when that is true. |
 | 791 | s3wharfbann | Reed | queued | At the wharf, you bring the banner back. Miss that and the watch is over. |
 | 792 | s3kartlock | Gale | queued | In the kart, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 793 | s3lensseven | Nock | queued | Lens: first to seven. That is the whole cartridge. |
