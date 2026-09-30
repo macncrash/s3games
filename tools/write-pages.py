@@ -806,6 +806,10 @@ DESIGN = {
     "s3kartlock": "Pass the lock without scraping a gate. One scrape fails the leg.",
     "s3lensseven": "First to seven, then leave. Six is still short.",
     "s3wharfpurs": "Be the last machine still running. Stalling early ends the watch.",
+    "s3kartgrass": "Land on the grass and come to a full stop ahead of the other crew. Rolling past the grass fails the leg.",
+    "s3lensbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3wharfwell": "Keep the well standing through three waves. A fallen well is a loss.",
+    "s3kartkilo": "Finish the kilometer without touching wheels. One touch fails the job.",
 }
 
 
