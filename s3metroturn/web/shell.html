@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>S3 METRO TURN</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #10141a; color: #e8eef6; font: 14px/1.4 ui-monospace, Menlo, monospace; }
+  body { display: flex; flex-direction: column; align-items: center; gap: 12px; padding: 16px; }
+  .screen { width: min(100%, calc((100vh - 100px) * 320 / 224), 1100px); aspect-ratio: 320 / 224; background: #000; }
+  canvas { width: 100% !important; height: 100% !important; image-rendering: pixelated; }
+  .keys { color: #9aa8b8; text-align: center; }
+</style>
+</head>
+<body>
+  <div class="screen"><canvas id="canvas" tabindex="-1" oncontextmenu="event.preventDefault()"></canvas></div>
+  <div class="keys">Left and right bank the cars. C is power. B is brake. Make three turns without tipping.</div>
+  <script>
+    var Module = {
+      canvas: document.getElementById('canvas'),
+      print: function (t) { console.log(t); },
+      printErr: function (t) { console.warn(t); }
+    };
+  </script>
+</body>
+</html>
