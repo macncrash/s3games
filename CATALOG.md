@@ -1008,5 +1008,5 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 996 | s3metromark | Gale | complete | Take the metro and set down on the mark. The clock is the other crew. |
 | 997 | s3quillchime | Nock | complete | A short quill. You are done when the hour has to chime. |
 | 998 | s3culvertcler | Reed | complete | One culvert. Clear the ground before the clock dies. Then it is done. |
-| 999 | s3metroturn | Gale | queued | The metro has one job: make the three turns without tipping. |
-| 1000 | s3quilltape | Nock | queued | Play quill until the drawer has to match the tape. Leave when that is true. |
+| 999 | s3metroturn | Gale | complete | The metro has one job: make the three turns without tipping. |
+| 1000 | s3quilltape | Nock | complete | Play quill until the drawer has to match the tape. Leave when that is true. |
