@@ -880,10 +880,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 868 | s3tilebell | Nock | complete | Play tile until the bell rings before the third try dies. Leave when that is true. |
 | 869 | s3granarywell | Reed | complete | You have the granary. The job is to keep the well standing through three waves. Anything else is a loss. |
 | 870 | s3railkilo | Gale | complete | Take the rail and finish the kilometer without touching wheels. The clock is the other crew. |
-| 871 | s3tilechime | Nock | queued | Tile: the hour has to chime. That is the whole cartridge. |
-| 872 | s3granarypace | Reed | queued | One granary. Wait until the third pace before you fire. Then it is done. |
-| 873 | s3railpass | Gale | queued | The rail has one job: clear the pass before the storm clock. |
-| 874 | s3tiletape | Nock | queued | A short tile. You are done when the drawer has to match the tape. |
+| 871 | s3tilechime | Nock | complete | Tile: the hour has to chime. That is the whole cartridge. |
+| 872 | s3granarypace | Reed | complete | One granary. Wait until the third pace before you fire. Then it is done. |
+| 873 | s3railpass | Gale | complete | The rail has one job: clear the pass before the storm clock. |
+| 874 | s3tiletape | Nock | complete | A short tile. You are done when the drawer has to match the tape. |
 | 875 | s3granarymaga | Reed | queued | At the granary, you make the magazine last longer than the raid. Miss that and the watch is over. |
 | 876 | s3railslip | Gale | queued | In the rail, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 877 | s3bellmark | Nock | queued | Bell: a finished mark ends it. That is the whole cartridge. |
