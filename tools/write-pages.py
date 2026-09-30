@@ -846,6 +846,10 @@ DESIGN = {
     "s3cuebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
     "s3foundrywell": "Keep the well standing through three waves. A breach is a loss.",
     "s3buskilo": "Finish the kilometer without touching wheels. One touch fails the leg.",
+    "s3cuechime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3foundrypace": "Fire on the third pace. An early shot is not done.",
+    "s3buspass": "Clear the pass before the storm clock. Late is a loss.",
+    "s3cuetape": "The drawer has to match the tape. A near match is still a miss.",
 }
 
 
