@@ -918,6 +918,10 @@ DESIGN = {
     "s3drumbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
     "s3beaconwell": "Keep the well standing through three waves. A fallen well is a loss.",
     "s3helikilo": "Finish the kilometer without touching wheels. One touch fails the job.",
+    "s3drumchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3beaconpace": "Fire on the third pace. An early shot is not done.",
+    "s3helipass": "Clear the pass before the storm clock. Late is a loss.",
+    "s3drumtape": "The drawer has to match the tape, then you leave. A near match is still a miss.",
 }
 
 
