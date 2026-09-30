@@ -988,10 +988,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 976 | s3inkwellbell | Nock | complete | Play inkwell until the bell rings before the third try dies. Leave when that is true. |
 | 977 | s3culvertwell | Reed | complete | You have the culvert. The job is to keep the well standing through three waves. Anything else is a loss. |
 | 978 | s3metrokilo | Gale | complete | Take the metro and finish the kilometer without touching wheels. The clock is the other crew. |
-| 979 | s3inkwellchime | Nock | queued | Inkwell: the hour has to chime. That is the whole cartridge. |
-| 980 | s3culvertpace | Reed | queued | One culvert. Wait until the third pace before you fire. Then it is done. |
-| 981 | s3metropass | Gale | queued | The metro has one job: clear the pass before the storm clock. |
-| 982 | s3inkwelltape | Nock | queued | A short inkwell. You are done when the drawer has to match the tape. |
+| 979 | s3inkwellchime | Nock | complete | Inkwell: the hour has to chime. That is the whole cartridge. |
+| 980 | s3culvertpace | Reed | complete | One culvert. Wait until the third pace before you fire. Then it is done. |
+| 981 | s3metropass | Gale | complete | The metro has one job: clear the pass before the storm clock. |
+| 982 | s3inkwelltape | Nock | complete | A short inkwell. You are done when the drawer has to match the tape. |
 | 983 | s3culvertmaga | Reed | queued | At the culvert, you make the magazine last longer than the raid. Miss that and the watch is over. |
 | 984 | s3metroslip | Gale | queued | In the metro, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 985 | s3quillmark | Nock | queued | Quill: a finished mark ends it. That is the whole cartridge. |
