@@ -872,10 +872,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 860 | s3granarycolu | Reed | complete | You have the granary. The job is to stop the column on the road. Anything else is a loss. |
 | 861 | s3railbox | Gale | complete | Take the rail and stop inside the box. The clock is the other crew. |
 | 862 | s3tilegold | Nock | complete | Tile: only the gold counts double. That is the whole cartridge. |
-| 863 | s3granarybann | Reed | queued | One granary. Bring the banner back. Then it is done. |
-| 864 | s3raillock | Gale | queued | The rail has one job: pass the lock without scraping a gate. |
-| 865 | s3tileseven | Nock | queued | A short tile. You are done when first to seven. |
-| 866 | s3granarypurs | Reed | queued | At the granary, you be the last machine still running. Miss that and the watch is over. |
+| 863 | s3granarybann | Reed | complete | One granary. Bring the banner back. Then it is done. |
+| 864 | s3raillock | Gale | complete | The rail has one job: pass the lock without scraping a gate. |
+| 865 | s3tileseven | Nock | complete | A short tile. You are done when first to seven. |
+| 866 | s3granarypurs | Reed | complete | At the granary, you be the last machine still running. Miss that and the watch is over. |
 | 867 | s3railgrass | Gale | queued | In the rail, you land on the grass and come to a full stop. Missing the end fails the leg. |
 | 868 | s3tilebell | Nock | queued | Play tile until the bell rings before the third try dies. Leave when that is true. |
 | 869 | s3granarywell | Reed | queued | You have the granary. The job is to keep the well standing through three waves. Anything else is a loss. |
