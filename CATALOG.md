@@ -936,10 +936,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 924 | s3helimark | Gale | complete | The heli has one job: set down on the mark. |
 | 925 | s3flutechime | Nock | complete | Flute: the hour has to chime. That is the whole cartridge. |
 | 926 | s3beaconcler | Reed | complete | At the beacon, you clear the ground before the clock dies. Miss that and the watch is over. |
-| 927 | s3heliturn | Gale | queued | In the heli, you make the three turns without tipping. Missing the end fails the leg. |
-| 928 | s3flutetape | Nock | queued | A short flute. You are done when the drawer has to match the tape. |
-| 929 | s3sallyreli | Reed | queued | One sally. Hold until the relief bell. Then it is done. |
-| 930 | s3keelbuoy | Gale | queued | The keel has one job: round the buoys and return to the same dock. |
+| 927 | s3heliturn | Gale | complete | In the heli, you make the three turns without tipping. Missing the end fails the leg. |
+| 928 | s3flutetape | Nock | complete | A short flute. You are done when the drawer has to match the tape. |
+| 929 | s3sallyreli | Reed | complete | One sally. Hold until the relief bell. Then it is done. |
+| 930 | s3keelbuoy | Gale | complete | The keel has one job: round the buoys and return to the same dock. |
 | 931 | s3hornmark | Nock | queued | Horn: a finished mark ends it. That is the whole cartridge. |
 | 932 | s3sallycolu | Reed | queued | At the sally, you stop the column on the road. Miss that and the watch is over. |
 | 933 | s3keelbox | Gale | queued | In the keel, you stop inside the box. Missing the end fails the leg. |
