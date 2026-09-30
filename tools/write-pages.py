@@ -934,6 +934,10 @@ DESIGN = {
     "s3beaconpouc": "Carry the pouch across under the beacon. Dropping it ends the watch.",
     "s3helilane": "Stay in the lane for the whole leg. Leaving the lane fails it.",
     "s3flutebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3beaconladd": "Reach the far ladder. Stopping short of it is a loss.",
+    "s3helimark": "Set down on the mark. Missing the mark fails the job.",
+    "s3flutechime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3beaconcler": "Clear the ground before the clock dies. A late clear is not done.",
 }
 
 
