@@ -786,6 +786,10 @@ DESIGN = {
     "s3pressgold": "Only the gold counts double. Cream pulls do not buy the line.",
     "s3trenchdoor": "Hold the door for three minutes. Breaking early ends the watch.",
     "s3bikeplat": "Stop level with the platform. Short or past the platform fails the job.",
+    "s3pressseven": "First to seven, then leave. Six is still short.",
+    "s3trenchpouc": "Carry the pouch across the trench. Stopping in the middle is not across.",
+    "s3bikelane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3pressbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
