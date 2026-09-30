@@ -866,6 +866,10 @@ DESIGN = {
     "s3busmark": "Set the bus on the mark. Close and still off the mark fails the leg.",
     "s3pawnchime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3foundrycler": "Clear the ground before the clock dies. Anything left is a loss.",
+    "s3busturn": "Three turns without tipping. One tip ends the leg.",
+    "s3pawntape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3granaryreli": "Hold until the relief bell. Leaving early ends the watch.",
+    "s3railbuoy": "Round the buoys and return to the same dock. Missing the dock fails the leg.",
 }
 
 
