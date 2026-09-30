@@ -856,10 +856,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 844 | s3pawngold | Nock | complete | Play pawn until only the gold counts double. Leave when that is true. |
 | 845 | s3foundrydoor | Reed | complete | You have the foundry. The job is to hold the door for three minutes. Anything else is a loss. |
 | 846 | s3busplat | Gale | complete | Take the bus and stop level with the platform. The clock is the other crew. |
-| 847 | s3pawnseven | Nock | queued | Pawn: first to seven. That is the whole cartridge. |
-| 848 | s3foundrypouc | Reed | queued | One foundry. Carry the pouch across. Then it is done. |
-| 849 | s3buslane | Gale | queued | The bus has one job: stay in the lane for the whole leg. |
-| 850 | s3pawnbell | Nock | queued | A short pawn. You are done when the bell rings before the third try dies. |
+| 847 | s3pawnseven | Nock | complete | Pawn: first to seven. That is the whole cartridge. |
+| 848 | s3foundrypouc | Reed | complete | One foundry. Carry the pouch across. Then it is done. |
+| 849 | s3buslane | Gale | complete | The bus has one job: stay in the lane for the whole leg. |
+| 850 | s3pawnbell | Nock | complete | A short pawn. You are done when the bell rings before the third try dies. |
 | 851 | s3foundryladd | Reed | queued | At the foundry, you reach the far ladder. Miss that and the watch is over. |
 | 852 | s3busmark | Gale | queued | In the bus, you set down on the mark. Missing the end fails the leg. |
 | 853 | s3pawnchime | Nock | queued | Play pawn until the hour has to chime. Leave when that is true. |
