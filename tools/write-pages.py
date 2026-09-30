@@ -910,6 +910,10 @@ DESIGN = {
     "s3beaconcolu": "Stop the column on the road. Letting a truck through is not done.",
     "s3helibox": "Stop inside the box. Rolling past the box fails the job.",
     "s3drumgold": "Only the gold counts double. Cream hits do not buy the line.",
+    "s3beaconbann": "Bring the banner back to the beacon. Dropping it ends the watch.",
+    "s3helilock": "Pass the lock without scraping a gate. A scrape fails the leg.",
+    "s3drumseven": "First to seven. Six is still short.",
+    "s3beaconpurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
