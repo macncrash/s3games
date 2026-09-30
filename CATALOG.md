@@ -836,10 +836,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 824 | s3foundrycolu | Reed | complete | At the foundry, you stop the column on the road. Miss that and the watch is over. |
 | 825 | s3busbox | Gale | complete | In the bus, you stop inside the box. Missing the end fails the leg. |
 | 826 | s3cuegold | Nock | complete | A short cue. You are done when only the gold counts double. |
-| 827 | s3foundrybann | Reed | queued | You have the foundry. The job is to bring the banner back. Anything else is a loss. |
-| 828 | s3buslock | Gale | queued | Take the bus and pass the lock without scraping a gate. The clock is the other crew. |
-| 829 | s3cueseven | Nock | queued | Play cue until first to seven. Leave when that is true. |
-| 830 | s3foundrypurs | Reed | queued | One foundry. Be the last machine still running. Then it is done. |
+| 827 | s3foundrybann | Reed | complete | You have the foundry. The job is to bring the banner back. Anything else is a loss. |
+| 828 | s3buslock | Gale | complete | Take the bus and pass the lock without scraping a gate. The clock is the other crew. |
+| 829 | s3cueseven | Nock | complete | Play cue until first to seven. Leave when that is true. |
+| 830 | s3foundrypurs | Reed | complete | One foundry. Be the last machine still running. Then it is done. |
 | 831 | s3busgrass | Gale | queued | The bus has one job: land on the grass and come to a full stop. |
 | 832 | s3cuebell | Nock | queued | Cue: the bell rings before the third try dies. That is the whole cartridge. |
 | 833 | s3foundrywell | Reed | queued | At the foundry, you keep the well standing through three waves. Miss that and the watch is over. |
