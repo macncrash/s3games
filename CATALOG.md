@@ -792,10 +792,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 780 | s3bikemark | Gale | complete | Take the bike and set down on the mark. The clock is the other crew. |
 | 781 | s3presschime | Nock | complete | A short press. You are done when the hour has to chime. |
 | 782 | s3trenchcler | Reed | complete | One trench. Clear the ground before the clock dies. Then it is done. |
-| 783 | s3biketurn | Gale | queued | The bike has one job: make the three turns without tipping. |
-| 784 | s3presstape | Nock | queued | Play press until the drawer has to match the tape. Leave when that is true. |
-| 785 | s3wharfreli | Reed | queued | You have the wharf. The job is to hold until the relief bell. Anything else is a loss. |
-| 786 | s3kartbuoy | Gale | queued | Take the kart and round the buoys and return to the same dock. The clock is the other crew. |
+| 783 | s3biketurn | Gale | complete | The bike has one job: make the three turns without tipping. |
+| 784 | s3presstape | Nock | complete | Play press until the drawer has to match the tape. Leave when that is true. |
+| 785 | s3wharfreli | Reed | complete | You have the wharf. The job is to hold until the relief bell. Anything else is a loss. |
+| 786 | s3kartbuoy | Gale | complete | Take the kart and round the buoys and return to the same dock. The clock is the other crew. |
 | 787 | s3lensmark | Nock | queued | A short lens. You are done when a finished mark ends it. |
 | 788 | s3wharfcolu | Reed | queued | One wharf. Stop the column on the road. Then it is done. |
 | 789 | s3kartbox | Gale | queued | The kart has one job: stop inside the box. |
