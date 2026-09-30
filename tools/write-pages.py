@@ -854,6 +854,10 @@ DESIGN = {
     "s3busslip": "Berth in the slip before the tide turns. Late is a failed job.",
     "s3pawnmark": "A finished mark ends it. An open pawn is still short.",
     "s3foundrydawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3busboom": "Deliver the drive to the boom. Short of the boom fails the leg.",
+    "s3pawngold": "Only the gold counts double. Ivory pieces do not buy the line.",
+    "s3foundrydoor": "Hold the door for three minutes. Breaking early ends the watch.",
+    "s3busplat": "Stop level with the platform. Short or past the platform fails the leg.",
 }
 
 
