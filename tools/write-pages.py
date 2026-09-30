@@ -790,6 +790,10 @@ DESIGN = {
     "s3trenchpouc": "Carry the pouch across the trench. Stopping in the middle is not across.",
     "s3bikelane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3pressbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3trenchladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3bikemark": "Set down on the mark before the other crew. Close and still off the mark fails the leg.",
+    "s3presschime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3trenchcler": "Clear the ground before the clock dies. Anything left is a loss.",
 }
 
 
