@@ -850,6 +850,10 @@ DESIGN = {
     "s3foundrypace": "Fire on the third pace. An early shot is not done.",
     "s3buspass": "Clear the pass before the storm clock. Late is a loss.",
     "s3cuetape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3foundrymaga": "The magazine has to outlast the raid. Empty before the last stop ends the watch.",
+    "s3busslip": "Berth in the slip before the tide turns. Late is a failed job.",
+    "s3pawnmark": "A finished mark ends it. An open pawn is still short.",
+    "s3foundrydawn": "Keep the flares lit until dawn. A dark flare is a loss.",
 }
 
 
