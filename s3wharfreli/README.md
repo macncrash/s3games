@@ -2,8 +2,10 @@
 
 You have the wharf. The job is to hold until the relief bell. Anything else is a loss.
 
+Play it in the browser: https://macncrash.github.io/s3games/play/s3wharfreli/
+
 ## Design
 
-Hold the timber wharf until the relief bell. Skiffs and a tug come in on the water; boarders run the planks. A foe that reaches the near piles takes the wharf. Surviving the watch and missing the bell is not relief.
+Hold until the relief bell. Leaving early ends the watch.
 
-Left and right change the pile you cover. A fires. The watch is lost if the near end is reached before the relief.
+The browser build is one file. The link above is that file, not a capture of a desktop session.

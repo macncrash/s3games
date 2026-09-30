@@ -794,6 +794,10 @@ DESIGN = {
     "s3bikemark": "Set down on the mark before the other crew. Close and still off the mark fails the leg.",
     "s3presschime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3trenchcler": "Clear the ground before the clock dies. Anything left is a loss.",
+    "s3biketurn": "Three turns without tipping. One tip ends the job.",
+    "s3presstape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3wharfreli": "Hold until the relief bell. Leaving early ends the watch.",
+    "s3kartbuoy": "Round the buoys and beat the other crew back to the same dock. Missing the dock fails the leg.",
 }
 
 
