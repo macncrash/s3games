@@ -978,6 +978,10 @@ DESIGN = {
     "s3masktape": "The drawer has to match the tape. A near match is still a miss.",
     "s3culvertreli": "Hold until the relief bell. Leaving early is a loss.",
     "s3metrobuoy": "Round the buoys and return to the same dock. Missing the dock fails the leg.",
+    "s3inkwellmark": "A finished mark ends it. An open stroke is still a miss.",
+    "s3culvertcolu": "Stop the column on the road. Letting a truck through is not done.",
+    "s3metrobox": "Stop inside the box ahead of the other crew. Rolling past the box fails the leg.",
+    "s3inkwellgold": "Only the gold counts double. Cream strokes do not buy the line.",
 }
 
 
