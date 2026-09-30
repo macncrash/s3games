@@ -960,10 +960,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 948 | s3keelslip | Gale | complete | The keel has one job: berth in the slip before the tide turns. |
 | 949 | s3maskmark | Nock | complete | A short mask. You are done when a finished mark ends it. |
 | 950 | s3sallydawn | Reed | complete | At the sally, you keep the flares lit until dawn. Miss that and the watch is over. |
-| 951 | s3keelboom | Gale | queued | In the keel, you deliver the drive to the boom. Missing the end fails the leg. |
-| 952 | s3maskgold | Nock | queued | Play mask until only the gold counts double. Leave when that is true. |
-| 953 | s3sallydoor | Reed | queued | You have the sally. The job is to hold the door for three minutes. Anything else is a loss. |
-| 954 | s3keelplat | Gale | queued | Take the keel and stop level with the platform. The clock is the other crew. |
+| 951 | s3keelboom | Gale | complete | In the keel, you deliver the drive to the boom. Missing the end fails the leg. |
+| 952 | s3maskgold | Nock | complete | Play mask until only the gold counts double. Leave when that is true. |
+| 953 | s3sallydoor | Reed | complete | You have the sally. The job is to hold the door for three minutes. Anything else is a loss. |
+| 954 | s3keelplat | Gale | complete | Take the keel and stop level with the platform. The clock is the other crew. |
 | 955 | s3maskseven | Nock | queued | Mask: first to seven. That is the whole cartridge. |
 | 956 | s3sallypouc | Reed | queued | One sally. Carry the pouch across. Then it is done. |
 | 957 | s3keellane | Gale | queued | The keel has one job: stay in the lane for the whole leg. |
