@@ -1004,9 +1004,9 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 992 | s3culvertpouc | Reed | complete | At the culvert, you carry the pouch across. Miss that and the watch is over. |
 | 993 | s3metrolane | Gale | complete | In the metro, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 994 | s3quillbell | Nock | complete | Quill: the bell rings before the third try dies. That is the whole cartridge. |
-| 995 | s3culvertladd | Reed | queued | You have the culvert. The job is to reach the far ladder. Anything else is a loss. |
-| 996 | s3metromark | Gale | queued | Take the metro and set down on the mark. The clock is the other crew. |
-| 997 | s3quillchime | Nock | queued | A short quill. You are done when the hour has to chime. |
-| 998 | s3culvertcler | Reed | queued | One culvert. Clear the ground before the clock dies. Then it is done. |
+| 995 | s3culvertladd | Reed | complete | You have the culvert. The job is to reach the far ladder. Anything else is a loss. |
+| 996 | s3metromark | Gale | complete | Take the metro and set down on the mark. The clock is the other crew. |
+| 997 | s3quillchime | Nock | complete | A short quill. You are done when the hour has to chime. |
+| 998 | s3culvertcler | Reed | complete | One culvert. Clear the ground before the clock dies. Then it is done. |
 | 999 | s3metroturn | Gale | queued | The metro has one job: make the three turns without tipping. |
 | 1000 | s3quilltape | Nock | queued | Play quill until the drawer has to match the tape. Leave when that is true. |
