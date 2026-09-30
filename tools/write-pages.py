@@ -906,6 +906,10 @@ DESIGN = {
     "s3belltape": "The drawer has to match the tape, then you leave. A near match is still a miss.",
     "s3beaconreli": "Hold the beacon until the relief bell. Leaving early is a loss.",
     "s3helibuoy": "Round the buoys and return to the same dock ahead of the other crew.",
+    "s3drummark": "A finished mark ends it. A miss on the lip is still open.",
+    "s3beaconcolu": "Stop the column on the road. Letting a truck through is not done.",
+    "s3helibox": "Stop inside the box. Rolling past the box fails the job.",
+    "s3drumgold": "Only the gold counts double. Cream hits do not buy the line.",
 }
 
 
