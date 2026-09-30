@@ -956,10 +956,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 944 | s3sallypace | Reed | complete | You have the sally. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 945 | s3keelpass | Gale | complete | Take the keel and clear the pass before the storm clock. The clock is the other crew. |
 | 946 | s3horntape | Nock | complete | Play horn until the drawer has to match the tape. Leave when that is true. |
-| 947 | s3sallymaga | Reed | queued | One sally. Make the magazine last longer than the raid. Then it is done. |
-| 948 | s3keelslip | Gale | queued | The keel has one job: berth in the slip before the tide turns. |
-| 949 | s3maskmark | Nock | queued | A short mask. You are done when a finished mark ends it. |
-| 950 | s3sallydawn | Reed | queued | At the sally, you keep the flares lit until dawn. Miss that and the watch is over. |
+| 947 | s3sallymaga | Reed | complete | One sally. Make the magazine last longer than the raid. Then it is done. |
+| 948 | s3keelslip | Gale | complete | The keel has one job: berth in the slip before the tide turns. |
+| 949 | s3maskmark | Nock | complete | A short mask. You are done when a finished mark ends it. |
+| 950 | s3sallydawn | Reed | complete | At the sally, you keep the flares lit until dawn. Miss that and the watch is over. |
 | 951 | s3keelboom | Gale | queued | In the keel, you deliver the drive to the boom. Missing the end fails the leg. |
 | 952 | s3maskgold | Nock | queued | Play mask until only the gold counts double. Leave when that is true. |
 | 953 | s3sallydoor | Reed | queued | You have the sally. The job is to hold the door for three minutes. Anything else is a loss. |
