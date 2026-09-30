@@ -778,6 +778,10 @@ DESIGN = {
     "s3trenchpace": "Fire on the third pace. An early shot is not done.",
     "s3bikepass": "Clear the pass before the storm clock. Late is a loss.",
     "s3kilntape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3trenchmaga": "The magazine has to outlast the raid. Empty before the last hold ends the watch.",
+    "s3bikeslip": "Berth in the slip before the tide turns. Late is a failed leg.",
+    "s3pressmark": "A finished mark ends it. An open impression is still short.",
+    "s3trenchdawn": "Keep the flares lit until dawn. A dark flare is a loss.",
 }
 
 
