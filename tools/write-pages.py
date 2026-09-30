@@ -822,6 +822,10 @@ DESIGN = {
     "s3scoregold": "Only the gold counts double. Cream lines do not buy the score.",
     "s3wharfdoor": "Hold the door for three minutes. Breaking early ends the watch.",
     "s3kartplat": "Stop level with the platform. Short or past the platform fails the leg.",
+    "s3scoreseven": "First to seven, then leave. Six is still short.",
+    "s3wharfpouc": "Carry the pouch across the wharf. Stopping in the middle is not across.",
+    "s3kartlane": "Stay in the lane for the whole leg. One departure fails it.",
+    "s3scorebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
