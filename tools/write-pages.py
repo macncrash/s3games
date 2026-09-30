@@ -838,6 +838,10 @@ DESIGN = {
     "s3foundrycolu": "Stop the column on the road. A column still rolling is a loss.",
     "s3busbox": "Stop inside the box at the end of the leg. Outside the box fails it.",
     "s3cuegold": "Only the gold counts double. Cream shots do not buy the line.",
+    "s3foundrybann": "Bring the banner back to the foundry. Stopping short of home is not done.",
+    "s3buslock": "Pass the lock without scraping a gate. One scrape fails the leg.",
+    "s3cueseven": "First to seven, then leave. Six is still short.",
+    "s3foundrypurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
