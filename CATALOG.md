@@ -784,10 +784,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 772 | s3pressgold | Nock | complete | A short press. You are done when only the gold counts double. |
 | 773 | s3trenchdoor | Reed | complete | One trench. Hold the door for three minutes. Then it is done. |
 | 774 | s3bikeplat | Gale | complete | The bike has one job: stop level with the platform. |
-| 775 | s3pressseven | Nock | queued | Play press until first to seven. Leave when that is true. |
-| 776 | s3trenchpouc | Reed | queued | At the trench, you carry the pouch across. Miss that and the watch is over. |
-| 777 | s3bikelane | Gale | queued | In the bike, you stay in the lane for the whole leg. Missing the end fails the leg. |
-| 778 | s3pressbell | Nock | queued | Press: the bell rings before the third try dies. That is the whole cartridge. |
+| 775 | s3pressseven | Nock | complete | Play press until first to seven. Leave when that is true. |
+| 776 | s3trenchpouc | Reed | complete | At the trench, you carry the pouch across. Miss that and the watch is over. |
+| 777 | s3bikelane | Gale | complete | In the bike, you stay in the lane for the whole leg. Missing the end fails the leg. |
+| 778 | s3pressbell | Nock | complete | Press: the bell rings before the third try dies. That is the whole cartridge. |
 | 779 | s3trenchladd | Reed | queued | You have the trench. The job is to reach the far ladder. Anything else is a loss. |
 | 780 | s3bikemark | Gale | queued | Take the bike and set down on the mark. The clock is the other crew. |
 | 781 | s3presschime | Nock | queued | A short press. You are done when the hour has to chime. |
