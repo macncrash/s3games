@@ -890,6 +890,10 @@ DESIGN = {
     "s3railslip": "Berth in the slip before the tide turns. Missing the berth fails the leg.",
     "s3bellmark": "A finished mark ends it. An unfinished lip is still a miss.",
     "s3granarydawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3railboom": "Deliver the drive to the boom ahead of the other crew. Late is a loss.",
+    "s3bellgold": "Only the gold counts double. Cream rings do not buy the line.",
+    "s3granarydoor": "Hold the door for three minutes. Dropping it early is not done.",
+    "s3railplat": "Stop level with the platform. Short or long fails the job.",
 }
 
 
