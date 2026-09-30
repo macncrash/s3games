@@ -828,10 +828,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 816 | s3kartmark | Gale | complete | The kart has one job: set down on the mark. |
 | 817 | s3scorechime | Nock | complete | Score: the hour has to chime. That is the whole cartridge. |
 | 818 | s3wharfcler | Reed | complete | At the wharf, you clear the ground before the clock dies. Miss that and the watch is over. |
-| 819 | s3kartturn | Gale | queued | In the kart, you make the three turns without tipping. Missing the end fails the leg. |
-| 820 | s3scoretape | Nock | queued | A short score. You are done when the drawer has to match the tape. |
-| 821 | s3foundryreli | Reed | queued | One foundry. Hold until the relief bell. Then it is done. |
-| 822 | s3busbuoy | Gale | queued | The bus has one job: round the buoys and return to the same dock. |
+| 819 | s3kartturn | Gale | complete | In the kart, you make the three turns without tipping. Missing the end fails the leg. |
+| 820 | s3scoretape | Nock | complete | A short score. You are done when the drawer has to match the tape. |
+| 821 | s3foundryreli | Reed | complete | One foundry. Hold until the relief bell. Then it is done. |
+| 822 | s3busbuoy | Gale | complete | The bus has one job: round the buoys and return to the same dock. |
 | 823 | s3cuemark | Nock | queued | Cue: a finished mark ends it. That is the whole cartridge. |
 | 824 | s3foundrycolu | Reed | queued | At the foundry, you stop the column on the road. Miss that and the watch is over. |
 | 825 | s3busbox | Gale | queued | In the bus, you stop inside the box. Missing the end fails the leg. |
