@@ -844,10 +844,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 832 | s3cuebell | Nock | complete | Cue: the bell rings before the third try dies. That is the whole cartridge. |
 | 833 | s3foundrywell | Reed | complete | At the foundry, you keep the well standing through three waves. Miss that and the watch is over. |
 | 834 | s3buskilo | Gale | complete | In the bus, you finish the kilometer without touching wheels. Missing the end fails the leg. |
-| 835 | s3cuechime | Nock | queued | A short cue. You are done when the hour has to chime. |
-| 836 | s3foundrypace | Reed | queued | You have the foundry. The job is to wait until the third pace before you fire. Anything else is a loss. |
-| 837 | s3buspass | Gale | queued | Take the bus and clear the pass before the storm clock. The clock is the other crew. |
-| 838 | s3cuetape | Nock | queued | Play cue until the drawer has to match the tape. Leave when that is true. |
+| 835 | s3cuechime | Nock | complete | A short cue. You are done when the hour has to chime. |
+| 836 | s3foundrypace | Reed | complete | You have the foundry. The job is to wait until the third pace before you fire. Anything else is a loss. |
+| 837 | s3buspass | Gale | complete | Take the bus and clear the pass before the storm clock. The clock is the other crew. |
+| 838 | s3cuetape | Nock | complete | Play cue until the drawer has to match the tape. Leave when that is true. |
 | 839 | s3foundrymaga | Reed | queued | One foundry. Make the magazine last longer than the raid. Then it is done. |
 | 840 | s3busslip | Gale | queued | The bus has one job: berth in the slip before the tide turns. |
 | 841 | s3pawnmark | Nock | queued | A short pawn. You are done when a finished mark ends it. |
