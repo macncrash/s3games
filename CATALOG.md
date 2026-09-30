@@ -984,10 +984,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 972 | s3metrolock | Gale | complete | The metro has one job: pass the lock without scraping a gate. |
 | 973 | s3inkwellseven | Nock | complete | A short inkwell. You are done when first to seven. |
 | 974 | s3culvertpurs | Reed | complete | At the culvert, you be the last machine still running. Miss that and the watch is over. |
-| 975 | s3metrograss | Gale | queued | In the metro, you land on the grass and come to a full stop. Missing the end fails the leg. |
-| 976 | s3inkwellbell | Nock | queued | Play inkwell until the bell rings before the third try dies. Leave when that is true. |
-| 977 | s3culvertwell | Reed | queued | You have the culvert. The job is to keep the well standing through three waves. Anything else is a loss. |
-| 978 | s3metrokilo | Gale | queued | Take the metro and finish the kilometer without touching wheels. The clock is the other crew. |
+| 975 | s3metrograss | Gale | complete | In the metro, you land on the grass and come to a full stop. Missing the end fails the leg. |
+| 976 | s3inkwellbell | Nock | complete | Play inkwell until the bell rings before the third try dies. Leave when that is true. |
+| 977 | s3culvertwell | Reed | complete | You have the culvert. The job is to keep the well standing through three waves. Anything else is a loss. |
+| 978 | s3metrokilo | Gale | complete | Take the metro and finish the kilometer without touching wheels. The clock is the other crew. |
 | 979 | s3inkwellchime | Nock | queued | Inkwell: the hour has to chime. That is the whole cartridge. |
 | 980 | s3culvertpace | Reed | queued | One culvert. Wait until the third pace before you fire. Then it is done. |
 | 981 | s3metropass | Gale | queued | The metro has one job: clear the pass before the storm clock. |
