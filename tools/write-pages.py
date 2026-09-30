@@ -830,6 +830,10 @@ DESIGN = {
     "s3kartmark": "Set down on the mark. Close and still rolling fails the job.",
     "s3scorechime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3wharfcler": "Clear the ground before the clock dies. Anything left is a loss.",
+    "s3kartturn": "Three turns without tipping. One tip ends the leg.",
+    "s3scoretape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3foundryreli": "Hold until the relief bell. Leaving early ends the watch.",
+    "s3busbuoy": "Round the buoys and return to the same dock. Missing the dock fails the job.",
 }
 
 
