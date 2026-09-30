@@ -902,6 +902,10 @@ DESIGN = {
     "s3railmark": "Set down on the mark ahead of the other crew. Missing the mark fails the leg.",
     "s3bellchime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3granarycler": "Clear the ground before the clock dies. A late clear is not done.",
+    "s3railturn": "Make the three turns without tipping. One tip fails the job.",
+    "s3belltape": "The drawer has to match the tape, then you leave. A near match is still a miss.",
+    "s3beaconreli": "Hold the beacon until the relief bell. Leaving early is a loss.",
+    "s3helibuoy": "Round the buoys and return to the same dock ahead of the other crew.",
 }
 
 
