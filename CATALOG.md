@@ -808,10 +808,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 796 | s3lensbell | Nock | complete | A short lens. You are done when the bell rings before the third try dies. |
 | 797 | s3wharfwell | Reed | complete | One wharf. Keep the well standing through three waves. Then it is done. |
 | 798 | s3kartkilo | Gale | complete | The kart has one job: finish the kilometer without touching wheels. |
-| 799 | s3lenschime | Nock | queued | Play lens until the hour has to chime. Leave when that is true. |
-| 800 | s3wharfpace | Reed | queued | At the wharf, you wait until the third pace before you fire. Miss that and the watch is over. |
-| 801 | s3kartpass | Gale | queued | In the kart, you clear the pass before the storm clock. Missing the end fails the leg. |
-| 802 | s3lenstape | Nock | queued | Lens: the drawer has to match the tape. That is the whole cartridge. |
+| 799 | s3lenschime | Nock | complete | Play lens until the hour has to chime. Leave when that is true. |
+| 800 | s3wharfpace | Reed | complete | At the wharf, you wait until the third pace before you fire. Miss that and the watch is over. |
+| 801 | s3kartpass | Gale | complete | In the kart, you clear the pass before the storm clock. Missing the end fails the leg. |
+| 802 | s3lenstape | Nock | complete | Lens: the drawer has to match the tape. That is the whole cartridge. |
 | 803 | s3wharfmaga | Reed | queued | You have the wharf. The job is to make the magazine last longer than the raid. Anything else is a loss. |
 | 804 | s3kartslip | Gale | queued | Take the kart and berth in the slip before the tide turns. The clock is the other crew. |
 | 805 | s3scoremark | Nock | queued | Play score until a finished mark ends it. Leave when that is true. |
