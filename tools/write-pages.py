@@ -802,6 +802,10 @@ DESIGN = {
     "s3wharfcolu": "Stop the column on the road. A column still rolling is a loss.",
     "s3kartbox": "Stop inside the box. Outside the box fails the job.",
     "s3lensgold": "Only the gold counts double. Cream plates do not buy the line.",
+    "s3wharfbann": "Bring the banner back to the wharf. Stopping short of home is not done.",
+    "s3kartlock": "Pass the lock without scraping a gate. One scrape fails the leg.",
+    "s3lensseven": "First to seven, then leave. Six is still short.",
+    "s3wharfpurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
