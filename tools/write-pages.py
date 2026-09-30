@@ -894,6 +894,10 @@ DESIGN = {
     "s3bellgold": "Only the gold counts double. Cream rings do not buy the line.",
     "s3granarydoor": "Hold the door for three minutes. Dropping it early is not done.",
     "s3railplat": "Stop level with the platform. Short or long fails the job.",
+    "s3bellseven": "First to seven, then leave. Six is still short.",
+    "s3granarypouc": "Carry the pouch across. Dropping it ends the watch.",
+    "s3raillane": "Stay in the lane for the whole leg. Leaving the lane fails it.",
+    "s3bellbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
