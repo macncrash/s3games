@@ -886,6 +886,10 @@ DESIGN = {
     "s3granarypace": "Fire on the third pace. An early shot is not done.",
     "s3railpass": "Clear the pass before the storm clock. Late is a loss.",
     "s3tiletape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3granarymaga": "The magazine has to outlast the raid. Running dry first ends the watch.",
+    "s3railslip": "Berth in the slip before the tide turns. Missing the berth fails the leg.",
+    "s3bellmark": "A finished mark ends it. An unfinished lip is still a miss.",
+    "s3granarydawn": "Keep the flares lit until dawn. A dark flare is a loss.",
 }
 
 
