@@ -996,10 +996,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 984 | s3metroslip | Gale | complete | In the metro, you berth in the slip before the tide turns. Missing the end fails the leg. |
 | 985 | s3quillmark | Nock | complete | Quill: a finished mark ends it. That is the whole cartridge. |
 | 986 | s3culvertdawn | Reed | complete | You have the culvert. The job is to keep the flares lit until dawn. Anything else is a loss. |
-| 987 | s3metroboom | Gale | queued | Take the metro and deliver the drive to the boom. The clock is the other crew. |
-| 988 | s3quillgold | Nock | queued | A short quill. You are done when only the gold counts double. |
-| 989 | s3culvertdoor | Reed | queued | One culvert. Hold the door for three minutes. Then it is done. |
-| 990 | s3metroplat | Gale | queued | The metro has one job: stop level with the platform. |
+| 987 | s3metroboom | Gale | complete | Take the metro and deliver the drive to the boom. The clock is the other crew. |
+| 988 | s3quillgold | Nock | complete | A short quill. You are done when only the gold counts double. |
+| 989 | s3culvertdoor | Reed | complete | One culvert. Hold the door for three minutes. Then it is done. |
+| 990 | s3metroplat | Gale | complete | The metro has one job: stop level with the platform. |
 | 991 | s3quillseven | Nock | queued | Play quill until first to seven. Leave when that is true. |
 | 992 | s3culvertpouc | Reed | queued | At the culvert, you carry the pouch across. Miss that and the watch is over. |
 | 993 | s3metrolane | Gale | queued | In the metro, you stay in the lane for the whole leg. Missing the end fails the leg. |
