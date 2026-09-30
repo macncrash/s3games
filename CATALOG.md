@@ -924,10 +924,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 912 | s3helislip | Gale | complete | Take the heli and berth in the slip before the tide turns. The clock is the other crew. |
 | 913 | s3flutemark | Nock | complete | Play flute until a finished mark ends it. Leave when that is true. |
 | 914 | s3beacondawn | Reed | complete | One beacon. Keep the flares lit until dawn. Then it is done. |
-| 915 | s3heliboom | Gale | queued | The heli has one job: deliver the drive to the boom. |
-| 916 | s3flutegold | Nock | queued | Flute: only the gold counts double. That is the whole cartridge. |
-| 917 | s3beacondoor | Reed | queued | At the beacon, you hold the door for three minutes. Miss that and the watch is over. |
-| 918 | s3heliplat | Gale | queued | In the heli, you stop level with the platform. Missing the end fails the leg. |
+| 915 | s3heliboom | Gale | complete | The heli has one job: deliver the drive to the boom. |
+| 916 | s3flutegold | Nock | complete | Flute: only the gold counts double. That is the whole cartridge. |
+| 917 | s3beacondoor | Reed | complete | At the beacon, you hold the door for three minutes. Miss that and the watch is over. |
+| 918 | s3heliplat | Gale | complete | In the heli, you stop level with the platform. Missing the end fails the leg. |
 | 919 | s3fluteseven | Nock | queued | A short flute. You are done when first to seven. |
 | 920 | s3beaconpouc | Reed | queued | You have the beacon. The job is to carry the pouch across. Anything else is a loss. |
 | 921 | s3helilane | Gale | queued | Take the heli and stay in the lane for the whole leg. The clock is the other crew. |
