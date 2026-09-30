@@ -992,10 +992,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 980 | s3culvertpace | Reed | complete | One culvert. Wait until the third pace before you fire. Then it is done. |
 | 981 | s3metropass | Gale | complete | The metro has one job: clear the pass before the storm clock. |
 | 982 | s3inkwelltape | Nock | complete | A short inkwell. You are done when the drawer has to match the tape. |
-| 983 | s3culvertmaga | Reed | queued | At the culvert, you make the magazine last longer than the raid. Miss that and the watch is over. |
-| 984 | s3metroslip | Gale | queued | In the metro, you berth in the slip before the tide turns. Missing the end fails the leg. |
-| 985 | s3quillmark | Nock | queued | Quill: a finished mark ends it. That is the whole cartridge. |
-| 986 | s3culvertdawn | Reed | queued | You have the culvert. The job is to keep the flares lit until dawn. Anything else is a loss. |
+| 983 | s3culvertmaga | Reed | complete | At the culvert, you make the magazine last longer than the raid. Miss that and the watch is over. |
+| 984 | s3metroslip | Gale | complete | In the metro, you berth in the slip before the tide turns. Missing the end fails the leg. |
+| 985 | s3quillmark | Nock | complete | Quill: a finished mark ends it. That is the whole cartridge. |
+| 986 | s3culvertdawn | Reed | complete | You have the culvert. The job is to keep the flares lit until dawn. Anything else is a loss. |
 | 987 | s3metroboom | Gale | queued | Take the metro and deliver the drive to the boom. The clock is the other crew. |
 | 988 | s3quillgold | Nock | queued | A short quill. You are done when only the gold counts double. |
 | 989 | s3culvertdoor | Reed | queued | One culvert. Hold the door for three minutes. Then it is done. |
