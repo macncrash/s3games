@@ -998,6 +998,10 @@ DESIGN = {
     "s3metroslip": "Berth in the slip before the tide turns. Missing the berth fails the leg.",
     "s3quillmark": "A finished mark ends it. An open stroke is still a miss.",
     "s3culvertdawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3metroboom": "Deliver the drive to the boom ahead of the other crew. Late is a loss.",
+    "s3quillgold": "Only the gold counts double. Cream strokes do not buy the line.",
+    "s3culvertdoor": "Hold the door for three minutes. Dropping it early is not done.",
+    "s3metroplat": "Stop level with the platform. Short or long fails the job.",
 }
 
 
