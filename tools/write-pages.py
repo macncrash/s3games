@@ -870,6 +870,10 @@ DESIGN = {
     "s3pawntape": "The drawer has to match the tape. A near match is still a miss.",
     "s3granaryreli": "Hold until the relief bell. Leaving early ends the watch.",
     "s3railbuoy": "Round the buoys and return to the same dock. Missing the dock fails the leg.",
+    "s3tilemark": "A finished mark ends it. An open tile is still short.",
+    "s3granarycolu": "Stop the column on the road. A column still rolling is a loss.",
+    "s3railbox": "Stop inside the box before the other crew. Outside the box fails the leg.",
+    "s3tilegold": "Only the gold counts double. Cream tiles do not buy the line.",
 }
 
 
