@@ -1,0 +1,466 @@
+#include "game/pace.h"
+
+#include <algorithm>
+#include <cmath>
+#include <string>
+
+namespace trenchpace {
+namespace {
+
+constexpr float kDt = 1.f / 60.f;
+constexpr float kPi = 3.14159265f;
+constexpr float kTau = 6.2831853f;
+constexpr float kCx = 160.f;
+constexpr float kCy = 118.f;
+constexpr float kRx = 108.f;
+constexpr float kRy = 46.f;
+constexpr float kIntro = 0.55f;
+constexpr float kHit = 24.f;
+constexpr float kA0 = 0.40f;
+constexpr float kMark[4] = {kA0, 1.85f, 3.45f, 5.15f};
+
+float lerpf(float a, float b, float u) { return a + (b - a) * u; }
+
+float smooth(float u) {
+    u = std::clamp(u, 0.f, 1.f);
+    return u * u * (3.f - 2.f * u);
+}
+
+float wrap(float a) {
+    while (a > kPi) a -= kTau;
+    while (a < -kPi) a += kTau;
+    return a;
+}
+
+}  // namespace
+
+int Game::marker() const {
+    if (mode_ == Mode::Title) return 0;
+    if (mode_ == Mode::Victory) return 3;
+    if (mode_ == Mode::Over) return 4;
+    if (pace_ >= 3) return 2;
+    return 1;
+}
+
+float Game::holdDur() const { return pace_ >= 3 ? 0.85f : 0.48f; }
+float Game::strideDur() const { return 0.72f; }
+
+void Game::place(float ang, float& x, float& y, float& h) const {
+    float depth = (std::sin(ang) + 1.f) * 0.5f;
+    x = kCx + std::cos(ang) * kRx;
+    y = kCy + std::sin(ang) * kRy;
+    h = 16.f + depth * 26.f;
+}
+
+void Game::resetPose() {
+    pace_ = 0;
+    phase_ = Phase::Intro;
+    phaseT_ = 0.f;
+    ang_ = kA0;
+    fromA_ = toA_ = ang_;
+    step_ = 0.f;
+    shot_ = false;
+    shotPace_ = 0;
+    down_ = false;
+    won_ = false;
+    over_ = false;
+    flash_ = 0.f;
+    shake_ = 0.f;
+    sightA_ = kA0;
+    reason_ = "";
+    fanStep_ = -1;
+    fanT_ = 0.f;
+    blip_ = 0.f;
+    trigWas_ = false;
+    place(ang_, figX_, figY_, figH_);
+    place(sightA_, sightX_, sightY_, figH_);
+}
+
+void Game::beginWatch() {
+    if (sys_) sys_->apu.silence();
+    resetPose();
+    mode_ = Mode::Play;
+}
+
+void Game::beginPace(int n) {
+    pace_ = n;
+    phase_ = Phase::Hold;
+    phaseT_ = 0.f;
+    step_ = 0.f;
+    fromA_ = ang_;
+    toA_ = kMark[n];
+    sys_->apu.noiseBurst(0.18f, n == 3 ? 620.f : 280.f, 0.07f);
+    blip(n == 3 ? 660.f : 160.f + float(n) * 50.f, n == 3 ? 0.07f : 0.03f, n == 3 ? 0.16f : 0.06f);
+}
+
+void Game::init(gs::System& sys) {
+    sys_ = &sys;
+    buildArt(sys.vdp, art_);
+    t_ = 0.f;
+    resetPose();
+    mode_ = Mode::Title;
+    if (bot_) beginWatch();
+}
+
+bool Game::startPressed() const {
+    const gs::Pad& p = sys_->pad;
+    return p.pressed(gs::BTN_START) || p.pressed(gs::BTN_A) || p.pressed(gs::BTN_TURBO);
+}
+
+bool Game::firePressed() {
+    const gs::Pad& p = sys_->pad;
+    bool trig = p.accel > 0.6f;
+    bool edge = trig && !trigWas_;
+    trigWas_ = trig;
+    return edge || p.pressed(gs::BTN_C) || p.pressed(gs::BTN_B) || p.pressed(gs::BTN_X) || p.pressed(gs::BTN_Y) ||
+           p.pressed(gs::BTN_Z);
+}
+
+bool Game::steer() {
+    if (bot_) {
+        float d = wrap(ang_ - sightA_);
+        float maxStep = 4.2f * kDt;
+        if (std::fabs(d) <= maxStep) sightA_ = ang_;
+        else sightA_ += std::copysign(maxStep, d);
+    } else {
+        float dir = 0.f;
+        if (sys_->pad.down(gs::BTN_LEFT)) dir -= 1.f;
+        if (sys_->pad.down(gs::BTN_RIGHT)) dir += 1.f;
+        if (std::fabs(sys_->pad.axisX) > 0.25f) dir = sys_->pad.axisX;
+        sightA_ += dir * 1.7f * kDt;
+    }
+    while (sightA_ < 0.f) sightA_ += kTau;
+    while (sightA_ >= kTau) sightA_ -= kTau;
+    float dummy = 0.f;
+    place(sightA_, sightX_, sightY_, dummy);
+    if (bot_) {
+        bool third = pace_ == 3 && phase_ == Phase::Hold;
+        bool settled = phaseT_ > 0.20f;
+        bool aligned = std::hypot(sightX_ - figX_, sightY_ - figY_) < 12.f;
+        return third && settled && aligned && !shot_;
+    }
+    return firePressed();
+}
+
+void Game::win() {
+    won_ = true;
+    over_ = true;
+    down_ = true;
+    mode_ = Mode::Victory;
+    reason_ = "FIRED ON THE THIRD PACE";
+    fanGood_ = true;
+    fanStep_ = 0;
+    fanT_ = 0.f;
+    sys_->apu.tone(0, 523.f, 0.08f);
+    sys_->apu.noiseBurst(0.4f, 180.f, 0.14f);
+}
+
+void Game::lose(const char* why) {
+    won_ = false;
+    over_ = true;
+    down_ = std::string(why) == "IN";
+    mode_ = Mode::Over;
+    reason_ = why;
+    fanGood_ = false;
+    fanStep_ = 0;
+    fanT_ = 0.f;
+    sys_->apu.tone(0, 110.f, 0.07f);
+}
+
+void Game::resolveShot() {
+    shot_ = true;
+    shotPace_ = pace_;
+    flash_ = 0.16f;
+    flashX_ = sightX_;
+    flashY_ = sightY_;
+    shake_ = 1.f;
+    sys_->apu.noiseBurst(0.5f, 1200.f, 0.14f);
+    if (pace_ != 3) {
+        lose("TOO SOON");
+        return;
+    }
+    if (std::hypot(sightX_ - figX_, sightY_ - figY_) <= kHit) win();
+    else lose("WIDE");
+}
+
+void Game::updatePlay() {
+    t_ += kDt;
+    if (shake_ > 0.f) shake_ = std::max(0.f, shake_ - kDt * 1.6f);
+    if (flash_ > 0.f) flash_ = std::max(0.f, flash_ - kDt);
+
+    phaseT_ += kDt;
+    if (phase_ == Phase::Stride) {
+        float u = smooth(std::min(1.f, phaseT_ / strideDur()));
+        ang_ = lerpf(fromA_, toA_, u);
+        step_ = u;
+    }
+    place(ang_, figX_, figY_, figH_);
+    if (steer() && !shot_) {
+        resolveShot();
+        if (mode_ != Mode::Play) return;
+    }
+
+    float dur = phase_ == Phase::Intro ? kIntro : phase_ == Phase::Hold ? holdDur() : strideDur();
+    if (phaseT_ + 0.0001f < dur) return;
+    if (phase_ == Phase::Intro) {
+        beginPace(1);
+        return;
+    }
+    if (phase_ == Phase::Hold) {
+        phase_ = Phase::Stride;
+        phaseT_ = 0.f;
+        fromA_ = ang_;
+        return;
+    }
+    ang_ = toA_;
+    place(ang_, figX_, figY_, figH_);
+    if (pace_ >= 3) {
+        lose("IN");
+        return;
+    }
+    beginPace(pace_ + 1);
+}
+
+void Game::blip(float freq, float vol, float hold) {
+    sys_->apu.tone(0, freq, vol);
+    blip_ = hold;
+}
+
+void Game::serviceAudio() {
+    if (fanStep_ >= 0) {
+        fanT_ += kDt;
+        if (fanT_ < 0.15f) return;
+        fanT_ = 0.f;
+        static const float good[] = {392.f, 523.f, 659.f, 784.f};
+        static const float bad[] = {164.f, 123.f, 92.f};
+        const float* notes = fanGood_ ? good : bad;
+        int n = fanGood_ ? 4 : 3;
+        if (fanStep_ < n) sys_->apu.tone(0, notes[fanStep_], 0.06f);
+        else sys_->apu.tone(0, 0.f, 0.f);
+        if (++fanStep_ > n + 2) fanStep_ = -1;
+        return;
+    }
+    if (blip_ > 0.f) {
+        blip_ -= kDt;
+        if (blip_ <= 0.f) sys_->apu.tone(0, 0.f, 0.f);
+    }
+}
+
+void Game::frame(gs::System& sys) {
+    sys_ = &sys;
+    if (mode_ != Mode::Play) t_ += kDt;
+    if (mode_ != Mode::Play) {
+        if (flash_ > 0.f) flash_ = std::max(0.f, flash_ - kDt);
+        if (shake_ > 0.f) shake_ = std::max(0.f, shake_ - kDt * 1.6f);
+    }
+
+    if (mode_ == Mode::Title) {
+        if (startPressed()) beginWatch();
+        place(ang_, figX_, figY_, figH_);
+        draw();
+        serviceAudio();
+        return;
+    }
+    if (mode_ == Mode::Pause) {
+        if (!bot_ && sys.pad.pressed(gs::BTN_START)) mode_ = Mode::Play;
+        else if (!bot_ && sys.pad.pressed(gs::BTN_MODE)) {
+            resetPose();
+            mode_ = Mode::Title;
+        }
+        draw();
+        serviceAudio();
+        return;
+    }
+    if (mode_ == Mode::Victory || mode_ == Mode::Over) {
+        if (!bot_ && sys.pad.pressed(gs::BTN_START)) beginWatch();
+        else if (!bot_ && sys.pad.pressed(gs::BTN_MODE)) {
+            resetPose();
+            mode_ = Mode::Title;
+        }
+        draw();
+        serviceAudio();
+        return;
+    }
+
+    if (!bot_ && sys.pad.pressed(gs::BTN_START)) {
+        mode_ = Mode::Pause;
+        draw();
+        serviceAudio();
+        return;
+    }
+    if (!bot_ && sys.pad.pressed(gs::BTN_MODE) && sys.hasHome()) {
+        sys.eject();
+        return;
+    }
+    updatePlay();
+    draw();
+    serviceAudio();
+}
+
+void Game::hud(int col, int row, const std::string& s, int pal) {
+    if (row < 0 || row > 27) return;
+    for (size_t i = 0; i < s.size(); i++) {
+        int x = col + int(i);
+        unsigned char c = static_cast<unsigned char>(s[i]);
+        if (x < 0 || x > 39 || c < 33 || c > 126) continue;
+        sys_->vdp.HUD.set(x, row, gs::entry(art_.font[c - 32], pal));
+    }
+}
+
+void Game::hudC(int row, const std::string& s, int pal) { hud(20 - int(s.size()) / 2, row, s, pal); }
+
+void Game::spr(const gs::Mipped& m, float cx, float cy, float h, int pal, bool flip, bool feet) {
+    if (!(h > 1.5f) || m.h < 1) return;
+    float w = h * float(m.w) / float(m.h);
+    gs::Sprite s;
+    s.w = int16_t(std::clamp(int(std::lround(w)), 1, 2000));
+    s.h = int16_t(std::clamp(int(std::lround(h)), 1, 2000));
+    s.x = int16_t(std::lround(cx - s.w * 0.5f));
+    s.y = int16_t(std::lround(feet ? cy - s.h : cy - s.h * 0.5f));
+    s.img = m.pick(h);
+    s.pal = uint8_t(pal);
+    s.hflip = flip;
+    sys_->vdp.sprite(s);
+}
+
+void Game::text(const std::string& s, float x, float y, float scale, int pal) {
+    float width = 0.f;
+    for (unsigned char c : s) {
+        if (c < 33 || c > 126) width += 12.f * scale;
+        else width += float(art_.glyph[c - 32].w) * scale;
+    }
+    x -= width * 0.5f;
+    for (unsigned char c : s) {
+        if (c < 33 || c > 126) {
+            x += 12.f * scale;
+            continue;
+        }
+        const gs::Mipped& g = art_.glyph[c - 32];
+        float gw = float(g.w) * scale;
+        spr(g, x + gw * 0.5f, y, float(g.h) * scale, pal, false, false);
+        x += gw;
+    }
+}
+
+void Game::draw() {
+    gs::VDP& v = sys_->vdp;
+    v.clearSprites();
+    v.HUD.clear();
+    for (int y = 0; y < gs::SCREEN_H; y++) {
+        v.road[y].on = false;
+        float u = float(y) / float(gs::SCREEN_H);
+        int g = std::clamp(int(2.f + (1.f - u) * 2.f), 0, 15);
+        int b = std::clamp(int(3.f + (1.f - u) * 3.f), 0, 15);
+        v.lineBackdrop[y] = gs::rgb4(1, g, b);
+        v.lineFog[y] = 0;
+    }
+    float shx = 0.f;
+    if (shake_ > 0.f) shx = std::sin(t_ * 40.f) * 2.4f * std::min(shake_, 1.f);
+
+    struct Bit {
+        float y;
+        int kind;
+        int id;
+    };
+    Bit bits[20];
+    int n = 0;
+    bits[n++] = {kCy, 1, 0};
+    for (int i = 0; i < 10; i++) {
+        float a = i * kTau / 10.f;
+        float x, y, h;
+        place(a, x, y, h);
+        bits[n++] = {y, 2, i};
+    }
+    bits[n++] = {figY_, 0, 0};
+    std::sort(bits, bits + n, [](const Bit& a, const Bit& b) { return a.y < b.y; });
+
+    for (int i = 0; i < n; i++) {
+        if (bits[i].kind == 1) {
+            spr(art_.water, kCx + shx, kCy + 6.f, 78.f, PAL_WATER, false, false);
+            spr(art_.rope, kCx + shx, kCy - 8.f, 36.f, PAL_IRON, false, false);
+            float bob = std::sin(t_ * 2.f) * 3.f;
+            spr(art_.bucket, kCx + shx, kCy + 18.f + bob, 16.f, PAL_IRON, false, false);
+            continue;
+        }
+        if (bits[i].kind == 2) {
+            float a = bits[i].id * kTau / 10.f;
+            float x, y, h;
+            place(a, x, y, h);
+            int pal = (bits[i].id % 3 == 0) ? PAL_MOSS : PAL_STONE;
+            spr(art_.block, x + shx, y, 14.f + (y - (kCy - kRy)) * 0.12f, pal, std::cos(a) < 0, true);
+            if (std::fabs(wrap(a - kMark[3])) < 0.25f)
+                spr(art_.lamp, x + shx, y - 16.f, 12.f, pace_ >= 3 ? PAL_LIVE : PAL_AMBER, false, false);
+            continue;
+        }
+        int fr = (phase_ == Phase::Stride && step_ >= 0.5f) ? 1 : 0;
+        if (down_) {
+            spr(art_.sunk, figX_ + shx, figY_ + 6.f, figH_ * 0.45f, PAL_COAT, false, false);
+            spr(art_.splash, figX_ + shx, figY_ + 10.f, 14.f, PAL_FX, false, false);
+        } else {
+            spr(art_.step[fr], figX_ + shx, figY_, figH_, PAL_COAT, std::cos(ang_) > 0.f, true);
+        }
+    }
+
+    const char* banner = "TRENCH";
+    int bannerPal = PAL_AMBER;
+    if (mode_ == Mode::Title) banner = "TRENCH PACE";
+    else if (mode_ == Mode::Victory) {
+        banner = "DONE";
+        bannerPal = PAL_GOOD;
+    } else if (mode_ == Mode::Over) {
+        banner = reason_ && reason_[0] ? reason_ : "LOST";
+        bannerPal = PAL_ALERT;
+    } else if (mode_ == Mode::Pause) banner = "PAUSED";
+    else if (pace_ == 0) banner = "WAIT";
+    else if (pace_ == 1) banner = "ONE";
+    else if (pace_ == 2) banner = "TWO";
+    else {
+        banner = "FIRE";
+        bannerPal = PAL_LIVE;
+    }
+    text(banner, 160.f, 22.f, mode_ == Mode::Title ? 0.72f : 1.0f, bannerPal);
+
+    for (int i = 0; i < 3; i++) {
+        int pal = PAL_IRON;
+        if (pace_ > i) pal = (i == 2) ? PAL_LIVE : PAL_AMBER;
+        float s = (i == 2 && pace_ >= 3) ? 13.f : 8.f;
+        spr(art_.pip, 140.f + float(i) * 20.f, 42.f, s, pal, false, false);
+    }
+
+    if ((mode_ == Mode::Play && !shot_) || flash_ > 0.f) {
+        int beadPal = (pace_ >= 3 && mode_ == Mode::Play) ? PAL_LIVE : PAL_SIGHT;
+        if (mode_ == Mode::Play && !shot_) spr(art_.bead, sightX_ + shx, sightY_, 12.f, beadPal, false, false);
+        if (flash_ > 0.f)
+            spr(art_.flare, flashX_ + shx, flashY_, 16.f + (0.16f - flash_) * 40.f, PAL_FX, false, false);
+    }
+    float gunX = 160.f + (sightX_ - 160.f) * 0.25f;
+    spr(art_.rifle, gunX + shx, 224.f, 48.f, PAL_IRON, false, true);
+
+    if (mode_ == Mode::Title) {
+        hudC(20, "ONE TRENCH", PAL_TEXT);
+        hudC(21, "WAIT UNTIL THE THIRD PACE", PAL_AMBER);
+        hudC(22, "THEN FIRE", PAL_GOOD);
+        hudC(24, "ARROWS AIM    C FIRES", PAL_TEXT);
+        hudC(26, "START", PAL_AMBER);
+    } else if (mode_ == Mode::Pause) {
+        hudC(25, "START RESUMES", PAL_TEXT);
+    } else if (mode_ == Mode::Victory) {
+        hudC(22, "FIRED ON THE THIRD PACE", PAL_GOOD);
+        hudC(23, "IT IS DONE", PAL_TEXT);
+        hudC(26, "START", PAL_TEXT);
+    } else if (mode_ == Mode::Over) {
+        hudC(22, reason_, PAL_ALERT);
+        hudC(23, "THE TRENCH IS NOT DONE", PAL_TEXT);
+        hudC(26, "START RETRIES", PAL_TEXT);
+    } else if (pace_ < 3) {
+        hudC(0, "HOLD", PAL_AMBER);
+        hudC(24, "WAIT UNTIL THE THIRD PACE", PAL_TEXT);
+        hudC(25, "DO NOT FIRE", PAL_ALERT);
+    } else {
+        hudC(0, "THIRD PACE", PAL_GOOD);
+        hudC(24, "FIRE", PAL_GOOD);
+        hudC(25, "BEFORE THE WATER", PAL_TEXT);
+    }
+}
+
+}  // namespace trenchpace
