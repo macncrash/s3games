@@ -966,6 +966,10 @@ DESIGN = {
     "s3maskgold": "Only the gold counts double. Cream cuts do not buy the line.",
     "s3sallydoor": "Hold the door for three minutes. Dropping it early is not done.",
     "s3keelplat": "Stop level with the platform ahead of the other crew. Short or long fails the leg.",
+    "s3maskseven": "First to seven. Six is still short.",
+    "s3sallypouc": "Carry the pouch across on the one sally. Dropping it ends the watch.",
+    "s3keellane": "Stay in the lane for the whole leg. Leaving the lane fails the job.",
+    "s3maskbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
