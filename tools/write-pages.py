@@ -946,6 +946,10 @@ DESIGN = {
     "s3sallycolu": "Stop the column on the road. Letting a wagon through is not done.",
     "s3keelbox": "Stop inside the box. Rolling past the box fails the leg.",
     "s3horngold": "Only the gold counts double. Cream calls do not buy the line.",
+    "s3sallybann": "Bring the banner back to the sally. Dropping it ends the watch.",
+    "s3keellock": "Pass the lock without scraping a gate. A scrape fails the leg.",
+    "s3hornseven": "First to seven. Six is still short.",
+    "s3sallypurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
