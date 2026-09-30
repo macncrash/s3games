@@ -930,6 +930,10 @@ DESIGN = {
     "s3flutegold": "Only the gold counts double. Cream notes do not buy the line.",
     "s3beacondoor": "Hold the door for three minutes. Dropping it early is not done.",
     "s3heliplat": "Stop level with the platform. Short or long fails the leg.",
+    "s3fluteseven": "First to seven. Six is still short.",
+    "s3beaconpouc": "Carry the pouch across under the beacon. Dropping it ends the watch.",
+    "s3helilane": "Stay in the lane for the whole leg. Leaving the lane fails it.",
+    "s3flutebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
 }
 
 
