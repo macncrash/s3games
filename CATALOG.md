@@ -868,10 +868,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 856 | s3pawntape | Nock | complete | Pawn: the drawer has to match the tape. That is the whole cartridge. |
 | 857 | s3granaryreli | Reed | complete | At the granary, you hold until the relief bell. Miss that and the watch is over. |
 | 858 | s3railbuoy | Gale | complete | In the rail, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 859 | s3tilemark | Nock | queued | Play tile until a finished mark ends it. Leave when that is true. |
-| 860 | s3granarycolu | Reed | queued | You have the granary. The job is to stop the column on the road. Anything else is a loss. |
-| 861 | s3railbox | Gale | queued | Take the rail and stop inside the box. The clock is the other crew. |
-| 862 | s3tilegold | Nock | queued | Tile: only the gold counts double. That is the whole cartridge. |
+| 859 | s3tilemark | Nock | complete | Play tile until a finished mark ends it. Leave when that is true. |
+| 860 | s3granarycolu | Reed | complete | You have the granary. The job is to stop the column on the road. Anything else is a loss. |
+| 861 | s3railbox | Gale | complete | Take the rail and stop inside the box. The clock is the other crew. |
+| 862 | s3tilegold | Nock | complete | Tile: only the gold counts double. That is the whole cartridge. |
 | 863 | s3granarybann | Reed | queued | One granary. Bring the banner back. Then it is done. |
 | 864 | s3raillock | Gale | queued | The rail has one job: pass the lock without scraping a gate. |
 | 865 | s3tileseven | Nock | queued | A short tile. You are done when first to seven. |
