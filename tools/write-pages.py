@@ -874,6 +874,10 @@ DESIGN = {
     "s3granarycolu": "Stop the column on the road. A column still rolling is a loss.",
     "s3railbox": "Stop inside the box before the other crew. Outside the box fails the leg.",
     "s3tilegold": "Only the gold counts double. Cream tiles do not buy the line.",
+    "s3granarybann": "Bring the banner home. Stopping short of the granary is not done.",
+    "s3raillock": "Pass the lock without scraping a gate. One scrape fails the job.",
+    "s3tileseven": "First to seven, then leave. Six is still short.",
+    "s3granarypurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
