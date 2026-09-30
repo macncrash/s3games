@@ -862,6 +862,10 @@ DESIGN = {
     "s3foundrypouc": "Carry the pouch across the foundry. Stopping in the middle is not across.",
     "s3buslane": "Stay in the lane for the whole leg. One departure fails it.",
     "s3pawnbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3foundryladd": "Reach the far ladder. Stopping short of it ends the watch.",
+    "s3busmark": "Set the bus on the mark. Close and still off the mark fails the leg.",
+    "s3pawnchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3foundrycler": "Clear the ground before the clock dies. Anything left is a loss.",
 }
 
 
