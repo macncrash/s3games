@@ -842,6 +842,10 @@ DESIGN = {
     "s3buslock": "Pass the lock without scraping a gate. One scrape fails the leg.",
     "s3cueseven": "First to seven, then leave. Six is still short.",
     "s3foundrypurs": "Be the last machine still running. Stalling early ends the watch.",
+    "s3busgrass": "Land on the grass and come to a full stop. Rolling past the grass fails the job.",
+    "s3cuebell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3foundrywell": "Keep the well standing through three waves. A breach is a loss.",
+    "s3buskilo": "Finish the kilometer without touching wheels. One touch fails the leg.",
 }
 
 
