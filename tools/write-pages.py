@@ -834,6 +834,10 @@ DESIGN = {
     "s3scoretape": "The drawer has to match the tape. A near match is still a miss.",
     "s3foundryreli": "Hold until the relief bell. Leaving early ends the watch.",
     "s3busbuoy": "Round the buoys and return to the same dock. Missing the dock fails the job.",
+    "s3cuemark": "A finished mark ends it. An open chalk spot is still short.",
+    "s3foundrycolu": "Stop the column on the road. A column still rolling is a loss.",
+    "s3busbox": "Stop inside the box at the end of the leg. Outside the box fails it.",
+    "s3cuegold": "Only the gold counts double. Cream shots do not buy the line.",
 }
 
 
