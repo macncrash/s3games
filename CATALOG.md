@@ -824,10 +824,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 812 | s3wharfpouc | Reed | complete | You have the wharf. The job is to carry the pouch across. Anything else is a loss. |
 | 813 | s3kartlane | Gale | complete | Take the kart and stay in the lane for the whole leg. The clock is the other crew. |
 | 814 | s3scorebell | Nock | complete | Play score until the bell rings before the third try dies. Leave when that is true. |
-| 815 | s3wharfladd | Reed | queued | One wharf. Reach the far ladder. Then it is done. |
-| 816 | s3kartmark | Gale | queued | The kart has one job: set down on the mark. |
-| 817 | s3scorechime | Nock | queued | Score: the hour has to chime. That is the whole cartridge. |
-| 818 | s3wharfcler | Reed | queued | At the wharf, you clear the ground before the clock dies. Miss that and the watch is over. |
+| 815 | s3wharfladd | Reed | complete | One wharf. Reach the far ladder. Then it is done. |
+| 816 | s3kartmark | Gale | complete | The kart has one job: set down on the mark. |
+| 817 | s3scorechime | Nock | complete | Score: the hour has to chime. That is the whole cartridge. |
+| 818 | s3wharfcler | Reed | complete | At the wharf, you clear the ground before the clock dies. Miss that and the watch is over. |
 | 819 | s3kartturn | Gale | queued | In the kart, you make the three turns without tipping. Missing the end fails the leg. |
 | 820 | s3scoretape | Nock | queued | A short score. You are done when the drawer has to match the tape. |
 | 821 | s3foundryreli | Reed | queued | One foundry. Hold until the relief bell. Then it is done. |
