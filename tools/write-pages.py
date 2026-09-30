@@ -970,6 +970,10 @@ DESIGN = {
     "s3sallypouc": "Carry the pouch across on the one sally. Dropping it ends the watch.",
     "s3keellane": "Stay in the lane for the whole leg. Leaving the lane fails the job.",
     "s3maskbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3sallyladd": "Reach the far ladder. Stopping short of it is a loss.",
+    "s3keelmark": "Set down on the mark. Missing the mark fails the leg.",
+    "s3maskchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3sallycler": "Clear the ground before the clock dies. A late clear is not done.",
 }
 
 
