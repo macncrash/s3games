@@ -800,10 +800,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 788 | s3wharfcolu | Reed | complete | One wharf. Stop the column on the road. Then it is done. |
 | 789 | s3kartbox | Gale | complete | The kart has one job: stop inside the box. |
 | 790 | s3lensgold | Nock | complete | Play lens until only the gold counts double. Leave when that is true. |
-| 791 | s3wharfbann | Reed | queued | At the wharf, you bring the banner back. Miss that and the watch is over. |
-| 792 | s3kartlock | Gale | queued | In the kart, you pass the lock without scraping a gate. Missing the end fails the leg. |
-| 793 | s3lensseven | Nock | queued | Lens: first to seven. That is the whole cartridge. |
-| 794 | s3wharfpurs | Reed | queued | You have the wharf. The job is to be the last machine still running. Anything else is a loss. |
+| 791 | s3wharfbann | Reed | complete | At the wharf, you bring the banner back. Miss that and the watch is over. |
+| 792 | s3kartlock | Gale | complete | In the kart, you pass the lock without scraping a gate. Missing the end fails the leg. |
+| 793 | s3lensseven | Nock | complete | Lens: first to seven. That is the whole cartridge. |
+| 794 | s3wharfpurs | Reed | complete | You have the wharf. The job is to be the last machine still running. Anything else is a loss. |
 | 795 | s3kartgrass | Gale | queued | Take the kart and land on the grass and come to a full stop. The clock is the other crew. |
 | 796 | s3lensbell | Nock | queued | A short lens. You are done when the bell rings before the third try dies. |
 | 797 | s3wharfwell | Reed | queued | One wharf. Keep the well standing through three waves. Then it is done. |
