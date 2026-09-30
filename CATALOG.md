@@ -900,10 +900,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 888 | s3railmark | Gale | complete | Take the rail and set down on the mark. The clock is the other crew. |
 | 889 | s3bellchime | Nock | complete | A short bell. You are done when the hour has to chime. |
 | 890 | s3granarycler | Reed | complete | One granary. Clear the ground before the clock dies. Then it is done. |
-| 891 | s3railturn | Gale | queued | The rail has one job: make the three turns without tipping. |
-| 892 | s3belltape | Nock | queued | Play bell until the drawer has to match the tape. Leave when that is true. |
-| 893 | s3beaconreli | Reed | queued | You have the beacon. The job is to hold until the relief bell. Anything else is a loss. |
-| 894 | s3helibuoy | Gale | queued | Take the heli and round the buoys and return to the same dock. The clock is the other crew. |
+| 891 | s3railturn | Gale | complete | The rail has one job: make the three turns without tipping. |
+| 892 | s3belltape | Nock | complete | Play bell until the drawer has to match the tape. Leave when that is true. |
+| 893 | s3beaconreli | Reed | complete | You have the beacon. The job is to hold until the relief bell. Anything else is a loss. |
+| 894 | s3helibuoy | Gale | complete | Take the heli and round the buoys and return to the same dock. The clock is the other crew. |
 | 895 | s3drummark | Nock | queued | A short drum. You are done when a finished mark ends it. |
 | 896 | s3beaconcolu | Reed | queued | One beacon. Stop the column on the road. Then it is done. |
 | 897 | s3helibox | Gale | queued | The heli has one job: stop inside the box. |
