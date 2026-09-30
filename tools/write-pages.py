@@ -1006,6 +1006,10 @@ DESIGN = {
     "s3culvertpouc": "Carry the pouch across. Dropping it ends the watch.",
     "s3metrolane": "Stay in the lane for the whole leg. Leaving the lane fails it.",
     "s3quillbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3culvertladd": "Reach the far ladder. Stopping short of it is a loss.",
+    "s3metromark": "Set down on the mark ahead of the other crew. Missing the mark fails the leg.",
+    "s3quillchime": "The hour has to chime. Leaving before the chime is a loss.",
+    "s3culvertcler": "Clear the ground before the clock dies. A late clear is not done.",
 }
 
 
