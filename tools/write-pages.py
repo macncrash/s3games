@@ -962,6 +962,10 @@ DESIGN = {
     "s3keelslip": "Berth in the slip before the tide turns. Missing the berth fails the job.",
     "s3maskmark": "A finished mark ends it. An open seal is still a miss.",
     "s3sallydawn": "Keep the flares lit until dawn. A dark flare is a loss.",
+    "s3keelboom": "Deliver the drive to the boom. Missing the boom fails the leg.",
+    "s3maskgold": "Only the gold counts double. Cream cuts do not buy the line.",
+    "s3sallydoor": "Hold the door for three minutes. Dropping it early is not done.",
+    "s3keelplat": "Stop level with the platform ahead of the other crew. Short or long fails the leg.",
 }
 
 
