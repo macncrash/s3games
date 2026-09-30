@@ -1010,6 +1010,8 @@ DESIGN = {
     "s3metromark": "Set down on the mark ahead of the other crew. Missing the mark fails the leg.",
     "s3quillchime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3culvertcler": "Clear the ground before the clock dies. A late clear is not done.",
+    "s3metroturn": "Make the three turns without tipping. One tip fails the job.",
+    "s3quilltape": "The drawer has to match the tape, then you leave. A near match is still a miss.",
 }
 
 
