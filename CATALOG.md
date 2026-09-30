@@ -976,10 +976,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 964 | s3masktape | Nock | complete | Mask: the drawer has to match the tape. That is the whole cartridge. |
 | 965 | s3culvertreli | Reed | complete | At the culvert, you hold until the relief bell. Miss that and the watch is over. |
 | 966 | s3metrobuoy | Gale | complete | In the metro, you round the buoys and return to the same dock. Missing the end fails the leg. |
-| 967 | s3inkwellmark | Nock | queued | Play inkwell until a finished mark ends it. Leave when that is true. |
-| 968 | s3culvertcolu | Reed | queued | You have the culvert. The job is to stop the column on the road. Anything else is a loss. |
-| 969 | s3metrobox | Gale | queued | Take the metro and stop inside the box. The clock is the other crew. |
-| 970 | s3inkwellgold | Nock | queued | Inkwell: only the gold counts double. That is the whole cartridge. |
+| 967 | s3inkwellmark | Nock | complete | Play inkwell until a finished mark ends it. Leave when that is true. |
+| 968 | s3culvertcolu | Reed | complete | You have the culvert. The job is to stop the column on the road. Anything else is a loss. |
+| 969 | s3metrobox | Gale | complete | Take the metro and stop inside the box. The clock is the other crew. |
+| 970 | s3inkwellgold | Nock | complete | Inkwell: only the gold counts double. That is the whole cartridge. |
 | 971 | s3culvertbann | Reed | queued | One culvert. Bring the banner back. Then it is done. |
 | 972 | s3metrolock | Gale | queued | The metro has one job: pass the lock without scraping a gate. |
 | 973 | s3inkwellseven | Nock | queued | A short inkwell. You are done when first to seven. |
