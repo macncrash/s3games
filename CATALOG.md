@@ -920,10 +920,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 908 | s3beaconpace | Reed | complete | At the beacon, you wait until the third pace before you fire. Miss that and the watch is over. |
 | 909 | s3helipass | Gale | complete | In the heli, you clear the pass before the storm clock. Missing the end fails the leg. |
 | 910 | s3drumtape | Nock | complete | Drum: the drawer has to match the tape. That is the whole cartridge. |
-| 911 | s3beaconmaga | Reed | queued | You have the beacon. The job is to make the magazine last longer than the raid. Anything else is a loss. |
-| 912 | s3helislip | Gale | queued | Take the heli and berth in the slip before the tide turns. The clock is the other crew. |
-| 913 | s3flutemark | Nock | queued | Play flute until a finished mark ends it. Leave when that is true. |
-| 914 | s3beacondawn | Reed | queued | One beacon. Keep the flares lit until dawn. Then it is done. |
+| 911 | s3beaconmaga | Reed | complete | You have the beacon. The job is to make the magazine last longer than the raid. Anything else is a loss. |
+| 912 | s3helislip | Gale | complete | Take the heli and berth in the slip before the tide turns. The clock is the other crew. |
+| 913 | s3flutemark | Nock | complete | Play flute until a finished mark ends it. Leave when that is true. |
+| 914 | s3beacondawn | Reed | complete | One beacon. Keep the flares lit until dawn. Then it is done. |
 | 915 | s3heliboom | Gale | queued | The heli has one job: deliver the drive to the boom. |
 | 916 | s3flutegold | Nock | queued | Flute: only the gold counts double. That is the whole cartridge. |
 | 917 | s3beacondoor | Reed | queued | At the beacon, you hold the door for three minutes. Miss that and the watch is over. |
