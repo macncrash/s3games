@@ -848,10 +848,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 836 | s3foundrypace | Reed | complete | You have the foundry. The job is to wait until the third pace before you fire. Anything else is a loss. |
 | 837 | s3buspass | Gale | complete | Take the bus and clear the pass before the storm clock. The clock is the other crew. |
 | 838 | s3cuetape | Nock | complete | Play cue until the drawer has to match the tape. Leave when that is true. |
-| 839 | s3foundrymaga | Reed | queued | One foundry. Make the magazine last longer than the raid. Then it is done. |
-| 840 | s3busslip | Gale | queued | The bus has one job: berth in the slip before the tide turns. |
-| 841 | s3pawnmark | Nock | queued | A short pawn. You are done when a finished mark ends it. |
-| 842 | s3foundrydawn | Reed | queued | At the foundry, you keep the flares lit until dawn. Miss that and the watch is over. |
+| 839 | s3foundrymaga | Reed | complete | One foundry. Make the magazine last longer than the raid. Then it is done. |
+| 840 | s3busslip | Gale | complete | The bus has one job: berth in the slip before the tide turns. |
+| 841 | s3pawnmark | Nock | complete | A short pawn. You are done when a finished mark ends it. |
+| 842 | s3foundrydawn | Reed | complete | At the foundry, you keep the flares lit until dawn. Miss that and the watch is over. |
 | 843 | s3busboom | Gale | queued | In the bus, you deliver the drive to the boom. Missing the end fails the leg. |
 | 844 | s3pawngold | Nock | queued | Play pawn until only the gold counts double. Leave when that is true. |
 | 845 | s3foundrydoor | Reed | queued | You have the foundry. The job is to hold the door for three minutes. Anything else is a loss. |
