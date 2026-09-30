@@ -916,10 +916,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 904 | s3drumbell | Nock | complete | A short drum. You are done when the bell rings before the third try dies. |
 | 905 | s3beaconwell | Reed | complete | One beacon. Keep the well standing through three waves. Then it is done. |
 | 906 | s3helikilo | Gale | complete | The heli has one job: finish the kilometer without touching wheels. |
-| 907 | s3drumchime | Nock | queued | Play drum until the hour has to chime. Leave when that is true. |
-| 908 | s3beaconpace | Reed | queued | At the beacon, you wait until the third pace before you fire. Miss that and the watch is over. |
-| 909 | s3helipass | Gale | queued | In the heli, you clear the pass before the storm clock. Missing the end fails the leg. |
-| 910 | s3drumtape | Nock | queued | Drum: the drawer has to match the tape. That is the whole cartridge. |
+| 907 | s3drumchime | Nock | complete | Play drum until the hour has to chime. Leave when that is true. |
+| 908 | s3beaconpace | Reed | complete | At the beacon, you wait until the third pace before you fire. Miss that and the watch is over. |
+| 909 | s3helipass | Gale | complete | In the heli, you clear the pass before the storm clock. Missing the end fails the leg. |
+| 910 | s3drumtape | Nock | complete | Drum: the drawer has to match the tape. That is the whole cartridge. |
 | 911 | s3beaconmaga | Reed | queued | You have the beacon. The job is to make the magazine last longer than the raid. Anything else is a loss. |
 | 912 | s3helislip | Gale | queued | Take the heli and berth in the slip before the tide turns. The clock is the other crew. |
 | 913 | s3flutemark | Nock | queued | Play flute until a finished mark ends it. Leave when that is true. |
