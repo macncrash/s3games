@@ -884,10 +884,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 872 | s3granarypace | Reed | complete | One granary. Wait until the third pace before you fire. Then it is done. |
 | 873 | s3railpass | Gale | complete | The rail has one job: clear the pass before the storm clock. |
 | 874 | s3tiletape | Nock | complete | A short tile. You are done when the drawer has to match the tape. |
-| 875 | s3granarymaga | Reed | queued | At the granary, you make the magazine last longer than the raid. Miss that and the watch is over. |
-| 876 | s3railslip | Gale | queued | In the rail, you berth in the slip before the tide turns. Missing the end fails the leg. |
-| 877 | s3bellmark | Nock | queued | Bell: a finished mark ends it. That is the whole cartridge. |
-| 878 | s3granarydawn | Reed | queued | You have the granary. The job is to keep the flares lit until dawn. Anything else is a loss. |
+| 875 | s3granarymaga | Reed | complete | At the granary, you make the magazine last longer than the raid. Miss that and the watch is over. |
+| 876 | s3railslip | Gale | complete | In the rail, you berth in the slip before the tide turns. Missing the end fails the leg. |
+| 877 | s3bellmark | Nock | complete | Bell: a finished mark ends it. That is the whole cartridge. |
+| 878 | s3granarydawn | Reed | complete | You have the granary. The job is to keep the flares lit until dawn. Anything else is a loss. |
 | 879 | s3railboom | Gale | queued | Take the rail and deliver the drive to the boom. The clock is the other crew. |
 | 880 | s3bellgold | Nock | queued | A short bell. You are done when only the gold counts double. |
 | 881 | s3granarydoor | Reed | queued | One granary. Hold the door for three minutes. Then it is done. |
