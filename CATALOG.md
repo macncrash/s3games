@@ -972,10 +972,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 960 | s3keelmark | Gale | complete | In the keel, you set down on the mark. Missing the end fails the leg. |
 | 961 | s3maskchime | Nock | complete | Play mask until the hour has to chime. Leave when that is true. |
 | 962 | s3sallycler | Reed | complete | You have the sally. The job is to clear the ground before the clock dies. Anything else is a loss. |
-| 963 | s3keelturn | Gale | queued | Take the keel and make the three turns without tipping. The clock is the other crew. |
-| 964 | s3masktape | Nock | queued | Mask: the drawer has to match the tape. That is the whole cartridge. |
-| 965 | s3culvertreli | Reed | queued | At the culvert, you hold until the relief bell. Miss that and the watch is over. |
-| 966 | s3metrobuoy | Gale | queued | In the metro, you round the buoys and return to the same dock. Missing the end fails the leg. |
+| 963 | s3keelturn | Gale | complete | Take the keel and make the three turns without tipping. The clock is the other crew. |
+| 964 | s3masktape | Nock | complete | Mask: the drawer has to match the tape. That is the whole cartridge. |
+| 965 | s3culvertreli | Reed | complete | At the culvert, you hold until the relief bell. Miss that and the watch is over. |
+| 966 | s3metrobuoy | Gale | complete | In the metro, you round the buoys and return to the same dock. Missing the end fails the leg. |
 | 967 | s3inkwellmark | Nock | queued | Play inkwell until a finished mark ends it. Leave when that is true. |
 | 968 | s3culvertcolu | Reed | queued | You have the culvert. The job is to stop the column on the road. Anything else is a loss. |
 | 969 | s3metrobox | Gale | queued | Take the metro and stop inside the box. The clock is the other crew. |
