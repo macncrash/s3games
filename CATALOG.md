@@ -952,10 +952,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 940 | s3hornbell | Nock | complete | Horn: the bell rings before the third try dies. That is the whole cartridge. |
 | 941 | s3sallywell | Reed | complete | At the sally, you keep the well standing through three waves. Miss that and the watch is over. |
 | 942 | s3keelkilo | Gale | complete | In the keel, you finish the kilometer without touching wheels. Missing the end fails the leg. |
-| 943 | s3hornchime | Nock | queued | A short horn. You are done when the hour has to chime. |
-| 944 | s3sallypace | Reed | queued | You have the sally. The job is to wait until the third pace before you fire. Anything else is a loss. |
-| 945 | s3keelpass | Gale | queued | Take the keel and clear the pass before the storm clock. The clock is the other crew. |
-| 946 | s3horntape | Nock | queued | Play horn until the drawer has to match the tape. Leave when that is true. |
+| 943 | s3hornchime | Nock | complete | A short horn. You are done when the hour has to chime. |
+| 944 | s3sallypace | Reed | complete | You have the sally. The job is to wait until the third pace before you fire. Anything else is a loss. |
+| 945 | s3keelpass | Gale | complete | Take the keel and clear the pass before the storm clock. The clock is the other crew. |
+| 946 | s3horntape | Nock | complete | Play horn until the drawer has to match the tape. Leave when that is true. |
 | 947 | s3sallymaga | Reed | queued | One sally. Make the magazine last longer than the raid. Then it is done. |
 | 948 | s3keelslip | Gale | queued | The keel has one job: berth in the slip before the tide turns. |
 | 949 | s3maskmark | Nock | queued | A short mask. You are done when a finished mark ends it. |
