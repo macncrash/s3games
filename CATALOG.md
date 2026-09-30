@@ -776,10 +776,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 764 | s3trenchpace | Reed | complete | One trench. Wait until the third pace before you fire. Then it is done. |
 | 765 | s3bikepass | Gale | complete | The bike has one job: clear the pass before the storm clock. |
 | 766 | s3kilntape | Nock | complete | A short kiln. You are done when the drawer has to match the tape. |
-| 767 | s3trenchmaga | Reed | queued | At the trench, you make the magazine last longer than the raid. Miss that and the watch is over. |
-| 768 | s3bikeslip | Gale | queued | In the bike, you berth in the slip before the tide turns. Missing the end fails the leg. |
-| 769 | s3pressmark | Nock | queued | Press: a finished mark ends it. That is the whole cartridge. |
-| 770 | s3trenchdawn | Reed | queued | You have the trench. The job is to keep the flares lit until dawn. Anything else is a loss. |
+| 767 | s3trenchmaga | Reed | complete | At the trench, you make the magazine last longer than the raid. Miss that and the watch is over. |
+| 768 | s3bikeslip | Gale | complete | In the bike, you berth in the slip before the tide turns. Missing the end fails the leg. |
+| 769 | s3pressmark | Nock | complete | Press: a finished mark ends it. That is the whole cartridge. |
+| 770 | s3trenchdawn | Reed | complete | You have the trench. The job is to keep the flares lit until dawn. Anything else is a loss. |
 | 771 | s3bikeboom | Gale | queued | Take the bike and deliver the drive to the boom. The clock is the other crew. |
 | 772 | s3pressgold | Nock | queued | A short press. You are done when only the gold counts double. |
 | 773 | s3trenchdoor | Reed | queued | One trench. Hold the door for three minutes. Then it is done. |
