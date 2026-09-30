@@ -832,10 +832,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 820 | s3scoretape | Nock | complete | A short score. You are done when the drawer has to match the tape. |
 | 821 | s3foundryreli | Reed | complete | One foundry. Hold until the relief bell. Then it is done. |
 | 822 | s3busbuoy | Gale | complete | The bus has one job: round the buoys and return to the same dock. |
-| 823 | s3cuemark | Nock | queued | Cue: a finished mark ends it. That is the whole cartridge. |
-| 824 | s3foundrycolu | Reed | queued | At the foundry, you stop the column on the road. Miss that and the watch is over. |
-| 825 | s3busbox | Gale | queued | In the bus, you stop inside the box. Missing the end fails the leg. |
-| 826 | s3cuegold | Nock | queued | A short cue. You are done when only the gold counts double. |
+| 823 | s3cuemark | Nock | complete | Cue: a finished mark ends it. That is the whole cartridge. |
+| 824 | s3foundrycolu | Reed | complete | At the foundry, you stop the column on the road. Miss that and the watch is over. |
+| 825 | s3busbox | Gale | complete | In the bus, you stop inside the box. Missing the end fails the leg. |
+| 826 | s3cuegold | Nock | complete | A short cue. You are done when only the gold counts double. |
 | 827 | s3foundrybann | Reed | queued | You have the foundry. The job is to bring the banner back. Anything else is a loss. |
 | 828 | s3buslock | Gale | queued | Take the bus and pass the lock without scraping a gate. The clock is the other crew. |
 | 829 | s3cueseven | Nock | queued | Play cue until first to seven. Leave when that is true. |
