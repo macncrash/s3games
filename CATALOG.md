@@ -968,10 +968,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 956 | s3sallypouc | Reed | complete | One sally. Carry the pouch across. Then it is done. |
 | 957 | s3keellane | Gale | complete | The keel has one job: stay in the lane for the whole leg. |
 | 958 | s3maskbell | Nock | complete | A short mask. You are done when the bell rings before the third try dies. |
-| 959 | s3sallyladd | Reed | queued | At the sally, you reach the far ladder. Miss that and the watch is over. |
-| 960 | s3keelmark | Gale | queued | In the keel, you set down on the mark. Missing the end fails the leg. |
-| 961 | s3maskchime | Nock | queued | Play mask until the hour has to chime. Leave when that is true. |
-| 962 | s3sallycler | Reed | queued | You have the sally. The job is to clear the ground before the clock dies. Anything else is a loss. |
+| 959 | s3sallyladd | Reed | complete | At the sally, you reach the far ladder. Miss that and the watch is over. |
+| 960 | s3keelmark | Gale | complete | In the keel, you set down on the mark. Missing the end fails the leg. |
+| 961 | s3maskchime | Nock | complete | Play mask until the hour has to chime. Leave when that is true. |
+| 962 | s3sallycler | Reed | complete | You have the sally. The job is to clear the ground before the clock dies. Anything else is a loss. |
 | 963 | s3keelturn | Gale | queued | Take the keel and make the three turns without tipping. The clock is the other crew. |
 | 964 | s3masktape | Nock | queued | Mask: the drawer has to match the tape. That is the whole cartridge. |
 | 965 | s3culvertreli | Reed | queued | At the culvert, you hold until the relief bell. Miss that and the watch is over. |
