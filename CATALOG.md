@@ -788,10 +788,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 776 | s3trenchpouc | Reed | complete | At the trench, you carry the pouch across. Miss that and the watch is over. |
 | 777 | s3bikelane | Gale | complete | In the bike, you stay in the lane for the whole leg. Missing the end fails the leg. |
 | 778 | s3pressbell | Nock | complete | Press: the bell rings before the third try dies. That is the whole cartridge. |
-| 779 | s3trenchladd | Reed | queued | You have the trench. The job is to reach the far ladder. Anything else is a loss. |
-| 780 | s3bikemark | Gale | queued | Take the bike and set down on the mark. The clock is the other crew. |
-| 781 | s3presschime | Nock | queued | A short press. You are done when the hour has to chime. |
-| 782 | s3trenchcler | Reed | queued | One trench. Clear the ground before the clock dies. Then it is done. |
+| 779 | s3trenchladd | Reed | complete | You have the trench. The job is to reach the far ladder. Anything else is a loss. |
+| 780 | s3bikemark | Gale | complete | Take the bike and set down on the mark. The clock is the other crew. |
+| 781 | s3presschime | Nock | complete | A short press. You are done when the hour has to chime. |
+| 782 | s3trenchcler | Reed | complete | One trench. Clear the ground before the clock dies. Then it is done. |
 | 783 | s3biketurn | Gale | queued | The bike has one job: make the three turns without tipping. |
 | 784 | s3presstape | Nock | queued | Play press until the drawer has to match the tape. Leave when that is true. |
 | 785 | s3wharfreli | Reed | queued | You have the wharf. The job is to hold until the relief bell. Anything else is a loss. |
