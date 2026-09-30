@@ -950,6 +950,10 @@ DESIGN = {
     "s3keellock": "Pass the lock without scraping a gate. A scrape fails the leg.",
     "s3hornseven": "First to seven. Six is still short.",
     "s3sallypurs": "Be the last machine still running. Stalling early ends the watch.",
+    "s3keelgrass": "Land on the grass and come to a full stop. Rolling past the grass fails the job.",
+    "s3hornbell": "The bell rings only on a clean try, and it has to ring before the third try dies.",
+    "s3sallywell": "Keep the well standing through three waves. A fallen well is a loss.",
+    "s3keelkilo": "Finish the kilometer without touching wheels. One touch fails the leg.",
 }
 
 
