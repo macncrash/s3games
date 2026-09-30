@@ -768,10 +768,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 756 | s3bikelock | Gale | complete | The bike has one job: pass the lock without scraping a gate. |
 | 757 | s3kilnseven | Nock | complete | A short kiln. You are done when first to seven. |
 | 758 | s3trenchpurs | Reed | complete | At the trench, you be the last machine still running. Miss that and the watch is over. |
-| 759 | s3bikegrass | Gale | queued | In the bike, you land on the grass and come to a full stop. Missing the end fails the leg. |
-| 760 | s3kilnbell | Nock | queued | Play kiln until the bell rings before the third try dies. Leave when that is true. |
-| 761 | s3trenchwell | Reed | queued | You have the trench. The job is to keep the well standing through three waves. Anything else is a loss. |
-| 762 | s3bikekilo | Gale | queued | Take the bike and finish the kilometer without touching wheels. The clock is the other crew. |
+| 759 | s3bikegrass | Gale | complete | In the bike, you land on the grass and come to a full stop. Missing the end fails the leg. |
+| 760 | s3kilnbell | Nock | complete | Play kiln until the bell rings before the third try dies. Leave when that is true. |
+| 761 | s3trenchwell | Reed | complete | You have the trench. The job is to keep the well standing through three waves. Anything else is a loss. |
+| 762 | s3bikekilo | Gale | complete | Take the bike and finish the kilometer without touching wheels. The clock is the other crew. |
 | 763 | s3kilnchime | Nock | queued | Kiln: the hour has to chime. That is the whole cartridge. |
 | 764 | s3trenchpace | Reed | queued | One trench. Wait until the third pace before you fire. Then it is done. |
 | 765 | s3bikepass | Gale | queued | The bike has one job: clear the pass before the storm clock. |
