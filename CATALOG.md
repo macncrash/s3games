@@ -940,10 +940,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 928 | s3flutetape | Nock | complete | A short flute. You are done when the drawer has to match the tape. |
 | 929 | s3sallyreli | Reed | complete | One sally. Hold until the relief bell. Then it is done. |
 | 930 | s3keelbuoy | Gale | complete | The keel has one job: round the buoys and return to the same dock. |
-| 931 | s3hornmark | Nock | queued | Horn: a finished mark ends it. That is the whole cartridge. |
-| 932 | s3sallycolu | Reed | queued | At the sally, you stop the column on the road. Miss that and the watch is over. |
-| 933 | s3keelbox | Gale | queued | In the keel, you stop inside the box. Missing the end fails the leg. |
-| 934 | s3horngold | Nock | queued | A short horn. You are done when only the gold counts double. |
+| 931 | s3hornmark | Nock | complete | Horn: a finished mark ends it. That is the whole cartridge. |
+| 932 | s3sallycolu | Reed | complete | At the sally, you stop the column on the road. Miss that and the watch is over. |
+| 933 | s3keelbox | Gale | complete | In the keel, you stop inside the box. Missing the end fails the leg. |
+| 934 | s3horngold | Nock | complete | A short horn. You are done when only the gold counts double. |
 | 935 | s3sallybann | Reed | queued | You have the sally. The job is to bring the banner back. Anything else is a loss. |
 | 936 | s3keellock | Gale | queued | Take the keel and pass the lock without scraping a gate. The clock is the other crew. |
 | 937 | s3hornseven | Nock | queued | Play horn until first to seven. Leave when that is true. |
