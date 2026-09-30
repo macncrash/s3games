@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>S3 BEACON POUC</title>
+<style>
+  :root { --bg: #070b14; --line: #243044; --ink: #e7eef8; --dim: #93a4bd; --sun: #f0c14a; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); font: 14px/1.5 ui-monospace, Menlo, monospace; }
+  body { display: flex; flex-direction: column; align-items: center; gap: 14px; padding: 16px; }
+  .screen { position: relative; width: min(100%, calc((100vh - 120px) * 4 / 3), 1280px); aspect-ratio: 4 / 3; background: #000;
+    border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  canvas { display: block; width: 100% !important; height: 100% !important; outline: none; image-rendering: pixelated; }
+  .overlay { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;
+    background: rgba(0,0,0,.78); cursor: pointer; text-align: center; }
+  .overlay b { font-size: 26px; letter-spacing: 6px; color: var(--sun); }
+  .overlay span { color: var(--dim); }
+  .keys { color: var(--dim); text-align: center; max-width: 960px; }
+  kbd { background: #1b2433; border: 1px solid #33445f; border-bottom-width: 2px; border-radius: 4px; padding: 0 5px; color: var(--ink); }
+</style>
+</head>
+<body>
+<div class="screen">
+  <canvas id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+  <div class="overlay" id="overlay"><b>S3 BEACON POUC</b><span>click or press a key</span></div>
+</div>
+<p class="keys">Arrows move. <kbd>Z</kbd> jumps. <kbd>X</kbd> or down shields the beacon. Carry the pouch across. Anything else is a loss.</p>
+<script>
+var Module = {
+  canvas: document.getElementById('canvas'),
+  print: function () {},
+  printErr: function () {}
+};
+document.getElementById('overlay').addEventListener('click', function () {
+  document.getElementById('overlay').style.display = 'none';
+  document.getElementById('canvas').focus();
+});
+</script>
+{{{ SCRIPT }}}
+</body>
+</html>
