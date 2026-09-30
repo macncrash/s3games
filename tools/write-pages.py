@@ -974,6 +974,10 @@ DESIGN = {
     "s3keelmark": "Set down on the mark. Missing the mark fails the leg.",
     "s3maskchime": "The hour has to chime. Leaving before the chime is a loss.",
     "s3sallycler": "Clear the ground before the clock dies. A late clear is not done.",
+    "s3keelturn": "Make the three turns without tipping, ahead of the other crew. One tip fails the leg.",
+    "s3masktape": "The drawer has to match the tape. A near match is still a miss.",
+    "s3culvertreli": "Hold until the relief bell. Leaving early is a loss.",
+    "s3metrobuoy": "Round the buoys and return to the same dock. Missing the dock fails the leg.",
 }
 
 
