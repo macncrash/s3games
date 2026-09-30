@@ -820,10 +820,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 808 | s3scoregold | Nock | complete | Score: only the gold counts double. That is the whole cartridge. |
 | 809 | s3wharfdoor | Reed | complete | At the wharf, you hold the door for three minutes. Miss that and the watch is over. |
 | 810 | s3kartplat | Gale | complete | In the kart, you stop level with the platform. Missing the end fails the leg. |
-| 811 | s3scoreseven | Nock | queued | A short score. You are done when first to seven. |
-| 812 | s3wharfpouc | Reed | queued | You have the wharf. The job is to carry the pouch across. Anything else is a loss. |
-| 813 | s3kartlane | Gale | queued | Take the kart and stay in the lane for the whole leg. The clock is the other crew. |
-| 814 | s3scorebell | Nock | queued | Play score until the bell rings before the third try dies. Leave when that is true. |
+| 811 | s3scoreseven | Nock | complete | A short score. You are done when first to seven. |
+| 812 | s3wharfpouc | Reed | complete | You have the wharf. The job is to carry the pouch across. Anything else is a loss. |
+| 813 | s3kartlane | Gale | complete | Take the kart and stay in the lane for the whole leg. The clock is the other crew. |
+| 814 | s3scorebell | Nock | complete | Play score until the bell rings before the third try dies. Leave when that is true. |
 | 815 | s3wharfladd | Reed | queued | One wharf. Reach the far ladder. Then it is done. |
 | 816 | s3kartmark | Gale | queued | The kart has one job: set down on the mark. |
 | 817 | s3scorechime | Nock | queued | Score: the hour has to chime. That is the whole cartridge. |
