@@ -892,10 +892,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 880 | s3bellgold | Nock | complete | A short bell. You are done when only the gold counts double. |
 | 881 | s3granarydoor | Reed | complete | One granary. Hold the door for three minutes. Then it is done. |
 | 882 | s3railplat | Gale | complete | The rail has one job: stop level with the platform. |
-| 883 | s3bellseven | Nock | queued | Play bell until first to seven. Leave when that is true. |
-| 884 | s3granarypouc | Reed | queued | At the granary, you carry the pouch across. Miss that and the watch is over. |
-| 885 | s3raillane | Gale | queued | In the rail, you stay in the lane for the whole leg. Missing the end fails the leg. |
-| 886 | s3bellbell | Nock | queued | Bell: the bell rings before the third try dies. That is the whole cartridge. |
+| 883 | s3bellseven | Nock | complete | Play bell until first to seven. Leave when that is true. |
+| 884 | s3granarypouc | Reed | complete | At the granary, you carry the pouch across. Miss that and the watch is over. |
+| 885 | s3raillane | Gale | complete | In the rail, you stay in the lane for the whole leg. Missing the end fails the leg. |
+| 886 | s3bellbell | Nock | complete | Bell: the bell rings before the third try dies. That is the whole cartridge. |
 | 887 | s3granaryladd | Reed | queued | You have the granary. The job is to reach the far ladder. Anything else is a loss. |
 | 888 | s3railmark | Gale | queued | Take the rail and set down on the mark. The clock is the other crew. |
 | 889 | s3bellchime | Nock | queued | A short bell. You are done when the hour has to chime. |
