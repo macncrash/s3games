@@ -922,6 +922,10 @@ DESIGN = {
     "s3beaconpace": "Fire on the third pace. An early shot is not done.",
     "s3helipass": "Clear the pass before the storm clock. Late is a loss.",
     "s3drumtape": "The drawer has to match the tape, then you leave. A near match is still a miss.",
+    "s3beaconmaga": "The magazine has to outlast the raid. Running dry first ends the watch.",
+    "s3helislip": "Berth in the slip before the tide turns. Missing the berth fails the leg.",
+    "s3flutemark": "A finished mark ends it. A missed note is still open.",
+    "s3beacondawn": "Keep the flares lit until dawn. A dark flare is a loss.",
 }
 
 
