@@ -904,10 +904,10 @@ GIGaBOY is an open request, not a row in the thousand. The brief is `requests/s3
 | 892 | s3belltape | Nock | complete | Play bell until the drawer has to match the tape. Leave when that is true. |
 | 893 | s3beaconreli | Reed | complete | You have the beacon. The job is to hold until the relief bell. Anything else is a loss. |
 | 894 | s3helibuoy | Gale | complete | Take the heli and round the buoys and return to the same dock. The clock is the other crew. |
-| 895 | s3drummark | Nock | queued | A short drum. You are done when a finished mark ends it. |
-| 896 | s3beaconcolu | Reed | queued | One beacon. Stop the column on the road. Then it is done. |
-| 897 | s3helibox | Gale | queued | The heli has one job: stop inside the box. |
-| 898 | s3drumgold | Nock | queued | Play drum until only the gold counts double. Leave when that is true. |
+| 895 | s3drummark | Nock | complete | A short drum. You are done when a finished mark ends it. |
+| 896 | s3beaconcolu | Reed | complete | One beacon. Stop the column on the road. Then it is done. |
+| 897 | s3helibox | Gale | complete | The heli has one job: stop inside the box. |
+| 898 | s3drumgold | Nock | complete | Play drum until only the gold counts double. Leave when that is true. |
 | 899 | s3beaconbann | Reed | queued | At the beacon, you bring the banner back. Miss that and the watch is over. |
 | 900 | s3helilock | Gale | queued | In the heli, you pass the lock without scraping a gate. Missing the end fails the leg. |
 | 901 | s3drumseven | Nock | queued | Drum: first to seven. That is the whole cartridge. |
