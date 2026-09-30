@@ -982,6 +982,10 @@ DESIGN = {
     "s3culvertcolu": "Stop the column on the road. Letting a truck through is not done.",
     "s3metrobox": "Stop inside the box ahead of the other crew. Rolling past the box fails the leg.",
     "s3inkwellgold": "Only the gold counts double. Cream strokes do not buy the line.",
+    "s3culvertbann": "Bring the banner back through the culvert. Dropping it ends the watch.",
+    "s3metrolock": "Pass the lock without scraping a gate. A scrape fails the job.",
+    "s3inkwellseven": "First to seven. Six is still short.",
+    "s3culvertpurs": "Be the last machine still running. Stalling early ends the watch.",
 }
 
 
